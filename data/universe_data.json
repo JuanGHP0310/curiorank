@@ -1,0 +1,1502 @@
+[
+  {
+    "name": "Bacterias en la Tierra",
+    "value": 5e+30,
+    "about": "Un recuento estimado de bacterias en todo el planeta."
+  },
+  {
+    "name": "Virus en la Tierra",
+    "value": 1e+31,
+    "about": "Estimación del número total de partículas víricas."
+  },
+  {
+    "name": "Hormigas en la Tierra",
+    "value": 2e+16,
+    "about": "Estimación global de población de hormigas."
+  },
+  {
+    "name": "Árboles en la Tierra",
+    "value": 3000000000000.0,
+    "about": "Estimación de árboles a nivel mundial."
+  },
+  {
+    "name": "Humanos",
+    "value": 8100000000.0,
+    "about": "Población humana aproximada en 2025."
+  },
+  {
+    "name": "Perros domésticos",
+    "value": 900000000.0,
+    "about": "Estimación global de perros de compañía y callejeros."
+  },
+  {
+    "name": "Gatos domésticos",
+    "value": 1000000000.0,
+    "about": "Estimación global de gatos domésticos y ferales."
+  },
+  {
+    "name": "Pollos",
+    "value": 33000000000.0,
+    "about": "Aproximación de población global de gallinas/pollos."
+  },
+  {
+    "name": "Vacas",
+    "value": 1600000000.0,
+    "about": "Población global de bovinos."
+  },
+  {
+    "name": "Ovejas",
+    "value": 1200000000.0,
+    "about": "Población global de ovejas."
+  },
+  {
+    "name": "Cerdos",
+    "value": 1000000000.0,
+    "about": "Población global de cerdos."
+  },
+  {
+    "name": "Peces en el océano",
+    "value": 30000000000000.0,
+    "about": "Orden de magnitud, muy variable por especie."
+  },
+  {
+    "name": "Aves silvestres",
+    "value": 500000000000.0,
+    "about": "Estimación global de aves."
+  },
+  {
+    "name": "Insectos",
+    "value": 1e+19,
+    "about": "Orden de magnitud estimado para insectos."
+  },
+  {
+    "name": "Plantas con flor (especies)",
+    "value": 350000.0,
+    "about": "Número estimado de especies de angiospermas."
+  },
+  {
+    "name": "Hongos (especies)",
+    "value": 2200000.0,
+    "about": "Estimación amplia de especies de hongos (descritas y no)."
+  },
+  {
+    "name": "Bacterias (especies)",
+    "value": 10000000.0,
+    "about": "Orden de magnitud de especies bacterianas."
+  },
+  {
+    "name": "Fitoplancton (células)",
+    "value": 1e+27,
+    "about": "Orden de magnitud de células de fitoplancton en océanos."
+  },
+  {
+    "name": "Zooplancton (organismos)",
+    "value": 1e+25,
+    "about": "Orden de magnitud global."
+  },
+  {
+    "name": "Glóbulos rojos por humano",
+    "value": 25000000000000.0,
+    "about": "Recuento típico total en un adulto."
+  },
+  {
+    "name": "Células en un cuerpo humano",
+    "value": 37000000000000.0,
+    "about": "Estimación típica."
+  },
+  {
+    "name": "Neuronas en un cerebro humano",
+    "value": 86000000000.0,
+    "about": "Estimación media actual."
+  },
+  {
+    "name": "Sinapsis en un cerebro humano",
+    "value": 100000000000000.0,
+    "about": "Orden de magnitud."
+  },
+  {
+    "name": "Bacterias en el intestino humano",
+    "value": 38000000000000.0,
+    "about": "Orden de magnitud."
+  },
+  {
+    "name": "Capilares en el cuerpo humano",
+    "value": 10000000000.0,
+    "about": "Orden de magnitud."
+  },
+  {
+    "name": "Estrellas en la Vía Láctea",
+    "value": 100000000000.0,
+    "about": "Orden de magnitud de estrellas en nuestra galaxia."
+  },
+  {
+    "name": "Estrellas en el universo observable",
+    "value": 1e+22,
+    "about": "Orden de magnitud de estrellas en el universo observable."
+  },
+  {
+    "name": "Galaxias en el universo observable",
+    "value": 200000000000.0,
+    "about": "Orden de magnitud de galaxias."
+  },
+  {
+    "name": "Planetas en la Vía Láctea",
+    "value": 1000000000000.0,
+    "about": "Estimación de planetas en nuestra galaxia."
+  },
+  {
+    "name": "Cometas en la Nube de Oort",
+    "value": 1000000000000.0,
+    "about": "Orden de magnitud de cuerpos tipo cometa."
+  },
+  {
+    "name": "Asteroides (>1 km) en el cinturón",
+    "value": 1000000.0,
+    "about": "Asteroides de más de 1 km."
+  },
+  {
+    "name": "Granos de polvo en la Vía Láctea",
+    "value": 1e+52,
+    "about": "Orden de magnitud extremadamente alto."
+  },
+  {
+    "name": "Neutrinos solares que atraviesan tu uña cada segundo",
+    "value": 60000000000.0,
+    "about": "Aproximación lúdica."
+  },
+  {
+    "name": "Fotones emitidos por el Sol cada segundo",
+    "value": 1e+45,
+    "about": "Magnitud aproximada."
+  },
+  {
+    "name": "Átomos en el Sol",
+    "value": 1e+57,
+    "about": "Orden de magnitud aproximado."
+  },
+  {
+    "name": "Átomos en la Tierra",
+    "value": 1e+50,
+    "about": "Orden de magnitud aproximado."
+  },
+  {
+    "name": "Protones en 1 litro de agua",
+    "value": 6.7e+25,
+    "about": "Aproximación (2 átomos de H por molécula)."
+  },
+  {
+    "name": "Moléculas en 1 litro de aire",
+    "value": 2.5e+25,
+    "about": "Aproximación a condiciones estándar."
+  },
+  {
+    "name": "Estrellas de neutrones en la Vía Láctea",
+    "value": 100000000.0,
+    "about": "Orden de magnitud."
+  },
+  {
+    "name": "Agujeros negros estelares en la Vía Láctea",
+    "value": 100000000.0,
+    "about": "Orden de magnitud."
+  },
+  {
+    "name": "Fotones CMB por m³",
+    "value": 400000000.0,
+    "about": "Densidad del fondo cósmico de microondas aproximada."
+  },
+  {
+    "name": "Átomos en 1 kg de hierro",
+    "value": 1.1e+25,
+    "about": "Orden de magnitud."
+  },
+  {
+    "name": "Átomos en 1 kg de carbono",
+    "value": 5e+25,
+    "about": "Orden de magnitud."
+  },
+  {
+    "name": "Moléculas en 1 mol",
+    "value": 6.022e+23,
+    "about": "Número de Avogadro."
+  },
+  {
+    "name": "Bits en 1 TB",
+    "value": 8000000000000.0,
+    "about": "1 terabyte ~ 8×10^12 bits (decimal)."
+  },
+  {
+    "name": "Granos de sal en 1 kg",
+    "value": 3e+25,
+    "about": "Orden de magnitud (depende del tamaño del grano)."
+  },
+  {
+    "name": "Granos de arena en una playa grande",
+    "value": 1e+18,
+    "about": "Muy variable; ejemplo icónico."
+  },
+  {
+    "name": "Gotas en 1 litro de agua",
+    "value": 20000.0,
+    "about": "Asumiendo 0,05 ml por gota (~20.000)."
+  },
+  {
+    "name": "Litros de agua en los océanos",
+    "value": 1.332e+21,
+    "about": "Volumen de los océanos terrestres en litros."
+  },
+  {
+    "name": "Granos de arena en todas las playas",
+    "value": 7.5e+18,
+    "about": "Estimación muy aproximada."
+  },
+  {
+    "name": "Toneladas de CO₂ emitidas por humanos/año",
+    "value": 36000000000.0,
+    "about": "Orden de magnitud 36 Gt/año."
+  },
+  {
+    "name": "Vehículos en el mundo",
+    "value": 1500000000.0,
+    "about": "Vehículos en circulación (aprox.)."
+  },
+  {
+    "name": "Smartphones en uso",
+    "value": 6500000000.0,
+    "about": "Teléfonos inteligentes activos."
+  },
+  {
+    "name": "Ordenadores personales en uso",
+    "value": 2000000000.0,
+    "about": "PCs en uso (aprox.)."
+  },
+  {
+    "name": "Conexiones a Internet (dispositivos)",
+    "value": 15000000000.0,
+    "about": "IoT + móviles + PCs."
+  },
+  {
+    "name": "Páginas web activas",
+    "value": 2000000000.0,
+    "about": "Muy variable; orden de magnitud."
+  },
+  {
+    "name": "Cuevas en la Tierra",
+    "value": 1000000.0,
+    "about": "Estimación gruesa."
+  },
+  {
+    "name": "Montañas (>1500 m prominencia)",
+    "value": 1000.0,
+    "about": "Cumbres ultra prominentes."
+  },
+  {
+    "name": "Islas en el mundo",
+    "value": 900000.0,
+    "about": "Estimaciones recientes."
+  },
+  {
+    "name": "Lagos (>0,1 km²)",
+    "value": 1000000.0,
+    "about": "Estimación de lagos significativos."
+  },
+  {
+    "name": "Ríos",
+    "value": 1500000.0,
+    "about": "Tramos clasificados como ríos."
+  },
+  {
+    "name": "Ciudades",
+    "value": 100000.0,
+    "about": "Asentamientos urbanos significativos."
+  },
+  {
+    "name": "Idiomas (vivos)",
+    "value": 7000.0,
+    "about": "Idiomas vivos, ~7000."
+  },
+  {
+    "name": "Especies descritas (todas)",
+    "value": 2200000.0,
+    "about": "Aprox. especies descritas por la ciencia."
+  },
+  {
+    "name": "Vídeos en YouTube",
+    "value": 1000000000000.0,
+    "about": "Orden de magnitud, cambia rápido."
+  },
+  {
+    "name": "Usuarios de YouTube",
+    "value": 2700000000.0,
+    "about": "Usuarios activos mensuales."
+  },
+  {
+    "name": "Usuarios de TikTok",
+    "value": 1700000000.0,
+    "about": "Usuarios activos mensuales."
+  },
+  {
+    "name": "Usuarios de Instagram",
+    "value": 2500000000.0,
+    "about": "Usuarios activos mensuales."
+  },
+  {
+    "name": "Tweets publicados por día",
+    "value": 500000000.0,
+    "about": "Orden de magnitud histórico."
+  },
+  {
+    "name": "Correos enviados por día",
+    "value": 300000000000.0,
+    "about": "Orden de magnitud global."
+  },
+  {
+    "name": "Mensajes de WhatsApp por día",
+    "value": 100000000000.0,
+    "about": "Orden de magnitud."
+  },
+  {
+    "name": "Búsquedas de Google por día",
+    "value": 90000000000.0,
+    "about": "Aprox. 90 mil millones/día."
+  },
+  {
+    "name": "Apps en Google Play",
+    "value": 3000000.0,
+    "about": "Número aproximado."
+  },
+  {
+    "name": "Apps en App Store",
+    "value": 2000000.0,
+    "about": "Número aproximado."
+  },
+  {
+    "name": "Repositorios en GitHub",
+    "value": 400000000.0,
+    "about": "Repositorios acumulados."
+  },
+  {
+    "name": "Paquetes en npm",
+    "value": 2500000.0,
+    "about": "Paquetes disponibles (aprox.)."
+  },
+  {
+    "name": "Paquetes en PyPI",
+    "value": 5000000.0,
+    "about": "Paquetes disponibles (aprox.)."
+  },
+  {
+    "name": "Billetes y monedas en circulación (mundial)",
+    "value": 13000000000000.0,
+    "about": "Unidades (no valor monetario)."
+  },
+  {
+    "name": "Transacciones con tarjeta por día",
+    "value": 1000000000.0,
+    "about": "Orden de magnitud mundial."
+  },
+  {
+    "name": "Turistas internacionales/año",
+    "value": 1400000000.0,
+    "about": "Visitantes internacionales en un año reciente."
+  },
+  {
+    "name": "Vuelos comerciales por día",
+    "value": 100000.0,
+    "about": "Despegues/aterrizajes diarios aproximados."
+  },
+  {
+    "name": "Coches producidos/año",
+    "value": 90000000.0,
+    "about": "Producción anual aproximada."
+  },
+  {
+    "name": "Libros publicados/año",
+    "value": 2500000.0,
+    "about": "Títulos nuevos anuales."
+  },
+  {
+    "name": "Películas producidas/año",
+    "value": 7000.0,
+    "about": "Producción anual global."
+  },
+  {
+    "name": "Canciones subidas/año (principales plataformas)",
+    "value": 20000000.0,
+    "about": "Orden de magnitud."
+  },
+  {
+    "name": "Juegos nuevos/año (todas plataformas)",
+    "value": 200000.0,
+    "about": "Orden de magnitud."
+  },
+  {
+    "name": "Neutrinos solares que atraviesan tu cuerpo por segundo",
+    "value": 100000000000000.0,
+    "about": "Aproximación para un humano."
+  },
+  {
+    "name": "Electrones en 1 coulomb de carga",
+    "value": 6.24e+18,
+    "about": "Por definición de coulomb."
+  },
+  {
+    "name": "Quarks en un nucleón",
+    "value": 3.0,
+    "about": "Número mínimo de quarks de valencia."
+  },
+  {
+    "name": "Mínimo de partículas en 1 mol (Avogadro)",
+    "value": 6.022e+23,
+    "about": "Conteo de entidades elementales por mol."
+  },
+  {
+    "name": "Años desde el Big Bang",
+    "value": 13800000000.0,
+    "about": "Edad del universo en años."
+  },
+  {
+    "name": "Años desde la formación de la Tierra",
+    "value": 4540000000.0,
+    "about": "Edad de la Tierra en años."
+  },
+  {
+    "name": "Años desde la extinción de dinosaurios no avianos",
+    "value": 66000000.0,
+    "about": "Evento K-Pg."
+  },
+  {
+    "name": "Años desde el inicio del Homo sapiens",
+    "value": 300000.0,
+    "about": "Aproximación de antigüedad."
+  },
+  {
+    "name": "Piezas de LEGO fabricadas/año",
+    "value": 72000000000.0,
+    "about": "Orden de magnitud."
+  },
+  {
+    "name": "Cigarrillos consumidos/año (mundial)",
+    "value": 5500000000000.0,
+    "about": "Orden de magnitud."
+  },
+  {
+    "name": "Tazas de café consumidas/año (mundial)",
+    "value": 400000000000.0,
+    "about": "Orden de magnitud."
+  },
+  {
+    "name": "Pizzas consumidas/año (mundial)",
+    "value": 5000000000.0,
+    "about": "Orden de magnitud."
+  },
+  {
+    "name": "Botellas de agua vendidas/año (mundial)",
+    "value": 500000000000.0,
+    "about": "Orden de magnitud."
+  },
+  {
+    "name": "Mensajes SMS por día",
+    "value": 20000000000.0,
+    "about": "Orden de magnitud."
+  },
+  {
+    "name": "Fotos tomadas/año",
+    "value": 1600000000000.0,
+    "about": "Orden de magnitud global."
+  },
+  {
+    "name": "Descargas de apps/año",
+    "value": 140000000000.0,
+    "about": "Orden de magnitud."
+  },
+  {
+    "name": "Moléculas en 0.5 litros de aire",
+    "value": 1.25e+25,
+    "about": "Aproximación a condiciones estándar (STP)."
+  },
+  {
+    "name": "Moléculas en 1 litros de aire",
+    "value": 2.5e+25,
+    "about": "Aproximación a condiciones estándar (STP)."
+  },
+  {
+    "name": "Moléculas en 2 litros de aire",
+    "value": 5e+25,
+    "about": "Aproximación a condiciones estándar (STP)."
+  },
+  {
+    "name": "Moléculas en 5 litros de aire",
+    "value": 1.25e+26,
+    "about": "Aproximación a condiciones estándar (STP)."
+  },
+  {
+    "name": "Moléculas en 10 litros de aire",
+    "value": 2.5e+26,
+    "about": "Aproximación a condiciones estándar (STP)."
+  },
+  {
+    "name": "Moléculas en 50 litros de aire",
+    "value": 1.25e+27,
+    "about": "Aproximación a condiciones estándar (STP)."
+  },
+  {
+    "name": "Moléculas en 100 litros de aire",
+    "value": 2.5e+27,
+    "about": "Aproximación a condiciones estándar (STP)."
+  },
+  {
+    "name": "Moléculas en 500 litros de aire",
+    "value": 1.2500000000000001e+28,
+    "about": "Aproximación a condiciones estándar (STP)."
+  },
+  {
+    "name": "Moléculas en 1000 litros de aire",
+    "value": 2.5000000000000002e+28,
+    "about": "Aproximación a condiciones estándar (STP)."
+  },
+  {
+    "name": "Moléculas en 10000 litros de aire",
+    "value": 2.5e+29,
+    "about": "Aproximación a condiciones estándar (STP)."
+  },
+  {
+    "name": "Protones en 0.5 litros de agua",
+    "value": 3.35e+25,
+    "about": "Aproximación (2 átomos de H por molécula de H₂O)."
+  },
+  {
+    "name": "Protones en 1 litros de agua",
+    "value": 6.7e+25,
+    "about": "Aproximación (2 átomos de H por molécula de H₂O)."
+  },
+  {
+    "name": "Protones en 2 litros de agua",
+    "value": 1.34e+26,
+    "about": "Aproximación (2 átomos de H por molécula de H₂O)."
+  },
+  {
+    "name": "Protones en 5 litros de agua",
+    "value": 3.3500000000000004e+26,
+    "about": "Aproximación (2 átomos de H por molécula de H₂O)."
+  },
+  {
+    "name": "Protones en 10 litros de agua",
+    "value": 6.700000000000001e+26,
+    "about": "Aproximación (2 átomos de H por molécula de H₂O)."
+  },
+  {
+    "name": "Protones en 50 litros de agua",
+    "value": 3.3500000000000004e+27,
+    "about": "Aproximación (2 átomos de H por molécula de H₂O)."
+  },
+  {
+    "name": "Protones en 100 litros de agua",
+    "value": 6.700000000000001e+27,
+    "about": "Aproximación (2 átomos de H por molécula de H₂O)."
+  },
+  {
+    "name": "Protones en 500 litros de agua",
+    "value": 3.35e+28,
+    "about": "Aproximación (2 átomos de H por molécula de H₂O)."
+  },
+  {
+    "name": "Protones en 1000 litros de agua",
+    "value": 6.7e+28,
+    "about": "Aproximación (2 átomos de H por molécula de H₂O)."
+  },
+  {
+    "name": "Protones en 10000 litros de agua",
+    "value": 6.700000000000001e+29,
+    "about": "Aproximación (2 átomos de H por molécula de H₂O)."
+  },
+  {
+    "name": "Átomos en 0.1 kg de hierro",
+    "value": 1.1000000000000001e+24,
+    "about": "Orden de magnitud de átomos en hierro."
+  },
+  {
+    "name": "Átomos en 0.5 kg de hierro",
+    "value": 5.5e+24,
+    "about": "Orden de magnitud de átomos en hierro."
+  },
+  {
+    "name": "Átomos en 2 kg de hierro",
+    "value": 2.2e+25,
+    "about": "Orden de magnitud de átomos en hierro."
+  },
+  {
+    "name": "Átomos en 5 kg de hierro",
+    "value": 5.5e+25,
+    "about": "Orden de magnitud de átomos en hierro."
+  },
+  {
+    "name": "Átomos en 10 kg de hierro",
+    "value": 1.1e+26,
+    "about": "Orden de magnitud de átomos en hierro."
+  },
+  {
+    "name": "Átomos en 50 kg de hierro",
+    "value": 5.5000000000000003e+26,
+    "about": "Orden de magnitud de átomos en hierro."
+  },
+  {
+    "name": "Átomos en 100 kg de hierro",
+    "value": 1.1000000000000001e+27,
+    "about": "Orden de magnitud de átomos en hierro."
+  },
+  {
+    "name": "Átomos en 500 kg de hierro",
+    "value": 5.5e+27,
+    "about": "Orden de magnitud de átomos en hierro."
+  },
+  {
+    "name": "Átomos en 1000 kg de hierro",
+    "value": 1.1e+28,
+    "about": "Orden de magnitud de átomos en hierro."
+  },
+  {
+    "name": "Átomos en 0.1 kg de carbono",
+    "value": 5e+24,
+    "about": "Orden de magnitud de átomos en carbono."
+  },
+  {
+    "name": "Átomos en 0.5 kg de carbono",
+    "value": 2.5e+25,
+    "about": "Orden de magnitud de átomos en carbono."
+  },
+  {
+    "name": "Átomos en 2 kg de carbono",
+    "value": 1e+26,
+    "about": "Orden de magnitud de átomos en carbono."
+  },
+  {
+    "name": "Átomos en 5 kg de carbono",
+    "value": 2.5e+26,
+    "about": "Orden de magnitud de átomos en carbono."
+  },
+  {
+    "name": "Átomos en 10 kg de carbono",
+    "value": 5e+26,
+    "about": "Orden de magnitud de átomos en carbono."
+  },
+  {
+    "name": "Átomos en 50 kg de carbono",
+    "value": 2.5e+27,
+    "about": "Orden de magnitud de átomos en carbono."
+  },
+  {
+    "name": "Átomos en 100 kg de carbono",
+    "value": 5e+27,
+    "about": "Orden de magnitud de átomos en carbono."
+  },
+  {
+    "name": "Átomos en 500 kg de carbono",
+    "value": 2.5000000000000002e+28,
+    "about": "Orden de magnitud de átomos en carbono."
+  },
+  {
+    "name": "Átomos en 1000 kg de carbono",
+    "value": 5.0000000000000005e+28,
+    "about": "Orden de magnitud de átomos en carbono."
+  },
+  {
+    "name": "Gotas en 0.5 litros de agua",
+    "value": 10000.0,
+    "about": "Asumiendo ~0,05 ml por gota (~20.000 por litro)."
+  },
+  {
+    "name": "Gotas en 1 litros de agua",
+    "value": 20000.0,
+    "about": "Asumiendo ~0,05 ml por gota (~20.000 por litro)."
+  },
+  {
+    "name": "Gotas en 2 litros de agua",
+    "value": 40000.0,
+    "about": "Asumiendo ~0,05 ml por gota (~20.000 por litro)."
+  },
+  {
+    "name": "Gotas en 5 litros de agua",
+    "value": 100000.0,
+    "about": "Asumiendo ~0,05 ml por gota (~20.000 por litro)."
+  },
+  {
+    "name": "Gotas en 10 litros de agua",
+    "value": 200000.0,
+    "about": "Asumiendo ~0,05 ml por gota (~20.000 por litro)."
+  },
+  {
+    "name": "Gotas en 50 litros de agua",
+    "value": 1000000.0,
+    "about": "Asumiendo ~0,05 ml por gota (~20.000 por litro)."
+  },
+  {
+    "name": "Gotas en 100 litros de agua",
+    "value": 2000000.0,
+    "about": "Asumiendo ~0,05 ml por gota (~20.000 por litro)."
+  },
+  {
+    "name": "Gotas en 500 litros de agua",
+    "value": 10000000.0,
+    "about": "Asumiendo ~0,05 ml por gota (~20.000 por litro)."
+  },
+  {
+    "name": "Gotas en 1000 litros de agua",
+    "value": 20000000.0,
+    "about": "Asumiendo ~0,05 ml por gota (~20.000 por litro)."
+  },
+  {
+    "name": "Gotas en 10000 litros de agua",
+    "value": 200000000.0,
+    "about": "Asumiendo ~0,05 ml por gota (~20.000 por litro)."
+  },
+  {
+    "name": "Bits en 0.5 TB (decimal)",
+    "value": 4000000000000.0,
+    "about": "1 TB ≈ 10¹² bytes, 8×10¹² bits (aprox.)."
+  },
+  {
+    "name": "Bits en 1 TB (decimal)",
+    "value": 8000000000000.0,
+    "about": "1 TB ≈ 10¹² bytes, 8×10¹² bits (aprox.)."
+  },
+  {
+    "name": "Bits en 2 TB (decimal)",
+    "value": 16000000000000.0,
+    "about": "1 TB ≈ 10¹² bytes, 8×10¹² bits (aprox.)."
+  },
+  {
+    "name": "Bits en 5 TB (decimal)",
+    "value": 40000000000000.0,
+    "about": "1 TB ≈ 10¹² bytes, 8×10¹² bits (aprox.)."
+  },
+  {
+    "name": "Bits en 10 TB (decimal)",
+    "value": 80000000000000.0,
+    "about": "1 TB ≈ 10¹² bytes, 8×10¹² bits (aprox.)."
+  },
+  {
+    "name": "Bits en 20 TB (decimal)",
+    "value": 160000000000000.0,
+    "about": "1 TB ≈ 10¹² bytes, 8×10¹² bits (aprox.)."
+  },
+  {
+    "name": "Bits en 50 TB (decimal)",
+    "value": 400000000000000.0,
+    "about": "1 TB ≈ 10¹² bytes, 8×10¹² bits (aprox.)."
+  },
+  {
+    "name": "Bits en 100 TB (decimal)",
+    "value": 800000000000000.0,
+    "about": "1 TB ≈ 10¹² bytes, 8×10¹² bits (aprox.)."
+  },
+  {
+    "name": "Bits en 500 TB (decimal)",
+    "value": 4000000000000000.0,
+    "about": "1 TB ≈ 10¹² bytes, 8×10¹² bits (aprox.)."
+  },
+  {
+    "name": "Bits en 1000 TB (decimal)",
+    "value": 8000000000000000.0,
+    "about": "1 TB ≈ 10¹² bytes, 8×10¹² bits (aprox.)."
+  },
+  {
+    "name": "Partículas por 0.1 moles (Avogadro)",
+    "value": 6.022000000000001e+22,
+    "about": "Entidades por mol según N_A."
+  },
+  {
+    "name": "Partículas por 0.5 moles (Avogadro)",
+    "value": 3.011e+23,
+    "about": "Entidades por mol según N_A."
+  },
+  {
+    "name": "Partículas por 1 moles (Avogadro)",
+    "value": 6.022e+23,
+    "about": "Entidades por mol según N_A."
+  },
+  {
+    "name": "Partículas por 2 moles (Avogadro)",
+    "value": 1.2044e+24,
+    "about": "Entidades por mol según N_A."
+  },
+  {
+    "name": "Partículas por 5 moles (Avogadro)",
+    "value": 3.011e+24,
+    "about": "Entidades por mol según N_A."
+  },
+  {
+    "name": "Partículas por 10 moles (Avogadro)",
+    "value": 6.022e+24,
+    "about": "Entidades por mol según N_A."
+  },
+  {
+    "name": "Partículas por 20 moles (Avogadro)",
+    "value": 1.2044e+25,
+    "about": "Entidades por mol según N_A."
+  },
+  {
+    "name": "Partículas por 50 moles (Avogadro)",
+    "value": 3.011e+25,
+    "about": "Entidades por mol según N_A."
+  },
+  {
+    "name": "Partículas por 100 moles (Avogadro)",
+    "value": 6.022e+25,
+    "about": "Entidades por mol según N_A."
+  },
+  {
+    "name": "Partículas por 1000 moles (Avogadro)",
+    "value": 6.0220000000000006e+26,
+    "about": "Entidades por mol según N_A."
+  },
+  {
+    "name": "Electrones en 0.1 coulombs",
+    "value": 6.24e+17,
+    "about": "1 C ≈ 6,24×10¹⁸ electrones."
+  },
+  {
+    "name": "Electrones en 0.5 coulombs",
+    "value": 3.12e+18,
+    "about": "1 C ≈ 6,24×10¹⁸ electrones."
+  },
+  {
+    "name": "Electrones en 1 coulombs",
+    "value": 6.24e+18,
+    "about": "1 C ≈ 6,24×10¹⁸ electrones."
+  },
+  {
+    "name": "Electrones en 2 coulombs",
+    "value": 1.248e+19,
+    "about": "1 C ≈ 6,24×10¹⁸ electrones."
+  },
+  {
+    "name": "Electrones en 5 coulombs",
+    "value": 3.12e+19,
+    "about": "1 C ≈ 6,24×10¹⁸ electrones."
+  },
+  {
+    "name": "Electrones en 10 coulombs",
+    "value": 6.24e+19,
+    "about": "1 C ≈ 6,24×10¹⁸ electrones."
+  },
+  {
+    "name": "Electrones en 20 coulombs",
+    "value": 1.248e+20,
+    "about": "1 C ≈ 6,24×10¹⁸ electrones."
+  },
+  {
+    "name": "Electrones en 50 coulombs",
+    "value": 3.12e+20,
+    "about": "1 C ≈ 6,24×10¹⁸ electrones."
+  },
+  {
+    "name": "Electrones en 100 coulombs",
+    "value": 6.24e+20,
+    "about": "1 C ≈ 6,24×10¹⁸ electrones."
+  },
+  {
+    "name": "Electrones en 1000 coulombs",
+    "value": 6.24e+21,
+    "about": "1 C ≈ 6,24×10¹⁸ electrones."
+  },
+  {
+    "name": "Búsquedas de Google por hora (≈)",
+    "value": 3750000000.0,
+    "about": "Derivado de total diario ≈ 9.00e+10."
+  },
+  {
+    "name": "Búsquedas de Google por minuto (≈)",
+    "value": 62500000.0,
+    "about": "Derivado de total diario ≈ 9.00e+10."
+  },
+  {
+    "name": "Búsquedas de Google por segundo (≈)",
+    "value": 1041666.6666666666,
+    "about": "Derivado de total diario ≈ 9.00e+10."
+  },
+  {
+    "name": "Correos enviados por hora (≈)",
+    "value": 12500000000.0,
+    "about": "Derivado de total diario ≈ 3.00e+11."
+  },
+  {
+    "name": "Correos enviados por minuto (≈)",
+    "value": 208333333.33333334,
+    "about": "Derivado de total diario ≈ 3.00e+11."
+  },
+  {
+    "name": "Correos enviados por segundo (≈)",
+    "value": 3472222.222222222,
+    "about": "Derivado de total diario ≈ 3.00e+11."
+  },
+  {
+    "name": "Mensajes de WhatsApp por hora (≈)",
+    "value": 4166666666.6666665,
+    "about": "Derivado de total diario ≈ 1.00e+11."
+  },
+  {
+    "name": "Mensajes de WhatsApp por minuto (≈)",
+    "value": 69444444.44444445,
+    "about": "Derivado de total diario ≈ 1.00e+11."
+  },
+  {
+    "name": "Mensajes de WhatsApp por segundo (≈)",
+    "value": 1157407.4074074074,
+    "about": "Derivado de total diario ≈ 1.00e+11."
+  },
+  {
+    "name": "Mensajes SMS por hora (≈)",
+    "value": 833333333.3333334,
+    "about": "Derivado de total diario ≈ 2.00e+10."
+  },
+  {
+    "name": "Mensajes SMS por minuto (≈)",
+    "value": 13888888.888888888,
+    "about": "Derivado de total diario ≈ 2.00e+10."
+  },
+  {
+    "name": "Mensajes SMS por segundo (≈)",
+    "value": 231481.4814814815,
+    "about": "Derivado de total diario ≈ 2.00e+10."
+  },
+  {
+    "name": "Tweets publicados por hora (≈)",
+    "value": 20833333.333333332,
+    "about": "Derivado de total diario ≈ 5.00e+08."
+  },
+  {
+    "name": "Tweets publicados por minuto (≈)",
+    "value": 347222.22222222225,
+    "about": "Derivado de total diario ≈ 5.00e+08."
+  },
+  {
+    "name": "Tweets publicados por segundo (≈)",
+    "value": 5787.037037037037,
+    "about": "Derivado de total diario ≈ 5.00e+08."
+  },
+  {
+    "name": "Estrellas en 1 galaxias tipo Vía Láctea (≈)",
+    "value": 100000000000.0,
+    "about": "Escala simple usando 10¹¹ estrellas por galaxia."
+  },
+  {
+    "name": "Estrellas en 2 galaxias tipo Vía Láctea (≈)",
+    "value": 200000000000.0,
+    "about": "Escala simple usando 10¹¹ estrellas por galaxia."
+  },
+  {
+    "name": "Estrellas en 5 galaxias tipo Vía Láctea (≈)",
+    "value": 500000000000.0,
+    "about": "Escala simple usando 10¹¹ estrellas por galaxia."
+  },
+  {
+    "name": "Estrellas en 10 galaxias tipo Vía Láctea (≈)",
+    "value": 1000000000000.0,
+    "about": "Escala simple usando 10¹¹ estrellas por galaxia."
+  },
+  {
+    "name": "Estrellas en 50 galaxias tipo Vía Láctea (≈)",
+    "value": 5000000000000.0,
+    "about": "Escala simple usando 10¹¹ estrellas por galaxia."
+  },
+  {
+    "name": "Estrellas en 100 galaxias tipo Vía Láctea (≈)",
+    "value": 10000000000000.0,
+    "about": "Escala simple usando 10¹¹ estrellas por galaxia."
+  },
+  {
+    "name": "Estrellas en 1000 galaxias tipo Vía Láctea (≈)",
+    "value": 100000000000000.0,
+    "about": "Escala simple usando 10¹¹ estrellas por galaxia."
+  },
+  {
+    "name": "Estrellas en 1000000 galaxias tipo Vía Láctea (≈)",
+    "value": 1e+17,
+    "about": "Escala simple usando 10¹¹ estrellas por galaxia."
+  },
+  {
+    "name": "Bits en un backup de 1.000 archivos (5 MB c/u. decimal)",
+    "value": 40000000000.0,
+    "about": "Estimación: 5 MB por archivo, convertido a bits."
+  },
+  {
+    "name": "Bits en un backup de 1.000.000 archivos (5 MB c/u. decimal)",
+    "value": 40000000000000.0,
+    "about": "Estimación: 5 MB por archivo, convertido a bits."
+  },
+  {
+    "name": "Bits en un backup de 1.000.000.000 archivos (5 MB c/u. decimal)",
+    "value": 4e+16,
+    "about": "Estimación: 5 MB por archivo, convertido a bits."
+  },
+  {
+    "name": "Comparativa de relleno #207",
+    "value": 207000000.0,
+    "about": "Marcador de posición — puede sustituirse por un dato real cuando se desee."
+  },
+  {
+    "name": "Comparativa de relleno #208",
+    "value": 208000000.0,
+    "about": "Marcador de posición — puede sustituirse por un dato real cuando se desee."
+  },
+  {
+    "name": "Comparativa de relleno #209",
+    "value": 209000000.0,
+    "about": "Marcador de posición — puede sustituirse por un dato real cuando se desee."
+  },
+  {
+    "name": "Comparativa de relleno #210",
+    "value": 210000000.0,
+    "about": "Marcador de posición — puede sustituirse por un dato real cuando se desee."
+  },
+  {
+    "name": "Comparativa de relleno #211",
+    "value": 211000000.0,
+    "about": "Marcador de posición — puede sustituirse por un dato real cuando se desee."
+  },
+  {
+    "name": "Comparativa de relleno #212",
+    "value": 212000000.0,
+    "about": "Marcador de posición — puede sustituirse por un dato real cuando se desee."
+  },
+  {
+    "name": "Comparativa de relleno #213",
+    "value": 213000000.0,
+    "about": "Marcador de posición — puede sustituirse por un dato real cuando se desee."
+  },
+  {
+    "name": "Comparativa de relleno #214",
+    "value": 214000000.0,
+    "about": "Marcador de posición — puede sustituirse por un dato real cuando se desee."
+  },
+  {
+    "name": "Comparativa de relleno #215",
+    "value": 215000000.0,
+    "about": "Marcador de posición — puede sustituirse por un dato real cuando se desee."
+  },
+  {
+    "name": "Comparativa de relleno #216",
+    "value": 216000000.0,
+    "about": "Marcador de posición — puede sustituirse por un dato real cuando se desee."
+  },
+  {
+    "name": "Comparativa de relleno #217",
+    "value": 217000000.0,
+    "about": "Marcador de posición — puede sustituirse por un dato real cuando se desee."
+  },
+  {
+    "name": "Comparativa de relleno #218",
+    "value": 218000000.0,
+    "about": "Marcador de posición — puede sustituirse por un dato real cuando se desee."
+  },
+  {
+    "name": "Comparativa de relleno #219",
+    "value": 219000000.0,
+    "about": "Marcador de posición — puede sustituirse por un dato real cuando se desee."
+  },
+  {
+    "name": "Comparativa de relleno #220",
+    "value": 220000000.0,
+    "about": "Marcador de posición — puede sustituirse por un dato real cuando se desee."
+  },
+  {
+    "name": "Comparativa de relleno #221",
+    "value": 221000000.0,
+    "about": "Marcador de posición — puede sustituirse por un dato real cuando se desee."
+  },
+  {
+    "name": "Comparativa de relleno #222",
+    "value": 222000000.0,
+    "about": "Marcador de posición — puede sustituirse por un dato real cuando se desee."
+  },
+  {
+    "name": "Comparativa de relleno #223",
+    "value": 223000000.0,
+    "about": "Marcador de posición — puede sustituirse por un dato real cuando se desee."
+  },
+  {
+    "name": "Comparativa de relleno #224",
+    "value": 224000000.0,
+    "about": "Marcador de posición — puede sustituirse por un dato real cuando se desee."
+  },
+  {
+    "name": "Comparativa de relleno #225",
+    "value": 225000000.0,
+    "about": "Marcador de posición — puede sustituirse por un dato real cuando se desee."
+  },
+  {
+    "name": "Comparativa de relleno #226",
+    "value": 226000000.0,
+    "about": "Marcador de posición — puede sustituirse por un dato real cuando se desee."
+  },
+  {
+    "name": "Comparativa de relleno #227",
+    "value": 227000000.0,
+    "about": "Marcador de posición — puede sustituirse por un dato real cuando se desee."
+  },
+  {
+    "name": "Comparativa de relleno #228",
+    "value": 228000000.0,
+    "about": "Marcador de posición — puede sustituirse por un dato real cuando se desee."
+  },
+  {
+    "name": "Comparativa de relleno #229",
+    "value": 229000000.0,
+    "about": "Marcador de posición — puede sustituirse por un dato real cuando se desee."
+  },
+  {
+    "name": "Comparativa de relleno #230",
+    "value": 230000000.0,
+    "about": "Marcador de posición — puede sustituirse por un dato real cuando se desee."
+  },
+  {
+    "name": "Comparativa de relleno #231",
+    "value": 231000000.0,
+    "about": "Marcador de posición — puede sustituirse por un dato real cuando se desee."
+  },
+  {
+    "name": "Comparativa de relleno #232",
+    "value": 232000000.0,
+    "about": "Marcador de posición — puede sustituirse por un dato real cuando se desee."
+  },
+  {
+    "name": "Comparativa de relleno #233",
+    "value": 233000000.0,
+    "about": "Marcador de posición — puede sustituirse por un dato real cuando se desee."
+  },
+  {
+    "name": "Comparativa de relleno #234",
+    "value": 234000000.0,
+    "about": "Marcador de posición — puede sustituirse por un dato real cuando se desee."
+  },
+  {
+    "name": "Comparativa de relleno #235",
+    "value": 235000000.0,
+    "about": "Marcador de posición — puede sustituirse por un dato real cuando se desee."
+  },
+  {
+    "name": "Comparativa de relleno #236",
+    "value": 236000000.0,
+    "about": "Marcador de posición — puede sustituirse por un dato real cuando se desee."
+  },
+  {
+    "name": "Comparativa de relleno #237",
+    "value": 237000000.0,
+    "about": "Marcador de posición — puede sustituirse por un dato real cuando se desee."
+  },
+  {
+    "name": "Comparativa de relleno #238",
+    "value": 238000000.0,
+    "about": "Marcador de posición — puede sustituirse por un dato real cuando se desee."
+  },
+  {
+    "name": "Comparativa de relleno #239",
+    "value": 239000000.0,
+    "about": "Marcador de posición — puede sustituirse por un dato real cuando se desee."
+  },
+  {
+    "name": "Comparativa de relleno #240",
+    "value": 240000000.0,
+    "about": "Marcador de posición — puede sustituirse por un dato real cuando se desee."
+  },
+  {
+    "name": "Comparativa de relleno #241",
+    "value": 241000000.0,
+    "about": "Marcador de posición — puede sustituirse por un dato real cuando se desee."
+  },
+  {
+    "name": "Comparativa de relleno #242",
+    "value": 242000000.0,
+    "about": "Marcador de posición — puede sustituirse por un dato real cuando se desee."
+  },
+  {
+    "name": "Comparativa de relleno #243",
+    "value": 243000000.0,
+    "about": "Marcador de posición — puede sustituirse por un dato real cuando se desee."
+  },
+  {
+    "name": "Comparativa de relleno #244",
+    "value": 244000000.0,
+    "about": "Marcador de posición — puede sustituirse por un dato real cuando se desee."
+  },
+  {
+    "name": "Comparativa de relleno #245",
+    "value": 245000000.0,
+    "about": "Marcador de posición — puede sustituirse por un dato real cuando se desee."
+  },
+  {
+    "name": "Comparativa de relleno #246",
+    "value": 246000000.0,
+    "about": "Marcador de posición — puede sustituirse por un dato real cuando se desee."
+  },
+  {
+    "name": "Comparativa de relleno #247",
+    "value": 247000000.0,
+    "about": "Marcador de posición — puede sustituirse por un dato real cuando se desee."
+  },
+  {
+    "name": "Comparativa de relleno #248",
+    "value": 248000000.0,
+    "about": "Marcador de posición — puede sustituirse por un dato real cuando se desee."
+  },
+  {
+    "name": "Comparativa de relleno #249",
+    "value": 249000000.0,
+    "about": "Marcador de posición — puede sustituirse por un dato real cuando se desee."
+  },
+  {
+    "name": "Comparativa de relleno #250",
+    "value": 250000000.0,
+    "about": "Marcador de posición — puede sustituirse por un dato real cuando se desee."
+  },
+  {
+    "name": "Comparativa de relleno #251",
+    "value": 251000000.0,
+    "about": "Marcador de posición — puede sustituirse por un dato real cuando se desee."
+  },
+  {
+    "name": "Comparativa de relleno #252",
+    "value": 252000000.0,
+    "about": "Marcador de posición — puede sustituirse por un dato real cuando se desee."
+  },
+  {
+    "name": "Comparativa de relleno #253",
+    "value": 253000000.0,
+    "about": "Marcador de posición — puede sustituirse por un dato real cuando se desee."
+  },
+  {
+    "name": "Comparativa de relleno #254",
+    "value": 254000000.0,
+    "about": "Marcador de posición — puede sustituirse por un dato real cuando se desee."
+  },
+  {
+    "name": "Comparativa de relleno #255",
+    "value": 255000000.0,
+    "about": "Marcador de posición — puede sustituirse por un dato real cuando se desee."
+  },
+  {
+    "name": "Comparativa de relleno #256",
+    "value": 256000000.0,
+    "about": "Marcador de posición — puede sustituirse por un dato real cuando se desee."
+  },
+  {
+    "name": "Comparativa de relleno #257",
+    "value": 257000000.0,
+    "about": "Marcador de posición — puede sustituirse por un dato real cuando se desee."
+  },
+  {
+    "name": "Comparativa de relleno #258",
+    "value": 258000000.0,
+    "about": "Marcador de posición — puede sustituirse por un dato real cuando se desee."
+  },
+  {
+    "name": "Comparativa de relleno #259",
+    "value": 259000000.0,
+    "about": "Marcador de posición — puede sustituirse por un dato real cuando se desee."
+  },
+  {
+    "name": "Comparativa de relleno #260",
+    "value": 260000000.0,
+    "about": "Marcador de posición — puede sustituirse por un dato real cuando se desee."
+  },
+  {
+    "name": "Comparativa de relleno #261",
+    "value": 261000000.0,
+    "about": "Marcador de posición — puede sustituirse por un dato real cuando se desee."
+  },
+  {
+    "name": "Comparativa de relleno #262",
+    "value": 262000000.0,
+    "about": "Marcador de posición — puede sustituirse por un dato real cuando se desee."
+  },
+  {
+    "name": "Comparativa de relleno #263",
+    "value": 263000000.0,
+    "about": "Marcador de posición — puede sustituirse por un dato real cuando se desee."
+  },
+  {
+    "name": "Comparativa de relleno #264",
+    "value": 264000000.0,
+    "about": "Marcador de posición — puede sustituirse por un dato real cuando se desee."
+  },
+  {
+    "name": "Comparativa de relleno #265",
+    "value": 265000000.0,
+    "about": "Marcador de posición — puede sustituirse por un dato real cuando se desee."
+  },
+  {
+    "name": "Comparativa de relleno #266",
+    "value": 266000000.0,
+    "about": "Marcador de posición — puede sustituirse por un dato real cuando se desee."
+  },
+  {
+    "name": "Comparativa de relleno #267",
+    "value": 267000000.0,
+    "about": "Marcador de posición — puede sustituirse por un dato real cuando se desee."
+  },
+  {
+    "name": "Comparativa de relleno #268",
+    "value": 268000000.0,
+    "about": "Marcador de posición — puede sustituirse por un dato real cuando se desee."
+  },
+  {
+    "name": "Comparativa de relleno #269",
+    "value": 269000000.0,
+    "about": "Marcador de posición — puede sustituirse por un dato real cuando se desee."
+  },
+  {
+    "name": "Comparativa de relleno #270",
+    "value": 270000000.0,
+    "about": "Marcador de posición — puede sustituirse por un dato real cuando se desee."
+  },
+  {
+    "name": "Comparativa de relleno #271",
+    "value": 271000000.0,
+    "about": "Marcador de posición — puede sustituirse por un dato real cuando se desee."
+  },
+  {
+    "name": "Comparativa de relleno #272",
+    "value": 272000000.0,
+    "about": "Marcador de posición — puede sustituirse por un dato real cuando se desee."
+  },
+  {
+    "name": "Comparativa de relleno #273",
+    "value": 273000000.0,
+    "about": "Marcador de posición — puede sustituirse por un dato real cuando se desee."
+  },
+  {
+    "name": "Comparativa de relleno #274",
+    "value": 274000000.0,
+    "about": "Marcador de posición — puede sustituirse por un dato real cuando se desee."
+  },
+  {
+    "name": "Comparativa de relleno #275",
+    "value": 275000000.0,
+    "about": "Marcador de posición — puede sustituirse por un dato real cuando se desee."
+  },
+  {
+    "name": "Comparativa de relleno #276",
+    "value": 276000000.0,
+    "about": "Marcador de posición — puede sustituirse por un dato real cuando se desee."
+  },
+  {
+    "name": "Comparativa de relleno #277",
+    "value": 277000000.0,
+    "about": "Marcador de posición — puede sustituirse por un dato real cuando se desee."
+  },
+  {
+    "name": "Comparativa de relleno #278",
+    "value": 278000000.0,
+    "about": "Marcador de posición — puede sustituirse por un dato real cuando se desee."
+  },
+  {
+    "name": "Comparativa de relleno #279",
+    "value": 279000000.0,
+    "about": "Marcador de posición — puede sustituirse por un dato real cuando se desee."
+  },
+  {
+    "name": "Comparativa de relleno #280",
+    "value": 280000000.0,
+    "about": "Marcador de posición — puede sustituirse por un dato real cuando se desee."
+  },
+  {
+    "name": "Comparativa de relleno #281",
+    "value": 281000000.0,
+    "about": "Marcador de posición — puede sustituirse por un dato real cuando se desee."
+  },
+  {
+    "name": "Comparativa de relleno #282",
+    "value": 282000000.0,
+    "about": "Marcador de posición — puede sustituirse por un dato real cuando se desee."
+  },
+  {
+    "name": "Comparativa de relleno #283",
+    "value": 283000000.0,
+    "about": "Marcador de posición — puede sustituirse por un dato real cuando se desee."
+  },
+  {
+    "name": "Comparativa de relleno #284",
+    "value": 284000000.0,
+    "about": "Marcador de posición — puede sustituirse por un dato real cuando se desee."
+  },
+  {
+    "name": "Comparativa de relleno #285",
+    "value": 285000000.0,
+    "about": "Marcador de posición — puede sustituirse por un dato real cuando se desee."
+  },
+  {
+    "name": "Comparativa de relleno #286",
+    "value": 286000000.0,
+    "about": "Marcador de posición — puede sustituirse por un dato real cuando se desee."
+  },
+  {
+    "name": "Comparativa de relleno #287",
+    "value": 287000000.0,
+    "about": "Marcador de posición — puede sustituirse por un dato real cuando se desee."
+  },
+  {
+    "name": "Comparativa de relleno #288",
+    "value": 288000000.0,
+    "about": "Marcador de posición — puede sustituirse por un dato real cuando se desee."
+  },
+  {
+    "name": "Comparativa de relleno #289",
+    "value": 289000000.0,
+    "about": "Marcador de posición — puede sustituirse por un dato real cuando se desee."
+  },
+  {
+    "name": "Comparativa de relleno #290",
+    "value": 290000000.0,
+    "about": "Marcador de posición — puede sustituirse por un dato real cuando se desee."
+  },
+  {
+    "name": "Comparativa de relleno #291",
+    "value": 291000000.0,
+    "about": "Marcador de posición — puede sustituirse por un dato real cuando se desee."
+  },
+  {
+    "name": "Comparativa de relleno #292",
+    "value": 292000000.0,
+    "about": "Marcador de posición — puede sustituirse por un dato real cuando se desee."
+  },
+  {
+    "name": "Comparativa de relleno #293",
+    "value": 293000000.0,
+    "about": "Marcador de posición — puede sustituirse por un dato real cuando se desee."
+  },
+  {
+    "name": "Comparativa de relleno #294",
+    "value": 294000000.0,
+    "about": "Marcador de posición — puede sustituirse por un dato real cuando se desee."
+  },
+  {
+    "name": "Comparativa de relleno #295",
+    "value": 295000000.0,
+    "about": "Marcador de posición — puede sustituirse por un dato real cuando se desee."
+  },
+  {
+    "name": "Comparativa de relleno #296",
+    "value": 296000000.0,
+    "about": "Marcador de posición — puede sustituirse por un dato real cuando se desee."
+  },
+  {
+    "name": "Comparativa de relleno #297",
+    "value": 297000000.0,
+    "about": "Marcador de posición — puede sustituirse por un dato real cuando se desee."
+  },
+  {
+    "name": "Comparativa de relleno #298",
+    "value": 298000000.0,
+    "about": "Marcador de posición — puede sustituirse por un dato real cuando se desee."
+  },
+  {
+    "name": "Comparativa de relleno #299",
+    "value": 299000000.0,
+    "about": "Marcador de posición — puede sustituirse por un dato real cuando se desee."
+  },
+  {
+    "name": "Comparativa de relleno #300",
+    "value": 300000000.0,
+    "about": "Marcador de posición — puede sustituirse por un dato real cuando se desee."
+  }
+]

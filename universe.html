@@ -1,0 +1,55 @@
+<!doctype html>
+<html lang="es">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>CurioRank — Modo Universo</title>
+  <meta name="description" content="CurioRank · Modo Universo: ¿Qué hay más en el universo?">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;600;700;800&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="./css/universe.css">
+</head>
+<body>
+  <div class="container">
+    <div class="header">
+      <div class="brand">CurioRank <span class="badge">Modo Universo</span></div>
+      <div class="pill">Puntuación: <b id="score">0</b> · Récord: <b id="record">0</b></div>
+    </div>
+
+    <div class="grid">
+      <div id="cardA" class="card">
+        <div class="title"></div>
+        <div class="about"></div>
+        <div class="value">¿?</div>
+        <div class="actions">
+          <button id="moreA" class="choice">Hay MÁS aquí</button>
+        </div>
+      </div>
+
+      <div id="cardB" class="card">
+        <div class="title"></div>
+        <div class="about"></div>
+        <div class="value">¿?</div>
+        <div class="actions">
+          <button id="moreB" class="choice">Hay MÁS aquí</button>
+        </div>
+      </div>
+    </div>
+
+    <div class="footer">
+      <div id="hint" class="pill">Elija la opción con MÁS cantidad</div>
+      <div style="display:flex; gap:8px;">
+        <button id="nextBtn" class="btn hidden">Continuar</button>
+        <button id="resetBtn" class="btn hidden">Reiniciar</button>
+      </div>
+    </div>
+
+    <p class="note">
+      Añada en su web un enlace a <code>/universe.html</code> para este modo.
+      Este archivo es independiente: no altera el diseño del modo Población.
+    </p>
+  </div>
+  <script src="./js/universe.js"></script>
+</body>
+</html>
