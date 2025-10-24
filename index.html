@@ -1,0 +1,76 @@
+<!doctype html>
+<html lang="es">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>CurioRank — Comparaciones interactivas</title>
+  <meta name="description" content="Juego de comparaciones visuales. Elige una opción y revela si aciertas.">
+  <meta property="og:url" content="https://juanghp0310.github.io/curiorank/">
+  <meta property="og:title" content="CurioRank — Comparaciones interactivas">
+  <meta property="og:description" content="Juego rápido de comparaciones visuales. ¿Cuál es mayor?">
+  <meta property="og:image" content="https://images.unsplash.com/photo-1518779578993-ec3579fee39f?q=80&w=1200&auto=format&fit=crop">
+  <link rel="stylesheet" href="assets/style.css">
+</head>
+<body>
+  <header>
+    <div class="container">
+      <div class="brand">
+        <div class="logo"></div>
+        <div>
+          <h1>CurioRank</h1>
+          <div class="sub" id="subtitle">Comparaciones visuales interactivas con datos reales.</div>
+        </div>
+      </div>
+      <div class="controls">
+        <select id="lang" class="input lang" aria-label="Language">
+          <option value="es">Español</option>
+          <option value="en">English</option>
+        </select>
+        <button id="btnPrev" class="button secondary">⟵ <span data-i18n="prev">Anterior</span></button>
+        <button id="btnNext" class="button secondary"><span data-i18n="next">Siguiente</span> ⟶</button>
+        <div class="score"><span data-i18n="streak">Racha</span>: <span id="streak">0</span> — <span data-i18n="best">Récord</span>: <span id="best">0</span></div>
+      </div>
+    </div>
+  </header>
+
+  <main class="container">
+    <div class="ads">ESPACIO DE ANUNCIO (728x90)</div>
+    <section id="game" class="game" aria-live="polite">
+      <div class="head">
+        <span class="badge" id="cat">—</span>
+        <span class="title" id="title">Cargando…</span>
+      </div>
+      <div class="stage">
+        <button class="tile" id="left" aria-label="Opción izquierda">
+          <img id="imgL" alt="">
+          <div class="fig" id="capL"></div>
+          <div class="reveal" id="revL"></div>
+        </button>
+        <button class="tile" id="right" aria-label="Opción derecha">
+          <img id="imgR" alt="">
+          <div class="fig" id="capR"></div>
+          <div class="reveal" id="revR"></div>
+        </button>
+      </div>
+      <div class="body" id="summary">Texto del ítem…</div>
+      <div class="foot">
+        <span class="msg" id="msg">Elige una opción para revelar el resultado.</span>
+        <a id="src" class="button secondary" href="#" target="_blank" rel="nofollow">Fuente</a>
+      </div>
+    </section>
+  </main>
+
+  <footer>
+    <div class="container">
+      <a href="sitemap.xml">Sitemap</a> · <a href="robots.txt">Robots</a>
+    </div>
+  </footer>
+
+  <div id="cookiebar" class="cookiebar" role="dialog" aria-label="Aviso de cookies">
+    <span id="cookieText">Usamos cookies para analítica y anuncios. ¿Aceptar?</span>
+    <button id="acceptCookies">Aceptar</button>
+  </div>
+
+  <script src="assets/site.js" defer></script>
+</body>
+</html>

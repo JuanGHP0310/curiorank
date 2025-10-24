@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://juanghp0310.github.io/curiorank/sitemap.xml

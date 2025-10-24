@@ -1,0 +1,4646 @@
+{
+  "version": "4.0.0",
+  "generated": "2025-10-24",
+  "items": [
+    {
+      "category": "Animales",
+      "title": "Which animal is faster on land?",
+      "items": [
+        {
+          "name": "Cheetah",
+          "value": 120,
+          "unit": "km/h",
+          "img": "https://upload.wikimedia.org/wikipedia/commons/1/1e/Cheetah_Kruger.jpg"
+        },
+        {
+          "name": "Pronghorn",
+          "value": 88,
+          "unit": "km/h",
+          "img": "https://upload.wikimedia.org/wikipedia/commons/7/7f/Pronghorn_at_Yellowstone.jpg"
+        }
+      ],
+      "summary": "Max speeds in short sprints.",
+      "source": "https://es.wikipedia.org/wiki/Acinonyx_jubatus"
+    },
+    {
+      "category": "Planetas",
+      "title": "Which planet has a larger diameter?",
+      "items": [
+        {
+          "name": "Jupiter",
+          "value": 139820,
+          "unit": "km",
+          "img": "https://upload.wikimedia.org/wikipedia/commons/e/e2/Jupiter.jpg"
+        },
+        {
+          "name": "Saturn",
+          "value": 116460,
+          "unit": "km",
+          "img": "https://upload.wikimedia.org/wikipedia/commons/c/c7/Saturn_during_Equinox.jpg"
+        }
+      ],
+      "summary": "Approximate equatorial diameter.",
+      "source": "https://es.wikipedia.org/wiki/J%C3%BApiter_(planeta)"
+    },
+    {
+      "category": "Cine",
+      "title": "Which film grossed more worldwide?",
+      "items": [
+        {
+          "name": "Avatar (2009)",
+          "value": 2923706026,
+          "unit": "USD",
+          "img": "https://upload.wikimedia.org/wikipedia/en/b/b0/Avatar-Teaser-Poster.jpg"
+        },
+        {
+          "name": "Avengers: Endgame (2019)",
+          "value": 2797501328,
+          "unit": "USD",
+          "img": "https://upload.wikimedia.org/wikipedia/en/0/0d/Avengers_Endgame_poster.jpg"
+        }
+      ],
+      "summary": "Worldwide gross incl. re-releases (not inflation-adjusted).",
+      "source": "https://es.wikipedia.org/wiki/Anexo:Pel%C3%ADculas_con_las_mayores_recaudaciones"
+    },
+    {
+      "category": "Ciudades",
+      "title": "Which metro area has more people?",
+      "items": [
+        {
+          "name": "Tokyo",
+          "value": 37000000,
+          "unit": "hab.",
+          "img": "https://upload.wikimedia.org/wikipedia/commons/1/1e/Tokyo_Tower_and_surrounding_area.jpg"
+        },
+        {
+          "name": "Delhi",
+          "value": 32000000,
+          "unit": "hab.",
+          "img": "https://upload.wikimedia.org/wikipedia/commons/9/9e/Delhi_Skyline.jpg"
+        }
+      ],
+      "summary": "Metro population estimates.",
+      "source": "https://es.wikipedia.org/wiki/%C3%81reas_metropolitanas_por_poblaci%C3%B3n"
+    },
+    {
+      "category": "Montañas",
+      "title": "Which mountain is higher?",
+      "items": [
+        {
+          "name": "Everest",
+          "value": 8848.86,
+          "unit": "m",
+          "img": "https://upload.wikimedia.org/wikipedia/commons/1/12/Mount_Everest_as_seen_from_Drukair2_PLW_edit.jpg"
+        },
+        {
+          "name": "K2",
+          "value": 8611,
+          "unit": "m",
+          "img": "https://upload.wikimedia.org/wikipedia/commons/0/0d/K2_2006b.jpg"
+        }
+      ],
+      "summary": "Elevation above sea level.",
+      "source": "https://es.wikipedia.org/wiki/Everest"
+    },
+    {
+      "category": "Países",
+      "title": "Which country has a larger population?",
+      "items": [
+        {
+          "name": "Philippines",
+          "value": 112000000,
+          "unit": "hab.",
+          "img": "https://upload.wikimedia.org/wikipedia/commons/9/99/Flag_of_the_Philippines.svg"
+        },
+        {
+          "name": "Egypt",
+          "value": 110000000,
+          "unit": "hab.",
+          "img": "https://upload.wikimedia.org/wikipedia/commons/f/fe/Flag_of_Egypt.svg"
+        }
+      ],
+      "summary": "Approximate total population.",
+      "source": "https://es.wikipedia.org/wiki/Poblaci%C3%B3n_mundial"
+    },
+    {
+      "category": "Países",
+      "title": "Which country has a larger population?",
+      "items": [
+        {
+          "name": "China",
+          "value": 1411000000,
+          "unit": "hab.",
+          "img": "https://upload.wikimedia.org/wikipedia/commons/f/fa/Flag_of_the_People%27s_Republic_of_China.svg"
+        },
+        {
+          "name": "Russia",
+          "value": 143000000,
+          "unit": "hab.",
+          "img": "https://upload.wikimedia.org/wikipedia/en/f/f3/Flag_of_Russia.svg"
+        }
+      ],
+      "summary": "Approximate total population.",
+      "source": "https://es.wikipedia.org/wiki/Poblaci%C3%B3n_mundial"
+    },
+    {
+      "category": "Países",
+      "title": "Which country has a larger population?",
+      "items": [
+        {
+          "name": "Turkey",
+          "value": 85000000,
+          "unit": "hab.",
+          "img": "https://upload.wikimedia.org/wikipedia/commons/b/b4/Flag_of_Turkey.svg"
+        },
+        {
+          "name": "DR Congo",
+          "value": 102000000,
+          "unit": "hab.",
+          "img": "https://upload.wikimedia.org/wikipedia/commons/6/6f/Flag_of_the_Democratic_Republic_of_the_Congo.svg"
+        }
+      ],
+      "summary": "Approximate total population.",
+      "source": "https://es.wikipedia.org/wiki/Poblaci%C3%B3n_mundial"
+    },
+    {
+      "category": "Países",
+      "title": "Which country has a larger population?",
+      "items": [
+        {
+          "name": "Philippines",
+          "value": 112000000,
+          "unit": "hab.",
+          "img": "https://upload.wikimedia.org/wikipedia/commons/9/99/Flag_of_the_Philippines.svg"
+        },
+        {
+          "name": "Mexico",
+          "value": 128000000,
+          "unit": "hab.",
+          "img": "https://upload.wikimedia.org/wikipedia/commons/f/fc/Flag_of_Mexico.svg"
+        }
+      ],
+      "summary": "Approximate total population.",
+      "source": "https://es.wikipedia.org/wiki/Poblaci%C3%B3n_mundial"
+    },
+    {
+      "category": "Países",
+      "title": "Which country has a larger population?",
+      "items": [
+        {
+          "name": "DR Congo",
+          "value": 102000000,
+          "unit": "hab.",
+          "img": "https://upload.wikimedia.org/wikipedia/commons/6/6f/Flag_of_the_Democratic_Republic_of_the_Congo.svg"
+        },
+        {
+          "name": "Ethiopia",
+          "value": 123000000,
+          "unit": "hab.",
+          "img": "https://upload.wikimedia.org/wikipedia/commons/7/71/Flag_of_Ethiopia.svg"
+        }
+      ],
+      "summary": "Approximate total population.",
+      "source": "https://es.wikipedia.org/wiki/Poblaci%C3%B3n_mundial"
+    },
+    {
+      "category": "Países",
+      "title": "Which country has a larger population?",
+      "items": [
+        {
+          "name": "Germany",
+          "value": 84000000,
+          "unit": "hab.",
+          "img": "https://upload.wikimedia.org/wikipedia/en/b/ba/Flag_of_Germany.svg"
+        },
+        {
+          "name": "Nigeria",
+          "value": 216000000,
+          "unit": "hab.",
+          "img": "https://upload.wikimedia.org/wikipedia/commons/7/79/Flag_of_Nigeria.svg"
+        }
+      ],
+      "summary": "Approximate total population.",
+      "source": "https://es.wikipedia.org/wiki/Poblaci%C3%B3n_mundial"
+    },
+    {
+      "category": "Países",
+      "title": "Which country has a larger population?",
+      "items": [
+        {
+          "name": "Turkey",
+          "value": 85000000,
+          "unit": "hab.",
+          "img": "https://upload.wikimedia.org/wikipedia/commons/b/b4/Flag_of_Turkey.svg"
+        },
+        {
+          "name": "Pakistan",
+          "value": 240000000,
+          "unit": "hab.",
+          "img": "https://upload.wikimedia.org/wikipedia/commons/3/32/Flag_of_Pakistan.svg"
+        }
+      ],
+      "summary": "Approximate total population.",
+      "source": "https://es.wikipedia.org/wiki/Poblaci%C3%B3n_mundial"
+    },
+    {
+      "category": "Países",
+      "title": "Which country has a larger population?",
+      "items": [
+        {
+          "name": "Mexico",
+          "value": 128000000,
+          "unit": "hab.",
+          "img": "https://upload.wikimedia.org/wikipedia/commons/f/fc/Flag_of_Mexico.svg"
+        },
+        {
+          "name": "Pakistan",
+          "value": 240000000,
+          "unit": "hab.",
+          "img": "https://upload.wikimedia.org/wikipedia/commons/3/32/Flag_of_Pakistan.svg"
+        }
+      ],
+      "summary": "Approximate total population.",
+      "source": "https://es.wikipedia.org/wiki/Poblaci%C3%B3n_mundial"
+    },
+    {
+      "category": "Países",
+      "title": "Which country has a larger population?",
+      "items": [
+        {
+          "name": "Indonesia",
+          "value": 277000000,
+          "unit": "hab.",
+          "img": "https://upload.wikimedia.org/wikipedia/commons/9/9f/Flag_of_Indonesia.svg"
+        },
+        {
+          "name": "France",
+          "value": 68000000,
+          "unit": "hab.",
+          "img": "https://upload.wikimedia.org/wikipedia/en/c/c3/Flag_of_France.svg"
+        }
+      ],
+      "summary": "Approximate total population.",
+      "source": "https://es.wikipedia.org/wiki/Poblaci%C3%B3n_mundial"
+    },
+    {
+      "category": "Países",
+      "title": "Which country has a larger population?",
+      "items": [
+        {
+          "name": "Russia",
+          "value": 143000000,
+          "unit": "hab.",
+          "img": "https://upload.wikimedia.org/wikipedia/en/f/f3/Flag_of_Russia.svg"
+        },
+        {
+          "name": "Iran",
+          "value": 86000000,
+          "unit": "hab.",
+          "img": "https://upload.wikimedia.org/wikipedia/commons/c/ca/Flag_of_Iran.svg"
+        }
+      ],
+      "summary": "Approximate total population.",
+      "source": "https://es.wikipedia.org/wiki/Poblaci%C3%B3n_mundial"
+    },
+    {
+      "category": "Países",
+      "title": "Which country has a larger population?",
+      "items": [
+        {
+          "name": "Spain",
+          "value": 48000000,
+          "unit": "hab.",
+          "img": "https://upload.wikimedia.org/wikipedia/en/9/9a/Flag_of_Spain.svg"
+        },
+        {
+          "name": "France",
+          "value": 68000000,
+          "unit": "hab.",
+          "img": "https://upload.wikimedia.org/wikipedia/en/c/c3/Flag_of_France.svg"
+        }
+      ],
+      "summary": "Approximate total population.",
+      "source": "https://es.wikipedia.org/wiki/Poblaci%C3%B3n_mundial"
+    },
+    {
+      "category": "Países",
+      "title": "Which country has a larger population?",
+      "items": [
+        {
+          "name": "Pakistan",
+          "value": 240000000,
+          "unit": "hab.",
+          "img": "https://upload.wikimedia.org/wikipedia/commons/3/32/Flag_of_Pakistan.svg"
+        },
+        {
+          "name": "Mexico",
+          "value": 128000000,
+          "unit": "hab.",
+          "img": "https://upload.wikimedia.org/wikipedia/commons/f/fc/Flag_of_Mexico.svg"
+        }
+      ],
+      "summary": "Approximate total population.",
+      "source": "https://es.wikipedia.org/wiki/Poblaci%C3%B3n_mundial"
+    },
+    {
+      "category": "Países",
+      "title": "Which country has a larger population?",
+      "items": [
+        {
+          "name": "Indonesia",
+          "value": 277000000,
+          "unit": "hab.",
+          "img": "https://upload.wikimedia.org/wikipedia/commons/9/9f/Flag_of_Indonesia.svg"
+        },
+        {
+          "name": "Ukraine",
+          "value": 36000000,
+          "unit": "hab.",
+          "img": "https://upload.wikimedia.org/wikipedia/commons/4/49/Flag_of_Ukraine.svg"
+        }
+      ],
+      "summary": "Approximate total population.",
+      "source": "https://es.wikipedia.org/wiki/Poblaci%C3%B3n_mundial"
+    },
+    {
+      "category": "Países",
+      "title": "Which country has a larger population?",
+      "items": [
+        {
+          "name": "United States",
+          "value": 339000000,
+          "unit": "hab.",
+          "img": "https://upload.wikimedia.org/wikipedia/en/a/a4/Flag_of_the_United_States.svg"
+        },
+        {
+          "name": "Italy",
+          "value": 59000000,
+          "unit": "hab.",
+          "img": "https://upload.wikimedia.org/wikipedia/en/0/03/Flag_of_Italy.svg"
+        }
+      ],
+      "summary": "Approximate total population.",
+      "source": "https://es.wikipedia.org/wiki/Poblaci%C3%B3n_mundial"
+    },
+    {
+      "category": "Países",
+      "title": "Which country has a larger population?",
+      "items": [
+        {
+          "name": "Japan",
+          "value": 125000000,
+          "unit": "hab.",
+          "img": "https://upload.wikimedia.org/wikipedia/en/9/9e/Flag_of_Japan.svg"
+        },
+        {
+          "name": "DR Congo",
+          "value": 102000000,
+          "unit": "hab.",
+          "img": "https://upload.wikimedia.org/wikipedia/commons/6/6f/Flag_of_the_Democratic_Republic_of_the_Congo.svg"
+        }
+      ],
+      "summary": "Approximate total population.",
+      "source": "https://es.wikipedia.org/wiki/Poblaci%C3%B3n_mundial"
+    },
+    {
+      "category": "Países",
+      "title": "Which country has a larger population?",
+      "items": [
+        {
+          "name": "Iran",
+          "value": 86000000,
+          "unit": "hab.",
+          "img": "https://upload.wikimedia.org/wikipedia/commons/c/ca/Flag_of_Iran.svg"
+        },
+        {
+          "name": "Indonesia",
+          "value": 277000000,
+          "unit": "hab.",
+          "img": "https://upload.wikimedia.org/wikipedia/commons/9/9f/Flag_of_Indonesia.svg"
+        }
+      ],
+      "summary": "Approximate total population.",
+      "source": "https://es.wikipedia.org/wiki/Poblaci%C3%B3n_mundial"
+    },
+    {
+      "category": "Países",
+      "title": "Which country has a larger population?",
+      "items": [
+        {
+          "name": "Ethiopia",
+          "value": 123000000,
+          "unit": "hab.",
+          "img": "https://upload.wikimedia.org/wikipedia/commons/7/71/Flag_of_Ethiopia.svg"
+        },
+        {
+          "name": "Egypt",
+          "value": 110000000,
+          "unit": "hab.",
+          "img": "https://upload.wikimedia.org/wikipedia/commons/f/fe/Flag_of_Egypt.svg"
+        }
+      ],
+      "summary": "Approximate total population.",
+      "source": "https://es.wikipedia.org/wiki/Poblaci%C3%B3n_mundial"
+    },
+    {
+      "category": "Países",
+      "title": "Which country has a larger population?",
+      "items": [
+        {
+          "name": "Japan",
+          "value": 125000000,
+          "unit": "hab.",
+          "img": "https://upload.wikimedia.org/wikipedia/en/9/9e/Flag_of_Japan.svg"
+        },
+        {
+          "name": "France",
+          "value": 68000000,
+          "unit": "hab.",
+          "img": "https://upload.wikimedia.org/wikipedia/en/c/c3/Flag_of_France.svg"
+        }
+      ],
+      "summary": "Approximate total population.",
+      "source": "https://es.wikipedia.org/wiki/Poblaci%C3%B3n_mundial"
+    },
+    {
+      "category": "Países",
+      "title": "Which country has a larger population?",
+      "items": [
+        {
+          "name": "UK",
+          "value": 67000000,
+          "unit": "hab.",
+          "img": "https://upload.wikimedia.org/wikipedia/en/a/ae/Flag_of_the_United_Kingdom.svg"
+        },
+        {
+          "name": "Nigeria",
+          "value": 216000000,
+          "unit": "hab.",
+          "img": "https://upload.wikimedia.org/wikipedia/commons/7/79/Flag_of_Nigeria.svg"
+        }
+      ],
+      "summary": "Approximate total population.",
+      "source": "https://es.wikipedia.org/wiki/Poblaci%C3%B3n_mundial"
+    },
+    {
+      "category": "Países",
+      "title": "Which country has a larger population?",
+      "items": [
+        {
+          "name": "Iran",
+          "value": 86000000,
+          "unit": "hab.",
+          "img": "https://upload.wikimedia.org/wikipedia/commons/c/ca/Flag_of_Iran.svg"
+        },
+        {
+          "name": "DR Congo",
+          "value": 102000000,
+          "unit": "hab.",
+          "img": "https://upload.wikimedia.org/wikipedia/commons/6/6f/Flag_of_the_Democratic_Republic_of_the_Congo.svg"
+        }
+      ],
+      "summary": "Approximate total population.",
+      "source": "https://es.wikipedia.org/wiki/Poblaci%C3%B3n_mundial"
+    },
+    {
+      "category": "Países",
+      "title": "Which country has a larger population?",
+      "items": [
+        {
+          "name": "Vietnam",
+          "value": 100000000,
+          "unit": "hab.",
+          "img": "https://upload.wikimedia.org/wikipedia/commons/2/21/Flag_of_Vietnam.svg"
+        },
+        {
+          "name": "Turkey",
+          "value": 85000000,
+          "unit": "hab.",
+          "img": "https://upload.wikimedia.org/wikipedia/commons/b/b4/Flag_of_Turkey.svg"
+        }
+      ],
+      "summary": "Approximate total population.",
+      "source": "https://es.wikipedia.org/wiki/Poblaci%C3%B3n_mundial"
+    },
+    {
+      "category": "Países",
+      "title": "Which country has a larger population?",
+      "items": [
+        {
+          "name": "Russia",
+          "value": 143000000,
+          "unit": "hab.",
+          "img": "https://upload.wikimedia.org/wikipedia/en/f/f3/Flag_of_Russia.svg"
+        },
+        {
+          "name": "China",
+          "value": 1411000000,
+          "unit": "hab.",
+          "img": "https://upload.wikimedia.org/wikipedia/commons/f/fa/Flag_of_the_People%27s_Republic_of_China.svg"
+        }
+      ],
+      "summary": "Approximate total population.",
+      "source": "https://es.wikipedia.org/wiki/Poblaci%C3%B3n_mundial"
+    },
+    {
+      "category": "Países",
+      "title": "Which country has a larger population?",
+      "items": [
+        {
+          "name": "Iran",
+          "value": 86000000,
+          "unit": "hab.",
+          "img": "https://upload.wikimedia.org/wikipedia/commons/c/ca/Flag_of_Iran.svg"
+        },
+        {
+          "name": "India",
+          "value": 1428000000,
+          "unit": "hab.",
+          "img": "https://upload.wikimedia.org/wikipedia/en/4/41/Flag_of_India.svg"
+        }
+      ],
+      "summary": "Approximate total population.",
+      "source": "https://es.wikipedia.org/wiki/Poblaci%C3%B3n_mundial"
+    },
+    {
+      "category": "Países",
+      "title": "Which country has a larger population?",
+      "items": [
+        {
+          "name": "United States",
+          "value": 339000000,
+          "unit": "hab.",
+          "img": "https://upload.wikimedia.org/wikipedia/en/a/a4/Flag_of_the_United_States.svg"
+        },
+        {
+          "name": "Ukraine",
+          "value": 36000000,
+          "unit": "hab.",
+          "img": "https://upload.wikimedia.org/wikipedia/commons/4/49/Flag_of_Ukraine.svg"
+        }
+      ],
+      "summary": "Approximate total population.",
+      "source": "https://es.wikipedia.org/wiki/Poblaci%C3%B3n_mundial"
+    },
+    {
+      "category": "Países",
+      "title": "Which country has a larger population?",
+      "items": [
+        {
+          "name": "Philippines",
+          "value": 112000000,
+          "unit": "hab.",
+          "img": "https://upload.wikimedia.org/wikipedia/commons/9/99/Flag_of_the_Philippines.svg"
+        },
+        {
+          "name": "Spain",
+          "value": 48000000,
+          "unit": "hab.",
+          "img": "https://upload.wikimedia.org/wikipedia/en/9/9a/Flag_of_Spain.svg"
+        }
+      ],
+      "summary": "Approximate total population.",
+      "source": "https://es.wikipedia.org/wiki/Poblaci%C3%B3n_mundial"
+    },
+    {
+      "category": "Países",
+      "title": "Which country has a larger population?",
+      "items": [
+        {
+          "name": "Italy",
+          "value": 59000000,
+          "unit": "hab.",
+          "img": "https://upload.wikimedia.org/wikipedia/en/0/03/Flag_of_Italy.svg"
+        },
+        {
+          "name": "UK",
+          "value": 67000000,
+          "unit": "hab.",
+          "img": "https://upload.wikimedia.org/wikipedia/en/a/ae/Flag_of_the_United_Kingdom.svg"
+        }
+      ],
+      "summary": "Approximate total population.",
+      "source": "https://es.wikipedia.org/wiki/Poblaci%C3%B3n_mundial"
+    },
+    {
+      "category": "Países",
+      "title": "Which country has a larger population?",
+      "items": [
+        {
+          "name": "India",
+          "value": 1428000000,
+          "unit": "hab.",
+          "img": "https://upload.wikimedia.org/wikipedia/en/4/41/Flag_of_India.svg"
+        },
+        {
+          "name": "France",
+          "value": 68000000,
+          "unit": "hab.",
+          "img": "https://upload.wikimedia.org/wikipedia/en/c/c3/Flag_of_France.svg"
+        }
+      ],
+      "summary": "Approximate total population.",
+      "source": "https://es.wikipedia.org/wiki/Poblaci%C3%B3n_mundial"
+    },
+    {
+      "category": "Países",
+      "title": "Which country has a larger population?",
+      "items": [
+        {
+          "name": "DR Congo",
+          "value": 102000000,
+          "unit": "hab.",
+          "img": "https://upload.wikimedia.org/wikipedia/commons/6/6f/Flag_of_the_Democratic_Republic_of_the_Congo.svg"
+        },
+        {
+          "name": "Japan",
+          "value": 125000000,
+          "unit": "hab.",
+          "img": "https://upload.wikimedia.org/wikipedia/en/9/9e/Flag_of_Japan.svg"
+        }
+      ],
+      "summary": "Approximate total population.",
+      "source": "https://es.wikipedia.org/wiki/Poblaci%C3%B3n_mundial"
+    },
+    {
+      "category": "Países",
+      "title": "Which country has a larger population?",
+      "items": [
+        {
+          "name": "Bangladesh",
+          "value": 172000000,
+          "unit": "hab.",
+          "img": "https://upload.wikimedia.org/wikipedia/commons/f/f9/Flag_of_Bangladesh.svg"
+        },
+        {
+          "name": "Ukraine",
+          "value": 36000000,
+          "unit": "hab.",
+          "img": "https://upload.wikimedia.org/wikipedia/commons/4/49/Flag_of_Ukraine.svg"
+        }
+      ],
+      "summary": "Approximate total population.",
+      "source": "https://es.wikipedia.org/wiki/Poblaci%C3%B3n_mundial"
+    },
+    {
+      "category": "Países",
+      "title": "Which country has a larger population?",
+      "items": [
+        {
+          "name": "Japan",
+          "value": 125000000,
+          "unit": "hab.",
+          "img": "https://upload.wikimedia.org/wikipedia/en/9/9e/Flag_of_Japan.svg"
+        },
+        {
+          "name": "Spain",
+          "value": 48000000,
+          "unit": "hab.",
+          "img": "https://upload.wikimedia.org/wikipedia/en/9/9a/Flag_of_Spain.svg"
+        }
+      ],
+      "summary": "Approximate total population.",
+      "source": "https://es.wikipedia.org/wiki/Poblaci%C3%B3n_mundial"
+    },
+    {
+      "category": "Países",
+      "title": "Which country has a larger population?",
+      "items": [
+        {
+          "name": "United States",
+          "value": 339000000,
+          "unit": "hab.",
+          "img": "https://upload.wikimedia.org/wikipedia/en/a/a4/Flag_of_the_United_States.svg"
+        },
+        {
+          "name": "Nigeria",
+          "value": 216000000,
+          "unit": "hab.",
+          "img": "https://upload.wikimedia.org/wikipedia/commons/7/79/Flag_of_Nigeria.svg"
+        }
+      ],
+      "summary": "Approximate total population.",
+      "source": "https://es.wikipedia.org/wiki/Poblaci%C3%B3n_mundial"
+    },
+    {
+      "category": "Países",
+      "title": "Which country has a larger population?",
+      "items": [
+        {
+          "name": "Germany",
+          "value": 84000000,
+          "unit": "hab.",
+          "img": "https://upload.wikimedia.org/wikipedia/en/b/ba/Flag_of_Germany.svg"
+        },
+        {
+          "name": "Bangladesh",
+          "value": 172000000,
+          "unit": "hab.",
+          "img": "https://upload.wikimedia.org/wikipedia/commons/f/f9/Flag_of_Bangladesh.svg"
+        }
+      ],
+      "summary": "Approximate total population.",
+      "source": "https://es.wikipedia.org/wiki/Poblaci%C3%B3n_mundial"
+    },
+    {
+      "category": "Países",
+      "title": "Which country has a larger population?",
+      "items": [
+        {
+          "name": "Bangladesh",
+          "value": 172000000,
+          "unit": "hab.",
+          "img": "https://upload.wikimedia.org/wikipedia/commons/f/f9/Flag_of_Bangladesh.svg"
+        },
+        {
+          "name": "Pakistan",
+          "value": 240000000,
+          "unit": "hab.",
+          "img": "https://upload.wikimedia.org/wikipedia/commons/3/32/Flag_of_Pakistan.svg"
+        }
+      ],
+      "summary": "Approximate total population.",
+      "source": "https://es.wikipedia.org/wiki/Poblaci%C3%B3n_mundial"
+    },
+    {
+      "category": "Países",
+      "title": "Which country has a larger population?",
+      "items": [
+        {
+          "name": "Iran",
+          "value": 86000000,
+          "unit": "hab.",
+          "img": "https://upload.wikimedia.org/wikipedia/commons/c/ca/Flag_of_Iran.svg"
+        },
+        {
+          "name": "Vietnam",
+          "value": 100000000,
+          "unit": "hab.",
+          "img": "https://upload.wikimedia.org/wikipedia/commons/2/21/Flag_of_Vietnam.svg"
+        }
+      ],
+      "summary": "Approximate total population.",
+      "source": "https://es.wikipedia.org/wiki/Poblaci%C3%B3n_mundial"
+    },
+    {
+      "category": "Países",
+      "title": "Which country has a larger population?",
+      "items": [
+        {
+          "name": "United States",
+          "value": 339000000,
+          "unit": "hab.",
+          "img": "https://upload.wikimedia.org/wikipedia/en/a/a4/Flag_of_the_United_States.svg"
+        },
+        {
+          "name": "Japan",
+          "value": 125000000,
+          "unit": "hab.",
+          "img": "https://upload.wikimedia.org/wikipedia/en/9/9e/Flag_of_Japan.svg"
+        }
+      ],
+      "summary": "Approximate total population.",
+      "source": "https://es.wikipedia.org/wiki/Poblaci%C3%B3n_mundial"
+    },
+    {
+      "category": "Países",
+      "title": "Which country has a larger population?",
+      "items": [
+        {
+          "name": "Turkey",
+          "value": 85000000,
+          "unit": "hab.",
+          "img": "https://upload.wikimedia.org/wikipedia/commons/b/b4/Flag_of_Turkey.svg"
+        },
+        {
+          "name": "DR Congo",
+          "value": 102000000,
+          "unit": "hab.",
+          "img": "https://upload.wikimedia.org/wikipedia/commons/6/6f/Flag_of_the_Democratic_Republic_of_the_Congo.svg"
+        }
+      ],
+      "summary": "Approximate total population.",
+      "source": "https://es.wikipedia.org/wiki/Poblaci%C3%B3n_mundial"
+    },
+    {
+      "category": "Países",
+      "title": "Which country has a larger population?",
+      "items": [
+        {
+          "name": "Indonesia",
+          "value": 277000000,
+          "unit": "hab.",
+          "img": "https://upload.wikimedia.org/wikipedia/commons/9/9f/Flag_of_Indonesia.svg"
+        },
+        {
+          "name": "Mexico",
+          "value": 128000000,
+          "unit": "hab.",
+          "img": "https://upload.wikimedia.org/wikipedia/commons/f/fc/Flag_of_Mexico.svg"
+        }
+      ],
+      "summary": "Approximate total population.",
+      "source": "https://es.wikipedia.org/wiki/Poblaci%C3%B3n_mundial"
+    },
+    {
+      "category": "Países",
+      "title": "Which country has a larger population?",
+      "items": [
+        {
+          "name": "Iran",
+          "value": 86000000,
+          "unit": "hab.",
+          "img": "https://upload.wikimedia.org/wikipedia/commons/c/ca/Flag_of_Iran.svg"
+        },
+        {
+          "name": "Mexico",
+          "value": 128000000,
+          "unit": "hab.",
+          "img": "https://upload.wikimedia.org/wikipedia/commons/f/fc/Flag_of_Mexico.svg"
+        }
+      ],
+      "summary": "Approximate total population.",
+      "source": "https://es.wikipedia.org/wiki/Poblaci%C3%B3n_mundial"
+    },
+    {
+      "category": "Países",
+      "title": "Which country has a larger population?",
+      "items": [
+        {
+          "name": "Spain",
+          "value": 48000000,
+          "unit": "hab.",
+          "img": "https://upload.wikimedia.org/wikipedia/en/9/9a/Flag_of_Spain.svg"
+        },
+        {
+          "name": "Indonesia",
+          "value": 277000000,
+          "unit": "hab.",
+          "img": "https://upload.wikimedia.org/wikipedia/commons/9/9f/Flag_of_Indonesia.svg"
+        }
+      ],
+      "summary": "Approximate total population.",
+      "source": "https://es.wikipedia.org/wiki/Poblaci%C3%B3n_mundial"
+    },
+    {
+      "category": "Países",
+      "title": "Which country has a larger population?",
+      "items": [
+        {
+          "name": "Iran",
+          "value": 86000000,
+          "unit": "hab.",
+          "img": "https://upload.wikimedia.org/wikipedia/commons/c/ca/Flag_of_Iran.svg"
+        },
+        {
+          "name": "Japan",
+          "value": 125000000,
+          "unit": "hab.",
+          "img": "https://upload.wikimedia.org/wikipedia/en/9/9e/Flag_of_Japan.svg"
+        }
+      ],
+      "summary": "Approximate total population.",
+      "source": "https://es.wikipedia.org/wiki/Poblaci%C3%B3n_mundial"
+    },
+    {
+      "category": "Países",
+      "title": "Which country has a larger population?",
+      "items": [
+        {
+          "name": "Iran",
+          "value": 86000000,
+          "unit": "hab.",
+          "img": "https://upload.wikimedia.org/wikipedia/commons/c/ca/Flag_of_Iran.svg"
+        },
+        {
+          "name": "Nigeria",
+          "value": 216000000,
+          "unit": "hab.",
+          "img": "https://upload.wikimedia.org/wikipedia/commons/7/79/Flag_of_Nigeria.svg"
+        }
+      ],
+      "summary": "Approximate total population.",
+      "source": "https://es.wikipedia.org/wiki/Poblaci%C3%B3n_mundial"
+    },
+    {
+      "category": "Países",
+      "title": "Which country has a larger population?",
+      "items": [
+        {
+          "name": "France",
+          "value": 68000000,
+          "unit": "hab.",
+          "img": "https://upload.wikimedia.org/wikipedia/en/c/c3/Flag_of_France.svg"
+        },
+        {
+          "name": "Iran",
+          "value": 86000000,
+          "unit": "hab.",
+          "img": "https://upload.wikimedia.org/wikipedia/commons/c/ca/Flag_of_Iran.svg"
+        }
+      ],
+      "summary": "Approximate total population.",
+      "source": "https://es.wikipedia.org/wiki/Poblaci%C3%B3n_mundial"
+    },
+    {
+      "category": "Países",
+      "title": "Which country has a larger population?",
+      "items": [
+        {
+          "name": "Germany",
+          "value": 84000000,
+          "unit": "hab.",
+          "img": "https://upload.wikimedia.org/wikipedia/en/b/ba/Flag_of_Germany.svg"
+        },
+        {
+          "name": "Mexico",
+          "value": 128000000,
+          "unit": "hab.",
+          "img": "https://upload.wikimedia.org/wikipedia/commons/f/fc/Flag_of_Mexico.svg"
+        }
+      ],
+      "summary": "Approximate total population.",
+      "source": "https://es.wikipedia.org/wiki/Poblaci%C3%B3n_mundial"
+    },
+    {
+      "category": "Países",
+      "title": "Which country has a larger population?",
+      "items": [
+        {
+          "name": "Vietnam",
+          "value": 100000000,
+          "unit": "hab.",
+          "img": "https://upload.wikimedia.org/wikipedia/commons/2/21/Flag_of_Vietnam.svg"
+        },
+        {
+          "name": "United States",
+          "value": 339000000,
+          "unit": "hab.",
+          "img": "https://upload.wikimedia.org/wikipedia/en/a/a4/Flag_of_the_United_States.svg"
+        }
+      ],
+      "summary": "Approximate total population.",
+      "source": "https://es.wikipedia.org/wiki/Poblaci%C3%B3n_mundial"
+    },
+    {
+      "category": "Países",
+      "title": "Which country has a larger population?",
+      "items": [
+        {
+          "name": "France",
+          "value": 68000000,
+          "unit": "hab.",
+          "img": "https://upload.wikimedia.org/wikipedia/en/c/c3/Flag_of_France.svg"
+        },
+        {
+          "name": "Philippines",
+          "value": 112000000,
+          "unit": "hab.",
+          "img": "https://upload.wikimedia.org/wikipedia/commons/9/99/Flag_of_the_Philippines.svg"
+        }
+      ],
+      "summary": "Approximate total population.",
+      "source": "https://es.wikipedia.org/wiki/Poblaci%C3%B3n_mundial"
+    },
+    {
+      "category": "Países",
+      "title": "Which country has a larger population?",
+      "items": [
+        {
+          "name": "Japan",
+          "value": 125000000,
+          "unit": "hab.",
+          "img": "https://upload.wikimedia.org/wikipedia/en/9/9e/Flag_of_Japan.svg"
+        },
+        {
+          "name": "Germany",
+          "value": 84000000,
+          "unit": "hab.",
+          "img": "https://upload.wikimedia.org/wikipedia/en/b/ba/Flag_of_Germany.svg"
+        }
+      ],
+      "summary": "Approximate total population.",
+      "source": "https://es.wikipedia.org/wiki/Poblaci%C3%B3n_mundial"
+    },
+    {
+      "category": "Países",
+      "title": "Which country has a larger population?",
+      "items": [
+        {
+          "name": "Bangladesh",
+          "value": 172000000,
+          "unit": "hab.",
+          "img": "https://upload.wikimedia.org/wikipedia/commons/f/f9/Flag_of_Bangladesh.svg"
+        },
+        {
+          "name": "Mexico",
+          "value": 128000000,
+          "unit": "hab.",
+          "img": "https://upload.wikimedia.org/wikipedia/commons/f/fc/Flag_of_Mexico.svg"
+        }
+      ],
+      "summary": "Approximate total population.",
+      "source": "https://es.wikipedia.org/wiki/Poblaci%C3%B3n_mundial"
+    },
+    {
+      "category": "Países",
+      "title": "Which country has a larger population?",
+      "items": [
+        {
+          "name": "Brazil",
+          "value": 215000000,
+          "unit": "hab.",
+          "img": "https://upload.wikimedia.org/wikipedia/en/0/05/Flag_of_Brazil.svg"
+        },
+        {
+          "name": "Nigeria",
+          "value": 216000000,
+          "unit": "hab.",
+          "img": "https://upload.wikimedia.org/wikipedia/commons/7/79/Flag_of_Nigeria.svg"
+        }
+      ],
+      "summary": "Approximate total population.",
+      "source": "https://es.wikipedia.org/wiki/Poblaci%C3%B3n_mundial"
+    },
+    {
+      "category": "Países",
+      "title": "Which country has a larger population?",
+      "items": [
+        {
+          "name": "Brazil",
+          "value": 215000000,
+          "unit": "hab.",
+          "img": "https://upload.wikimedia.org/wikipedia/en/0/05/Flag_of_Brazil.svg"
+        },
+        {
+          "name": "China",
+          "value": 1411000000,
+          "unit": "hab.",
+          "img": "https://upload.wikimedia.org/wikipedia/commons/f/fa/Flag_of_the_People%27s_Republic_of_China.svg"
+        }
+      ],
+      "summary": "Approximate total population.",
+      "source": "https://es.wikipedia.org/wiki/Poblaci%C3%B3n_mundial"
+    },
+    {
+      "category": "Países",
+      "title": "Which country has a larger population?",
+      "items": [
+        {
+          "name": "France",
+          "value": 68000000,
+          "unit": "hab.",
+          "img": "https://upload.wikimedia.org/wikipedia/en/c/c3/Flag_of_France.svg"
+        },
+        {
+          "name": "Italy",
+          "value": 59000000,
+          "unit": "hab.",
+          "img": "https://upload.wikimedia.org/wikipedia/en/0/03/Flag_of_Italy.svg"
+        }
+      ],
+      "summary": "Approximate total population.",
+      "source": "https://es.wikipedia.org/wiki/Poblaci%C3%B3n_mundial"
+    },
+    {
+      "category": "Países",
+      "title": "Which country has a larger population?",
+      "items": [
+        {
+          "name": "Russia",
+          "value": 143000000,
+          "unit": "hab.",
+          "img": "https://upload.wikimedia.org/wikipedia/en/f/f3/Flag_of_Russia.svg"
+        },
+        {
+          "name": "DR Congo",
+          "value": 102000000,
+          "unit": "hab.",
+          "img": "https://upload.wikimedia.org/wikipedia/commons/6/6f/Flag_of_the_Democratic_Republic_of_the_Congo.svg"
+        }
+      ],
+      "summary": "Approximate total population.",
+      "source": "https://es.wikipedia.org/wiki/Poblaci%C3%B3n_mundial"
+    },
+    {
+      "category": "Países",
+      "title": "Which country has a larger population?",
+      "items": [
+        {
+          "name": "United States",
+          "value": 339000000,
+          "unit": "hab.",
+          "img": "https://upload.wikimedia.org/wikipedia/en/a/a4/Flag_of_the_United_States.svg"
+        },
+        {
+          "name": "Italy",
+          "value": 59000000,
+          "unit": "hab.",
+          "img": "https://upload.wikimedia.org/wikipedia/en/0/03/Flag_of_Italy.svg"
+        }
+      ],
+      "summary": "Approximate total population.",
+      "source": "https://es.wikipedia.org/wiki/Poblaci%C3%B3n_mundial"
+    },
+    {
+      "category": "Países",
+      "title": "Which country has a larger population?",
+      "items": [
+        {
+          "name": "Pakistan",
+          "value": 240000000,
+          "unit": "hab.",
+          "img": "https://upload.wikimedia.org/wikipedia/commons/3/32/Flag_of_Pakistan.svg"
+        },
+        {
+          "name": "China",
+          "value": 1411000000,
+          "unit": "hab.",
+          "img": "https://upload.wikimedia.org/wikipedia/commons/f/fa/Flag_of_the_People%27s_Republic_of_China.svg"
+        }
+      ],
+      "summary": "Approximate total population.",
+      "source": "https://es.wikipedia.org/wiki/Poblaci%C3%B3n_mundial"
+    },
+    {
+      "category": "Países",
+      "title": "Which country has a larger population?",
+      "items": [
+        {
+          "name": "United States",
+          "value": 339000000,
+          "unit": "hab.",
+          "img": "https://upload.wikimedia.org/wikipedia/en/a/a4/Flag_of_the_United_States.svg"
+        },
+        {
+          "name": "Spain",
+          "value": 48000000,
+          "unit": "hab.",
+          "img": "https://upload.wikimedia.org/wikipedia/en/9/9a/Flag_of_Spain.svg"
+        }
+      ],
+      "summary": "Approximate total population.",
+      "source": "https://es.wikipedia.org/wiki/Poblaci%C3%B3n_mundial"
+    },
+    {
+      "category": "Países",
+      "title": "Which country has a larger population?",
+      "items": [
+        {
+          "name": "Iran",
+          "value": 86000000,
+          "unit": "hab.",
+          "img": "https://upload.wikimedia.org/wikipedia/commons/c/ca/Flag_of_Iran.svg"
+        },
+        {
+          "name": "Italy",
+          "value": 59000000,
+          "unit": "hab.",
+          "img": "https://upload.wikimedia.org/wikipedia/en/0/03/Flag_of_Italy.svg"
+        }
+      ],
+      "summary": "Approximate total population.",
+      "source": "https://es.wikipedia.org/wiki/Poblaci%C3%B3n_mundial"
+    },
+    {
+      "category": "Países",
+      "title": "Which country has a larger population?",
+      "items": [
+        {
+          "name": "Philippines",
+          "value": 112000000,
+          "unit": "hab.",
+          "img": "https://upload.wikimedia.org/wikipedia/commons/9/99/Flag_of_the_Philippines.svg"
+        },
+        {
+          "name": "Spain",
+          "value": 48000000,
+          "unit": "hab.",
+          "img": "https://upload.wikimedia.org/wikipedia/en/9/9a/Flag_of_Spain.svg"
+        }
+      ],
+      "summary": "Approximate total population.",
+      "source": "https://es.wikipedia.org/wiki/Poblaci%C3%B3n_mundial"
+    },
+    {
+      "category": "Países",
+      "title": "Which country has a larger population?",
+      "items": [
+        {
+          "name": "Turkey",
+          "value": 85000000,
+          "unit": "hab.",
+          "img": "https://upload.wikimedia.org/wikipedia/commons/b/b4/Flag_of_Turkey.svg"
+        },
+        {
+          "name": "Russia",
+          "value": 143000000,
+          "unit": "hab.",
+          "img": "https://upload.wikimedia.org/wikipedia/en/f/f3/Flag_of_Russia.svg"
+        }
+      ],
+      "summary": "Approximate total population.",
+      "source": "https://es.wikipedia.org/wiki/Poblaci%C3%B3n_mundial"
+    },
+    {
+      "category": "Países",
+      "title": "Which country has a larger population?",
+      "items": [
+        {
+          "name": "Turkey",
+          "value": 85000000,
+          "unit": "hab.",
+          "img": "https://upload.wikimedia.org/wikipedia/commons/b/b4/Flag_of_Turkey.svg"
+        },
+        {
+          "name": "Bangladesh",
+          "value": 172000000,
+          "unit": "hab.",
+          "img": "https://upload.wikimedia.org/wikipedia/commons/f/f9/Flag_of_Bangladesh.svg"
+        }
+      ],
+      "summary": "Approximate total population.",
+      "source": "https://es.wikipedia.org/wiki/Poblaci%C3%B3n_mundial"
+    },
+    {
+      "category": "Países",
+      "title": "Which country has a larger population?",
+      "items": [
+        {
+          "name": "Nigeria",
+          "value": 216000000,
+          "unit": "hab.",
+          "img": "https://upload.wikimedia.org/wikipedia/commons/7/79/Flag_of_Nigeria.svg"
+        },
+        {
+          "name": "Italy",
+          "value": 59000000,
+          "unit": "hab.",
+          "img": "https://upload.wikimedia.org/wikipedia/en/0/03/Flag_of_Italy.svg"
+        }
+      ],
+      "summary": "Approximate total population.",
+      "source": "https://es.wikipedia.org/wiki/Poblaci%C3%B3n_mundial"
+    },
+    {
+      "category": "Países",
+      "title": "Which country has a larger population?",
+      "items": [
+        {
+          "name": "Germany",
+          "value": 84000000,
+          "unit": "hab.",
+          "img": "https://upload.wikimedia.org/wikipedia/en/b/ba/Flag_of_Germany.svg"
+        },
+        {
+          "name": "Egypt",
+          "value": 110000000,
+          "unit": "hab.",
+          "img": "https://upload.wikimedia.org/wikipedia/commons/f/fe/Flag_of_Egypt.svg"
+        }
+      ],
+      "summary": "Approximate total population.",
+      "source": "https://es.wikipedia.org/wiki/Poblaci%C3%B3n_mundial"
+    },
+    {
+      "category": "Países",
+      "title": "Which country has a larger population?",
+      "items": [
+        {
+          "name": "Germany",
+          "value": 84000000,
+          "unit": "hab.",
+          "img": "https://upload.wikimedia.org/wikipedia/en/b/ba/Flag_of_Germany.svg"
+        },
+        {
+          "name": "Russia",
+          "value": 143000000,
+          "unit": "hab.",
+          "img": "https://upload.wikimedia.org/wikipedia/en/f/f3/Flag_of_Russia.svg"
+        }
+      ],
+      "summary": "Approximate total population.",
+      "source": "https://es.wikipedia.org/wiki/Poblaci%C3%B3n_mundial"
+    },
+    {
+      "category": "Países",
+      "title": "Which country has a larger population?",
+      "items": [
+        {
+          "name": "Vietnam",
+          "value": 100000000,
+          "unit": "hab.",
+          "img": "https://upload.wikimedia.org/wikipedia/commons/2/21/Flag_of_Vietnam.svg"
+        },
+        {
+          "name": "DR Congo",
+          "value": 102000000,
+          "unit": "hab.",
+          "img": "https://upload.wikimedia.org/wikipedia/commons/6/6f/Flag_of_the_Democratic_Republic_of_the_Congo.svg"
+        }
+      ],
+      "summary": "Approximate total population.",
+      "source": "https://es.wikipedia.org/wiki/Poblaci%C3%B3n_mundial"
+    },
+    {
+      "category": "Países",
+      "title": "Which country has a larger population?",
+      "items": [
+        {
+          "name": "Italy",
+          "value": 59000000,
+          "unit": "hab.",
+          "img": "https://upload.wikimedia.org/wikipedia/en/0/03/Flag_of_Italy.svg"
+        },
+        {
+          "name": "UK",
+          "value": 67000000,
+          "unit": "hab.",
+          "img": "https://upload.wikimedia.org/wikipedia/en/a/ae/Flag_of_the_United_Kingdom.svg"
+        }
+      ],
+      "summary": "Approximate total population.",
+      "source": "https://es.wikipedia.org/wiki/Poblaci%C3%B3n_mundial"
+    },
+    {
+      "category": "Países",
+      "title": "Which country has a larger population?",
+      "items": [
+        {
+          "name": "Spain",
+          "value": 48000000,
+          "unit": "hab.",
+          "img": "https://upload.wikimedia.org/wikipedia/en/9/9a/Flag_of_Spain.svg"
+        },
+        {
+          "name": "Ethiopia",
+          "value": 123000000,
+          "unit": "hab.",
+          "img": "https://upload.wikimedia.org/wikipedia/commons/7/71/Flag_of_Ethiopia.svg"
+        }
+      ],
+      "summary": "Approximate total population.",
+      "source": "https://es.wikipedia.org/wiki/Poblaci%C3%B3n_mundial"
+    },
+    {
+      "category": "Países",
+      "title": "Which country has a larger population?",
+      "items": [
+        {
+          "name": "United States",
+          "value": 339000000,
+          "unit": "hab.",
+          "img": "https://upload.wikimedia.org/wikipedia/en/a/a4/Flag_of_the_United_States.svg"
+        },
+        {
+          "name": "Japan",
+          "value": 125000000,
+          "unit": "hab.",
+          "img": "https://upload.wikimedia.org/wikipedia/en/9/9e/Flag_of_Japan.svg"
+        }
+      ],
+      "summary": "Approximate total population.",
+      "source": "https://es.wikipedia.org/wiki/Poblaci%C3%B3n_mundial"
+    },
+    {
+      "category": "Países",
+      "title": "Which country has a larger population?",
+      "items": [
+        {
+          "name": "France",
+          "value": 68000000,
+          "unit": "hab.",
+          "img": "https://upload.wikimedia.org/wikipedia/en/c/c3/Flag_of_France.svg"
+        },
+        {
+          "name": "Indonesia",
+          "value": 277000000,
+          "unit": "hab.",
+          "img": "https://upload.wikimedia.org/wikipedia/commons/9/9f/Flag_of_Indonesia.svg"
+        }
+      ],
+      "summary": "Approximate total population.",
+      "source": "https://es.wikipedia.org/wiki/Poblaci%C3%B3n_mundial"
+    },
+    {
+      "category": "Países",
+      "title": "Which country has a larger population?",
+      "items": [
+        {
+          "name": "DR Congo",
+          "value": 102000000,
+          "unit": "hab.",
+          "img": "https://upload.wikimedia.org/wikipedia/commons/6/6f/Flag_of_the_Democratic_Republic_of_the_Congo.svg"
+        },
+        {
+          "name": "Germany",
+          "value": 84000000,
+          "unit": "hab.",
+          "img": "https://upload.wikimedia.org/wikipedia/en/b/ba/Flag_of_Germany.svg"
+        }
+      ],
+      "summary": "Approximate total population.",
+      "source": "https://es.wikipedia.org/wiki/Poblaci%C3%B3n_mundial"
+    },
+    {
+      "category": "Países",
+      "title": "Which country has a larger population?",
+      "items": [
+        {
+          "name": "UK",
+          "value": 67000000,
+          "unit": "hab.",
+          "img": "https://upload.wikimedia.org/wikipedia/en/a/ae/Flag_of_the_United_Kingdom.svg"
+        },
+        {
+          "name": "Japan",
+          "value": 125000000,
+          "unit": "hab.",
+          "img": "https://upload.wikimedia.org/wikipedia/en/9/9e/Flag_of_Japan.svg"
+        }
+      ],
+      "summary": "Approximate total population.",
+      "source": "https://es.wikipedia.org/wiki/Poblaci%C3%B3n_mundial"
+    },
+    {
+      "category": "Países",
+      "title": "Which country has a larger population?",
+      "items": [
+        {
+          "name": "Nigeria",
+          "value": 216000000,
+          "unit": "hab.",
+          "img": "https://upload.wikimedia.org/wikipedia/commons/7/79/Flag_of_Nigeria.svg"
+        },
+        {
+          "name": "Bangladesh",
+          "value": 172000000,
+          "unit": "hab.",
+          "img": "https://upload.wikimedia.org/wikipedia/commons/f/f9/Flag_of_Bangladesh.svg"
+        }
+      ],
+      "summary": "Approximate total population.",
+      "source": "https://es.wikipedia.org/wiki/Poblaci%C3%B3n_mundial"
+    },
+    {
+      "category": "Países",
+      "title": "Which country has a larger population?",
+      "items": [
+        {
+          "name": "India",
+          "value": 1428000000,
+          "unit": "hab.",
+          "img": "https://upload.wikimedia.org/wikipedia/en/4/41/Flag_of_India.svg"
+        },
+        {
+          "name": "Ukraine",
+          "value": 36000000,
+          "unit": "hab.",
+          "img": "https://upload.wikimedia.org/wikipedia/commons/4/49/Flag_of_Ukraine.svg"
+        }
+      ],
+      "summary": "Approximate total population.",
+      "source": "https://es.wikipedia.org/wiki/Poblaci%C3%B3n_mundial"
+    },
+    {
+      "category": "Países",
+      "title": "Which country has a larger population?",
+      "items": [
+        {
+          "name": "Russia",
+          "value": 143000000,
+          "unit": "hab.",
+          "img": "https://upload.wikimedia.org/wikipedia/en/f/f3/Flag_of_Russia.svg"
+        },
+        {
+          "name": "Indonesia",
+          "value": 277000000,
+          "unit": "hab.",
+          "img": "https://upload.wikimedia.org/wikipedia/commons/9/9f/Flag_of_Indonesia.svg"
+        }
+      ],
+      "summary": "Approximate total population.",
+      "source": "https://es.wikipedia.org/wiki/Poblaci%C3%B3n_mundial"
+    },
+    {
+      "category": "Países",
+      "title": "Which country has a larger population?",
+      "items": [
+        {
+          "name": "Spain",
+          "value": 48000000,
+          "unit": "hab.",
+          "img": "https://upload.wikimedia.org/wikipedia/en/9/9a/Flag_of_Spain.svg"
+        },
+        {
+          "name": "Bangladesh",
+          "value": 172000000,
+          "unit": "hab.",
+          "img": "https://upload.wikimedia.org/wikipedia/commons/f/f9/Flag_of_Bangladesh.svg"
+        }
+      ],
+      "summary": "Approximate total population.",
+      "source": "https://es.wikipedia.org/wiki/Poblaci%C3%B3n_mundial"
+    },
+    {
+      "category": "Países",
+      "title": "Which country has a larger population?",
+      "items": [
+        {
+          "name": "Ethiopia",
+          "value": 123000000,
+          "unit": "hab.",
+          "img": "https://upload.wikimedia.org/wikipedia/commons/7/71/Flag_of_Ethiopia.svg"
+        },
+        {
+          "name": "Brazil",
+          "value": 215000000,
+          "unit": "hab.",
+          "img": "https://upload.wikimedia.org/wikipedia/en/0/05/Flag_of_Brazil.svg"
+        }
+      ],
+      "summary": "Approximate total population.",
+      "source": "https://es.wikipedia.org/wiki/Poblaci%C3%B3n_mundial"
+    },
+    {
+      "category": "Países",
+      "title": "Which country has a larger population?",
+      "items": [
+        {
+          "name": "Japan",
+          "value": 125000000,
+          "unit": "hab.",
+          "img": "https://upload.wikimedia.org/wikipedia/en/9/9e/Flag_of_Japan.svg"
+        },
+        {
+          "name": "Egypt",
+          "value": 110000000,
+          "unit": "hab.",
+          "img": "https://upload.wikimedia.org/wikipedia/commons/f/fe/Flag_of_Egypt.svg"
+        }
+      ],
+      "summary": "Approximate total population.",
+      "source": "https://es.wikipedia.org/wiki/Poblaci%C3%B3n_mundial"
+    },
+    {
+      "category": "Países",
+      "title": "Which country has a larger population?",
+      "items": [
+        {
+          "name": "China",
+          "value": 1411000000,
+          "unit": "hab.",
+          "img": "https://upload.wikimedia.org/wikipedia/commons/f/fa/Flag_of_the_People%27s_Republic_of_China.svg"
+        },
+        {
+          "name": "Indonesia",
+          "value": 277000000,
+          "unit": "hab.",
+          "img": "https://upload.wikimedia.org/wikipedia/commons/9/9f/Flag_of_Indonesia.svg"
+        }
+      ],
+      "summary": "Approximate total population.",
+      "source": "https://es.wikipedia.org/wiki/Poblaci%C3%B3n_mundial"
+    },
+    {
+      "category": "Países",
+      "title": "Which country has a larger population?",
+      "items": [
+        {
+          "name": "Pakistan",
+          "value": 240000000,
+          "unit": "hab.",
+          "img": "https://upload.wikimedia.org/wikipedia/commons/3/32/Flag_of_Pakistan.svg"
+        },
+        {
+          "name": "Spain",
+          "value": 48000000,
+          "unit": "hab.",
+          "img": "https://upload.wikimedia.org/wikipedia/en/9/9a/Flag_of_Spain.svg"
+        }
+      ],
+      "summary": "Approximate total population.",
+      "source": "https://es.wikipedia.org/wiki/Poblaci%C3%B3n_mundial"
+    },
+    {
+      "category": "Países",
+      "title": "Which country has a larger population?",
+      "items": [
+        {
+          "name": "Bangladesh",
+          "value": 172000000,
+          "unit": "hab.",
+          "img": "https://upload.wikimedia.org/wikipedia/commons/f/f9/Flag_of_Bangladesh.svg"
+        },
+        {
+          "name": "China",
+          "value": 1411000000,
+          "unit": "hab.",
+          "img": "https://upload.wikimedia.org/wikipedia/commons/f/fa/Flag_of_the_People%27s_Republic_of_China.svg"
+        }
+      ],
+      "summary": "Approximate total population.",
+      "source": "https://es.wikipedia.org/wiki/Poblaci%C3%B3n_mundial"
+    },
+    {
+      "category": "Países",
+      "title": "Which country has a larger population?",
+      "items": [
+        {
+          "name": "Germany",
+          "value": 84000000,
+          "unit": "hab.",
+          "img": "https://upload.wikimedia.org/wikipedia/en/b/ba/Flag_of_Germany.svg"
+        },
+        {
+          "name": "UK",
+          "value": 67000000,
+          "unit": "hab.",
+          "img": "https://upload.wikimedia.org/wikipedia/en/a/ae/Flag_of_the_United_Kingdom.svg"
+        }
+      ],
+      "summary": "Approximate total population.",
+      "source": "https://es.wikipedia.org/wiki/Poblaci%C3%B3n_mundial"
+    },
+    {
+      "category": "Países",
+      "title": "Which country has a larger population?",
+      "items": [
+        {
+          "name": "Iran",
+          "value": 86000000,
+          "unit": "hab.",
+          "img": "https://upload.wikimedia.org/wikipedia/commons/c/ca/Flag_of_Iran.svg"
+        },
+        {
+          "name": "France",
+          "value": 68000000,
+          "unit": "hab.",
+          "img": "https://upload.wikimedia.org/wikipedia/en/c/c3/Flag_of_France.svg"
+        }
+      ],
+      "summary": "Approximate total population.",
+      "source": "https://es.wikipedia.org/wiki/Poblaci%C3%B3n_mundial"
+    },
+    {
+      "category": "Países",
+      "title": "Which country has a larger population?",
+      "items": [
+        {
+          "name": "Italy",
+          "value": 59000000,
+          "unit": "hab.",
+          "img": "https://upload.wikimedia.org/wikipedia/en/0/03/Flag_of_Italy.svg"
+        },
+        {
+          "name": "United States",
+          "value": 339000000,
+          "unit": "hab.",
+          "img": "https://upload.wikimedia.org/wikipedia/en/a/a4/Flag_of_the_United_States.svg"
+        }
+      ],
+      "summary": "Approximate total population.",
+      "source": "https://es.wikipedia.org/wiki/Poblaci%C3%B3n_mundial"
+    },
+    {
+      "category": "Países",
+      "title": "Which country has a larger population?",
+      "items": [
+        {
+          "name": "India",
+          "value": 1428000000,
+          "unit": "hab.",
+          "img": "https://upload.wikimedia.org/wikipedia/en/4/41/Flag_of_India.svg"
+        },
+        {
+          "name": "Indonesia",
+          "value": 277000000,
+          "unit": "hab.",
+          "img": "https://upload.wikimedia.org/wikipedia/commons/9/9f/Flag_of_Indonesia.svg"
+        }
+      ],
+      "summary": "Approximate total population.",
+      "source": "https://es.wikipedia.org/wiki/Poblaci%C3%B3n_mundial"
+    },
+    {
+      "category": "Países",
+      "title": "Which country has a larger population?",
+      "items": [
+        {
+          "name": "UK",
+          "value": 67000000,
+          "unit": "hab.",
+          "img": "https://upload.wikimedia.org/wikipedia/en/a/ae/Flag_of_the_United_Kingdom.svg"
+        },
+        {
+          "name": "Nigeria",
+          "value": 216000000,
+          "unit": "hab.",
+          "img": "https://upload.wikimedia.org/wikipedia/commons/7/79/Flag_of_Nigeria.svg"
+        }
+      ],
+      "summary": "Approximate total population.",
+      "source": "https://es.wikipedia.org/wiki/Poblaci%C3%B3n_mundial"
+    },
+    {
+      "category": "Países",
+      "title": "Which country has a larger population?",
+      "items": [
+        {
+          "name": "France",
+          "value": 68000000,
+          "unit": "hab.",
+          "img": "https://upload.wikimedia.org/wikipedia/en/c/c3/Flag_of_France.svg"
+        },
+        {
+          "name": "Germany",
+          "value": 84000000,
+          "unit": "hab.",
+          "img": "https://upload.wikimedia.org/wikipedia/en/b/ba/Flag_of_Germany.svg"
+        }
+      ],
+      "summary": "Approximate total population.",
+      "source": "https://es.wikipedia.org/wiki/Poblaci%C3%B3n_mundial"
+    },
+    {
+      "category": "Países",
+      "title": "Which country has a larger population?",
+      "items": [
+        {
+          "name": "Indonesia",
+          "value": 277000000,
+          "unit": "hab.",
+          "img": "https://upload.wikimedia.org/wikipedia/commons/9/9f/Flag_of_Indonesia.svg"
+        },
+        {
+          "name": "Philippines",
+          "value": 112000000,
+          "unit": "hab.",
+          "img": "https://upload.wikimedia.org/wikipedia/commons/9/99/Flag_of_the_Philippines.svg"
+        }
+      ],
+      "summary": "Approximate total population.",
+      "source": "https://es.wikipedia.org/wiki/Poblaci%C3%B3n_mundial"
+    },
+    {
+      "category": "Países",
+      "title": "Which country has a larger population?",
+      "items": [
+        {
+          "name": "United States",
+          "value": 339000000,
+          "unit": "hab.",
+          "img": "https://upload.wikimedia.org/wikipedia/en/a/a4/Flag_of_the_United_States.svg"
+        },
+        {
+          "name": "Ethiopia",
+          "value": 123000000,
+          "unit": "hab.",
+          "img": "https://upload.wikimedia.org/wikipedia/commons/7/71/Flag_of_Ethiopia.svg"
+        }
+      ],
+      "summary": "Approximate total population.",
+      "source": "https://es.wikipedia.org/wiki/Poblaci%C3%B3n_mundial"
+    },
+    {
+      "category": "Países",
+      "title": "Which country has a larger population?",
+      "items": [
+        {
+          "name": "Indonesia",
+          "value": 277000000,
+          "unit": "hab.",
+          "img": "https://upload.wikimedia.org/wikipedia/commons/9/9f/Flag_of_Indonesia.svg"
+        },
+        {
+          "name": "China",
+          "value": 1411000000,
+          "unit": "hab.",
+          "img": "https://upload.wikimedia.org/wikipedia/commons/f/fa/Flag_of_the_People%27s_Republic_of_China.svg"
+        }
+      ],
+      "summary": "Approximate total population.",
+      "source": "https://es.wikipedia.org/wiki/Poblaci%C3%B3n_mundial"
+    },
+    {
+      "category": "Países",
+      "title": "Which country has a larger population?",
+      "items": [
+        {
+          "name": "France",
+          "value": 68000000,
+          "unit": "hab.",
+          "img": "https://upload.wikimedia.org/wikipedia/en/c/c3/Flag_of_France.svg"
+        },
+        {
+          "name": "India",
+          "value": 1428000000,
+          "unit": "hab.",
+          "img": "https://upload.wikimedia.org/wikipedia/en/4/41/Flag_of_India.svg"
+        }
+      ],
+      "summary": "Approximate total population.",
+      "source": "https://es.wikipedia.org/wiki/Poblaci%C3%B3n_mundial"
+    },
+    {
+      "category": "Países",
+      "title": "Which country has a larger population?",
+      "items": [
+        {
+          "name": "Nigeria",
+          "value": 216000000,
+          "unit": "hab.",
+          "img": "https://upload.wikimedia.org/wikipedia/commons/7/79/Flag_of_Nigeria.svg"
+        },
+        {
+          "name": "Brazil",
+          "value": 215000000,
+          "unit": "hab.",
+          "img": "https://upload.wikimedia.org/wikipedia/en/0/05/Flag_of_Brazil.svg"
+        }
+      ],
+      "summary": "Approximate total population.",
+      "source": "https://es.wikipedia.org/wiki/Poblaci%C3%B3n_mundial"
+    },
+    {
+      "category": "Países",
+      "title": "Which country has a larger population?",
+      "items": [
+        {
+          "name": "Spain",
+          "value": 48000000,
+          "unit": "hab.",
+          "img": "https://upload.wikimedia.org/wikipedia/en/9/9a/Flag_of_Spain.svg"
+        },
+        {
+          "name": "Indonesia",
+          "value": 277000000,
+          "unit": "hab.",
+          "img": "https://upload.wikimedia.org/wikipedia/commons/9/9f/Flag_of_Indonesia.svg"
+        }
+      ],
+      "summary": "Approximate total population.",
+      "source": "https://es.wikipedia.org/wiki/Poblaci%C3%B3n_mundial"
+    },
+    {
+      "category": "Países",
+      "title": "Which country has a larger population?",
+      "items": [
+        {
+          "name": "DR Congo",
+          "value": 102000000,
+          "unit": "hab.",
+          "img": "https://upload.wikimedia.org/wikipedia/commons/6/6f/Flag_of_the_Democratic_Republic_of_the_Congo.svg"
+        },
+        {
+          "name": "Nigeria",
+          "value": 216000000,
+          "unit": "hab.",
+          "img": "https://upload.wikimedia.org/wikipedia/commons/7/79/Flag_of_Nigeria.svg"
+        }
+      ],
+      "summary": "Approximate total population.",
+      "source": "https://es.wikipedia.org/wiki/Poblaci%C3%B3n_mundial"
+    },
+    {
+      "category": "Países",
+      "title": "Which country has a larger population?",
+      "items": [
+        {
+          "name": "Ukraine",
+          "value": 36000000,
+          "unit": "hab.",
+          "img": "https://upload.wikimedia.org/wikipedia/commons/4/49/Flag_of_Ukraine.svg"
+        },
+        {
+          "name": "China",
+          "value": 1411000000,
+          "unit": "hab.",
+          "img": "https://upload.wikimedia.org/wikipedia/commons/f/fa/Flag_of_the_People%27s_Republic_of_China.svg"
+        }
+      ],
+      "summary": "Approximate total population.",
+      "source": "https://es.wikipedia.org/wiki/Poblaci%C3%B3n_mundial"
+    },
+    {
+      "category": "Países",
+      "title": "Which country has a larger population?",
+      "items": [
+        {
+          "name": "Italy",
+          "value": 59000000,
+          "unit": "hab.",
+          "img": "https://upload.wikimedia.org/wikipedia/en/0/03/Flag_of_Italy.svg"
+        },
+        {
+          "name": "India",
+          "value": 1428000000,
+          "unit": "hab.",
+          "img": "https://upload.wikimedia.org/wikipedia/en/4/41/Flag_of_India.svg"
+        }
+      ],
+      "summary": "Approximate total population.",
+      "source": "https://es.wikipedia.org/wiki/Poblaci%C3%B3n_mundial"
+    },
+    {
+      "category": "Países",
+      "title": "Which country has a larger population?",
+      "items": [
+        {
+          "name": "Iran",
+          "value": 86000000,
+          "unit": "hab.",
+          "img": "https://upload.wikimedia.org/wikipedia/commons/c/ca/Flag_of_Iran.svg"
+        },
+        {
+          "name": "Egypt",
+          "value": 110000000,
+          "unit": "hab.",
+          "img": "https://upload.wikimedia.org/wikipedia/commons/f/fe/Flag_of_Egypt.svg"
+        }
+      ],
+      "summary": "Approximate total population.",
+      "source": "https://es.wikipedia.org/wiki/Poblaci%C3%B3n_mundial"
+    },
+    {
+      "category": "Países",
+      "title": "Which country has a larger population?",
+      "items": [
+        {
+          "name": "France",
+          "value": 68000000,
+          "unit": "hab.",
+          "img": "https://upload.wikimedia.org/wikipedia/en/c/c3/Flag_of_France.svg"
+        },
+        {
+          "name": "Indonesia",
+          "value": 277000000,
+          "unit": "hab.",
+          "img": "https://upload.wikimedia.org/wikipedia/commons/9/9f/Flag_of_Indonesia.svg"
+        }
+      ],
+      "summary": "Approximate total population.",
+      "source": "https://es.wikipedia.org/wiki/Poblaci%C3%B3n_mundial"
+    },
+    {
+      "category": "Países",
+      "title": "Which country has a larger population?",
+      "items": [
+        {
+          "name": "Russia",
+          "value": 143000000,
+          "unit": "hab.",
+          "img": "https://upload.wikimedia.org/wikipedia/en/f/f3/Flag_of_Russia.svg"
+        },
+        {
+          "name": "United States",
+          "value": 339000000,
+          "unit": "hab.",
+          "img": "https://upload.wikimedia.org/wikipedia/en/a/a4/Flag_of_the_United_States.svg"
+        }
+      ],
+      "summary": "Approximate total population.",
+      "source": "https://es.wikipedia.org/wiki/Poblaci%C3%B3n_mundial"
+    },
+    {
+      "category": "Países",
+      "title": "Which country has a larger population?",
+      "items": [
+        {
+          "name": "Bangladesh",
+          "value": 172000000,
+          "unit": "hab.",
+          "img": "https://upload.wikimedia.org/wikipedia/commons/f/f9/Flag_of_Bangladesh.svg"
+        },
+        {
+          "name": "United States",
+          "value": 339000000,
+          "unit": "hab.",
+          "img": "https://upload.wikimedia.org/wikipedia/en/a/a4/Flag_of_the_United_States.svg"
+        }
+      ],
+      "summary": "Approximate total population.",
+      "source": "https://es.wikipedia.org/wiki/Poblaci%C3%B3n_mundial"
+    },
+    {
+      "category": "Países",
+      "title": "Which country has a larger population?",
+      "items": [
+        {
+          "name": "UK",
+          "value": 67000000,
+          "unit": "hab.",
+          "img": "https://upload.wikimedia.org/wikipedia/en/a/ae/Flag_of_the_United_Kingdom.svg"
+        },
+        {
+          "name": "Mexico",
+          "value": 128000000,
+          "unit": "hab.",
+          "img": "https://upload.wikimedia.org/wikipedia/commons/f/fc/Flag_of_Mexico.svg"
+        }
+      ],
+      "summary": "Approximate total population.",
+      "source": "https://es.wikipedia.org/wiki/Poblaci%C3%B3n_mundial"
+    },
+    {
+      "category": "Países",
+      "title": "Which country has a larger population?",
+      "items": [
+        {
+          "name": "Ethiopia",
+          "value": 123000000,
+          "unit": "hab.",
+          "img": "https://upload.wikimedia.org/wikipedia/commons/7/71/Flag_of_Ethiopia.svg"
+        },
+        {
+          "name": "Egypt",
+          "value": 110000000,
+          "unit": "hab.",
+          "img": "https://upload.wikimedia.org/wikipedia/commons/f/fe/Flag_of_Egypt.svg"
+        }
+      ],
+      "summary": "Approximate total population.",
+      "source": "https://es.wikipedia.org/wiki/Poblaci%C3%B3n_mundial"
+    },
+    {
+      "category": "Países",
+      "title": "Which country has a larger population?",
+      "items": [
+        {
+          "name": "Brazil",
+          "value": 215000000,
+          "unit": "hab.",
+          "img": "https://upload.wikimedia.org/wikipedia/en/0/05/Flag_of_Brazil.svg"
+        },
+        {
+          "name": "China",
+          "value": 1411000000,
+          "unit": "hab.",
+          "img": "https://upload.wikimedia.org/wikipedia/commons/f/fa/Flag_of_the_People%27s_Republic_of_China.svg"
+        }
+      ],
+      "summary": "Approximate total population.",
+      "source": "https://es.wikipedia.org/wiki/Poblaci%C3%B3n_mundial"
+    },
+    {
+      "category": "Países",
+      "title": "Which country has a larger population?",
+      "items": [
+        {
+          "name": "Turkey",
+          "value": 85000000,
+          "unit": "hab.",
+          "img": "https://upload.wikimedia.org/wikipedia/commons/b/b4/Flag_of_Turkey.svg"
+        },
+        {
+          "name": "Vietnam",
+          "value": 100000000,
+          "unit": "hab.",
+          "img": "https://upload.wikimedia.org/wikipedia/commons/2/21/Flag_of_Vietnam.svg"
+        }
+      ],
+      "summary": "Approximate total population.",
+      "source": "https://es.wikipedia.org/wiki/Poblaci%C3%B3n_mundial"
+    },
+    {
+      "category": "Países",
+      "title": "Which country has a larger population?",
+      "items": [
+        {
+          "name": "China",
+          "value": 1411000000,
+          "unit": "hab.",
+          "img": "https://upload.wikimedia.org/wikipedia/commons/f/fa/Flag_of_the_People%27s_Republic_of_China.svg"
+        },
+        {
+          "name": "France",
+          "value": 68000000,
+          "unit": "hab.",
+          "img": "https://upload.wikimedia.org/wikipedia/en/c/c3/Flag_of_France.svg"
+        }
+      ],
+      "summary": "Approximate total population.",
+      "source": "https://es.wikipedia.org/wiki/Poblaci%C3%B3n_mundial"
+    },
+    {
+      "category": "Países",
+      "title": "Which country has a larger population?",
+      "items": [
+        {
+          "name": "Indonesia",
+          "value": 277000000,
+          "unit": "hab.",
+          "img": "https://upload.wikimedia.org/wikipedia/commons/9/9f/Flag_of_Indonesia.svg"
+        },
+        {
+          "name": "Spain",
+          "value": 48000000,
+          "unit": "hab.",
+          "img": "https://upload.wikimedia.org/wikipedia/en/9/9a/Flag_of_Spain.svg"
+        }
+      ],
+      "summary": "Approximate total population.",
+      "source": "https://es.wikipedia.org/wiki/Poblaci%C3%B3n_mundial"
+    },
+    {
+      "category": "Países",
+      "title": "Which country has a larger population?",
+      "items": [
+        {
+          "name": "Philippines",
+          "value": 112000000,
+          "unit": "hab.",
+          "img": "https://upload.wikimedia.org/wikipedia/commons/9/99/Flag_of_the_Philippines.svg"
+        },
+        {
+          "name": "Nigeria",
+          "value": 216000000,
+          "unit": "hab.",
+          "img": "https://upload.wikimedia.org/wikipedia/commons/7/79/Flag_of_Nigeria.svg"
+        }
+      ],
+      "summary": "Approximate total population.",
+      "source": "https://es.wikipedia.org/wiki/Poblaci%C3%B3n_mundial"
+    },
+    {
+      "category": "Países",
+      "title": "Which country has a larger population?",
+      "items": [
+        {
+          "name": "Russia",
+          "value": 143000000,
+          "unit": "hab.",
+          "img": "https://upload.wikimedia.org/wikipedia/en/f/f3/Flag_of_Russia.svg"
+        },
+        {
+          "name": "Ethiopia",
+          "value": 123000000,
+          "unit": "hab.",
+          "img": "https://upload.wikimedia.org/wikipedia/commons/7/71/Flag_of_Ethiopia.svg"
+        }
+      ],
+      "summary": "Approximate total population.",
+      "source": "https://es.wikipedia.org/wiki/Poblaci%C3%B3n_mundial"
+    },
+    {
+      "category": "Países",
+      "title": "Which country has a larger population?",
+      "items": [
+        {
+          "name": "Ukraine",
+          "value": 36000000,
+          "unit": "hab.",
+          "img": "https://upload.wikimedia.org/wikipedia/commons/4/49/Flag_of_Ukraine.svg"
+        },
+        {
+          "name": "DR Congo",
+          "value": 102000000,
+          "unit": "hab.",
+          "img": "https://upload.wikimedia.org/wikipedia/commons/6/6f/Flag_of_the_Democratic_Republic_of_the_Congo.svg"
+        }
+      ],
+      "summary": "Approximate total population.",
+      "source": "https://es.wikipedia.org/wiki/Poblaci%C3%B3n_mundial"
+    },
+    {
+      "category": "Países",
+      "title": "Which country has a larger population?",
+      "items": [
+        {
+          "name": "Germany",
+          "value": 84000000,
+          "unit": "hab.",
+          "img": "https://upload.wikimedia.org/wikipedia/en/b/ba/Flag_of_Germany.svg"
+        },
+        {
+          "name": "Brazil",
+          "value": 215000000,
+          "unit": "hab.",
+          "img": "https://upload.wikimedia.org/wikipedia/en/0/05/Flag_of_Brazil.svg"
+        }
+      ],
+      "summary": "Approximate total population.",
+      "source": "https://es.wikipedia.org/wiki/Poblaci%C3%B3n_mundial"
+    },
+    {
+      "category": "Países",
+      "title": "Which country has a larger population?",
+      "items": [
+        {
+          "name": "Spain",
+          "value": 48000000,
+          "unit": "hab.",
+          "img": "https://upload.wikimedia.org/wikipedia/en/9/9a/Flag_of_Spain.svg"
+        },
+        {
+          "name": "Italy",
+          "value": 59000000,
+          "unit": "hab.",
+          "img": "https://upload.wikimedia.org/wikipedia/en/0/03/Flag_of_Italy.svg"
+        }
+      ],
+      "summary": "Approximate total population.",
+      "source": "https://es.wikipedia.org/wiki/Poblaci%C3%B3n_mundial"
+    },
+    {
+      "category": "Países",
+      "title": "Which country has a larger population?",
+      "items": [
+        {
+          "name": "Nigeria",
+          "value": 216000000,
+          "unit": "hab.",
+          "img": "https://upload.wikimedia.org/wikipedia/commons/7/79/Flag_of_Nigeria.svg"
+        },
+        {
+          "name": "China",
+          "value": 1411000000,
+          "unit": "hab.",
+          "img": "https://upload.wikimedia.org/wikipedia/commons/f/fa/Flag_of_the_People%27s_Republic_of_China.svg"
+        }
+      ],
+      "summary": "Approximate total population.",
+      "source": "https://es.wikipedia.org/wiki/Poblaci%C3%B3n_mundial"
+    },
+    {
+      "category": "Países",
+      "title": "Which country has a larger population?",
+      "items": [
+        {
+          "name": "Italy",
+          "value": 59000000,
+          "unit": "hab.",
+          "img": "https://upload.wikimedia.org/wikipedia/en/0/03/Flag_of_Italy.svg"
+        },
+        {
+          "name": "Brazil",
+          "value": 215000000,
+          "unit": "hab.",
+          "img": "https://upload.wikimedia.org/wikipedia/en/0/05/Flag_of_Brazil.svg"
+        }
+      ],
+      "summary": "Approximate total population.",
+      "source": "https://es.wikipedia.org/wiki/Poblaci%C3%B3n_mundial"
+    },
+    {
+      "category": "Países",
+      "title": "Which country has a larger population?",
+      "items": [
+        {
+          "name": "Brazil",
+          "value": 215000000,
+          "unit": "hab.",
+          "img": "https://upload.wikimedia.org/wikipedia/en/0/05/Flag_of_Brazil.svg"
+        },
+        {
+          "name": "Japan",
+          "value": 125000000,
+          "unit": "hab.",
+          "img": "https://upload.wikimedia.org/wikipedia/en/9/9e/Flag_of_Japan.svg"
+        }
+      ],
+      "summary": "Approximate total population.",
+      "source": "https://es.wikipedia.org/wiki/Poblaci%C3%B3n_mundial"
+    },
+    {
+      "category": "Países",
+      "title": "Which country has a larger population?",
+      "items": [
+        {
+          "name": "Turkey",
+          "value": 85000000,
+          "unit": "hab.",
+          "img": "https://upload.wikimedia.org/wikipedia/commons/b/b4/Flag_of_Turkey.svg"
+        },
+        {
+          "name": "Russia",
+          "value": 143000000,
+          "unit": "hab.",
+          "img": "https://upload.wikimedia.org/wikipedia/en/f/f3/Flag_of_Russia.svg"
+        }
+      ],
+      "summary": "Approximate total population.",
+      "source": "https://es.wikipedia.org/wiki/Poblaci%C3%B3n_mundial"
+    },
+    {
+      "category": "Países",
+      "title": "Which country has a larger population?",
+      "items": [
+        {
+          "name": "Indonesia",
+          "value": 277000000,
+          "unit": "hab.",
+          "img": "https://upload.wikimedia.org/wikipedia/commons/9/9f/Flag_of_Indonesia.svg"
+        },
+        {
+          "name": "France",
+          "value": 68000000,
+          "unit": "hab.",
+          "img": "https://upload.wikimedia.org/wikipedia/en/c/c3/Flag_of_France.svg"
+        }
+      ],
+      "summary": "Approximate total population.",
+      "source": "https://es.wikipedia.org/wiki/Poblaci%C3%B3n_mundial"
+    },
+    {
+      "category": "Países",
+      "title": "Which country has a larger population?",
+      "items": [
+        {
+          "name": "Vietnam",
+          "value": 100000000,
+          "unit": "hab.",
+          "img": "https://upload.wikimedia.org/wikipedia/commons/2/21/Flag_of_Vietnam.svg"
+        },
+        {
+          "name": "Italy",
+          "value": 59000000,
+          "unit": "hab.",
+          "img": "https://upload.wikimedia.org/wikipedia/en/0/03/Flag_of_Italy.svg"
+        }
+      ],
+      "summary": "Approximate total population.",
+      "source": "https://es.wikipedia.org/wiki/Poblaci%C3%B3n_mundial"
+    },
+    {
+      "category": "Países",
+      "title": "Which country has a larger population?",
+      "items": [
+        {
+          "name": "Brazil",
+          "value": 215000000,
+          "unit": "hab.",
+          "img": "https://upload.wikimedia.org/wikipedia/en/0/05/Flag_of_Brazil.svg"
+        },
+        {
+          "name": "India",
+          "value": 1428000000,
+          "unit": "hab.",
+          "img": "https://upload.wikimedia.org/wikipedia/en/4/41/Flag_of_India.svg"
+        }
+      ],
+      "summary": "Approximate total population.",
+      "source": "https://es.wikipedia.org/wiki/Poblaci%C3%B3n_mundial"
+    },
+    {
+      "category": "Países",
+      "title": "Which country has a larger population?",
+      "items": [
+        {
+          "name": "DR Congo",
+          "value": 102000000,
+          "unit": "hab.",
+          "img": "https://upload.wikimedia.org/wikipedia/commons/6/6f/Flag_of_the_Democratic_Republic_of_the_Congo.svg"
+        },
+        {
+          "name": "Italy",
+          "value": 59000000,
+          "unit": "hab.",
+          "img": "https://upload.wikimedia.org/wikipedia/en/0/03/Flag_of_Italy.svg"
+        }
+      ],
+      "summary": "Approximate total population.",
+      "source": "https://es.wikipedia.org/wiki/Poblaci%C3%B3n_mundial"
+    },
+    {
+      "category": "Países",
+      "title": "Which country has a larger population?",
+      "items": [
+        {
+          "name": "Egypt",
+          "value": 110000000,
+          "unit": "hab.",
+          "img": "https://upload.wikimedia.org/wikipedia/commons/f/fe/Flag_of_Egypt.svg"
+        },
+        {
+          "name": "Germany",
+          "value": 84000000,
+          "unit": "hab.",
+          "img": "https://upload.wikimedia.org/wikipedia/en/b/ba/Flag_of_Germany.svg"
+        }
+      ],
+      "summary": "Approximate total population.",
+      "source": "https://es.wikipedia.org/wiki/Poblaci%C3%B3n_mundial"
+    },
+    {
+      "category": "Países",
+      "title": "Which country has a larger population?",
+      "items": [
+        {
+          "name": "Turkey",
+          "value": 85000000,
+          "unit": "hab.",
+          "img": "https://upload.wikimedia.org/wikipedia/commons/b/b4/Flag_of_Turkey.svg"
+        },
+        {
+          "name": "Mexico",
+          "value": 128000000,
+          "unit": "hab.",
+          "img": "https://upload.wikimedia.org/wikipedia/commons/f/fc/Flag_of_Mexico.svg"
+        }
+      ],
+      "summary": "Approximate total population.",
+      "source": "https://es.wikipedia.org/wiki/Poblaci%C3%B3n_mundial"
+    },
+    {
+      "category": "Países",
+      "title": "Which country has a larger population?",
+      "items": [
+        {
+          "name": "UK",
+          "value": 67000000,
+          "unit": "hab.",
+          "img": "https://upload.wikimedia.org/wikipedia/en/a/ae/Flag_of_the_United_Kingdom.svg"
+        },
+        {
+          "name": "Ethiopia",
+          "value": 123000000,
+          "unit": "hab.",
+          "img": "https://upload.wikimedia.org/wikipedia/commons/7/71/Flag_of_Ethiopia.svg"
+        }
+      ],
+      "summary": "Approximate total population.",
+      "source": "https://es.wikipedia.org/wiki/Poblaci%C3%B3n_mundial"
+    },
+    {
+      "category": "Países",
+      "title": "Which country has a larger population?",
+      "items": [
+        {
+          "name": "Philippines",
+          "value": 112000000,
+          "unit": "hab.",
+          "img": "https://upload.wikimedia.org/wikipedia/commons/9/99/Flag_of_the_Philippines.svg"
+        },
+        {
+          "name": "Italy",
+          "value": 59000000,
+          "unit": "hab.",
+          "img": "https://upload.wikimedia.org/wikipedia/en/0/03/Flag_of_Italy.svg"
+        }
+      ],
+      "summary": "Approximate total population.",
+      "source": "https://es.wikipedia.org/wiki/Poblaci%C3%B3n_mundial"
+    },
+    {
+      "category": "Países",
+      "title": "Which country has a larger population?",
+      "items": [
+        {
+          "name": "Russia",
+          "value": 143000000,
+          "unit": "hab.",
+          "img": "https://upload.wikimedia.org/wikipedia/en/f/f3/Flag_of_Russia.svg"
+        },
+        {
+          "name": "Pakistan",
+          "value": 240000000,
+          "unit": "hab.",
+          "img": "https://upload.wikimedia.org/wikipedia/commons/3/32/Flag_of_Pakistan.svg"
+        }
+      ],
+      "summary": "Approximate total population.",
+      "source": "https://es.wikipedia.org/wiki/Poblaci%C3%B3n_mundial"
+    },
+    {
+      "category": "Países",
+      "title": "Which country has a larger population?",
+      "items": [
+        {
+          "name": "Iran",
+          "value": 86000000,
+          "unit": "hab.",
+          "img": "https://upload.wikimedia.org/wikipedia/commons/c/ca/Flag_of_Iran.svg"
+        },
+        {
+          "name": "Spain",
+          "value": 48000000,
+          "unit": "hab.",
+          "img": "https://upload.wikimedia.org/wikipedia/en/9/9a/Flag_of_Spain.svg"
+        }
+      ],
+      "summary": "Approximate total population.",
+      "source": "https://es.wikipedia.org/wiki/Poblaci%C3%B3n_mundial"
+    },
+    {
+      "category": "Países",
+      "title": "Which country has a larger population?",
+      "items": [
+        {
+          "name": "India",
+          "value": 1428000000,
+          "unit": "hab.",
+          "img": "https://upload.wikimedia.org/wikipedia/en/4/41/Flag_of_India.svg"
+        },
+        {
+          "name": "Vietnam",
+          "value": 100000000,
+          "unit": "hab.",
+          "img": "https://upload.wikimedia.org/wikipedia/commons/2/21/Flag_of_Vietnam.svg"
+        }
+      ],
+      "summary": "Approximate total population.",
+      "source": "https://es.wikipedia.org/wiki/Poblaci%C3%B3n_mundial"
+    },
+    {
+      "category": "Países",
+      "title": "Which country has a larger population?",
+      "items": [
+        {
+          "name": "Ukraine",
+          "value": 36000000,
+          "unit": "hab.",
+          "img": "https://upload.wikimedia.org/wikipedia/commons/4/49/Flag_of_Ukraine.svg"
+        },
+        {
+          "name": "United States",
+          "value": 339000000,
+          "unit": "hab.",
+          "img": "https://upload.wikimedia.org/wikipedia/en/a/a4/Flag_of_the_United_States.svg"
+        }
+      ],
+      "summary": "Approximate total population.",
+      "source": "https://es.wikipedia.org/wiki/Poblaci%C3%B3n_mundial"
+    },
+    {
+      "category": "Países",
+      "title": "Which country has a larger population?",
+      "items": [
+        {
+          "name": "Japan",
+          "value": 125000000,
+          "unit": "hab.",
+          "img": "https://upload.wikimedia.org/wikipedia/en/9/9e/Flag_of_Japan.svg"
+        },
+        {
+          "name": "Ukraine",
+          "value": 36000000,
+          "unit": "hab.",
+          "img": "https://upload.wikimedia.org/wikipedia/commons/4/49/Flag_of_Ukraine.svg"
+        }
+      ],
+      "summary": "Approximate total population.",
+      "source": "https://es.wikipedia.org/wiki/Poblaci%C3%B3n_mundial"
+    },
+    {
+      "category": "Países",
+      "title": "Which country has a larger population?",
+      "items": [
+        {
+          "name": "China",
+          "value": 1411000000,
+          "unit": "hab.",
+          "img": "https://upload.wikimedia.org/wikipedia/commons/f/fa/Flag_of_the_People%27s_Republic_of_China.svg"
+        },
+        {
+          "name": "Iran",
+          "value": 86000000,
+          "unit": "hab.",
+          "img": "https://upload.wikimedia.org/wikipedia/commons/c/ca/Flag_of_Iran.svg"
+        }
+      ],
+      "summary": "Approximate total population.",
+      "source": "https://es.wikipedia.org/wiki/Poblaci%C3%B3n_mundial"
+    },
+    {
+      "category": "Países",
+      "title": "Which country has a larger population?",
+      "items": [
+        {
+          "name": "Russia",
+          "value": 143000000,
+          "unit": "hab.",
+          "img": "https://upload.wikimedia.org/wikipedia/en/f/f3/Flag_of_Russia.svg"
+        },
+        {
+          "name": "Pakistan",
+          "value": 240000000,
+          "unit": "hab.",
+          "img": "https://upload.wikimedia.org/wikipedia/commons/3/32/Flag_of_Pakistan.svg"
+        }
+      ],
+      "summary": "Approximate total population.",
+      "source": "https://es.wikipedia.org/wiki/Poblaci%C3%B3n_mundial"
+    },
+    {
+      "category": "Países",
+      "title": "Which country has a larger population?",
+      "items": [
+        {
+          "name": "Bangladesh",
+          "value": 172000000,
+          "unit": "hab.",
+          "img": "https://upload.wikimedia.org/wikipedia/commons/f/f9/Flag_of_Bangladesh.svg"
+        },
+        {
+          "name": "DR Congo",
+          "value": 102000000,
+          "unit": "hab.",
+          "img": "https://upload.wikimedia.org/wikipedia/commons/6/6f/Flag_of_the_Democratic_Republic_of_the_Congo.svg"
+        }
+      ],
+      "summary": "Approximate total population.",
+      "source": "https://es.wikipedia.org/wiki/Poblaci%C3%B3n_mundial"
+    },
+    {
+      "category": "Países",
+      "title": "Which country has a larger population?",
+      "items": [
+        {
+          "name": "Ethiopia",
+          "value": 123000000,
+          "unit": "hab.",
+          "img": "https://upload.wikimedia.org/wikipedia/commons/7/71/Flag_of_Ethiopia.svg"
+        },
+        {
+          "name": "France",
+          "value": 68000000,
+          "unit": "hab.",
+          "img": "https://upload.wikimedia.org/wikipedia/en/c/c3/Flag_of_France.svg"
+        }
+      ],
+      "summary": "Approximate total population.",
+      "source": "https://es.wikipedia.org/wiki/Poblaci%C3%B3n_mundial"
+    },
+    {
+      "category": "Países",
+      "title": "Which country has a larger population?",
+      "items": [
+        {
+          "name": "Mexico",
+          "value": 128000000,
+          "unit": "hab.",
+          "img": "https://upload.wikimedia.org/wikipedia/commons/f/fc/Flag_of_Mexico.svg"
+        },
+        {
+          "name": "Italy",
+          "value": 59000000,
+          "unit": "hab.",
+          "img": "https://upload.wikimedia.org/wikipedia/en/0/03/Flag_of_Italy.svg"
+        }
+      ],
+      "summary": "Approximate total population.",
+      "source": "https://es.wikipedia.org/wiki/Poblaci%C3%B3n_mundial"
+    },
+    {
+      "category": "Países",
+      "title": "Which country has a larger population?",
+      "items": [
+        {
+          "name": "Ethiopia",
+          "value": 123000000,
+          "unit": "hab.",
+          "img": "https://upload.wikimedia.org/wikipedia/commons/7/71/Flag_of_Ethiopia.svg"
+        },
+        {
+          "name": "Germany",
+          "value": 84000000,
+          "unit": "hab.",
+          "img": "https://upload.wikimedia.org/wikipedia/en/b/ba/Flag_of_Germany.svg"
+        }
+      ],
+      "summary": "Approximate total population.",
+      "source": "https://es.wikipedia.org/wiki/Poblaci%C3%B3n_mundial"
+    },
+    {
+      "category": "Países",
+      "title": "Which country has a larger population?",
+      "items": [
+        {
+          "name": "UK",
+          "value": 67000000,
+          "unit": "hab.",
+          "img": "https://upload.wikimedia.org/wikipedia/en/a/ae/Flag_of_the_United_Kingdom.svg"
+        },
+        {
+          "name": "France",
+          "value": 68000000,
+          "unit": "hab.",
+          "img": "https://upload.wikimedia.org/wikipedia/en/c/c3/Flag_of_France.svg"
+        }
+      ],
+      "summary": "Approximate total population.",
+      "source": "https://es.wikipedia.org/wiki/Poblaci%C3%B3n_mundial"
+    },
+    {
+      "category": "Países",
+      "title": "Which country has a larger population?",
+      "items": [
+        {
+          "name": "Pakistan",
+          "value": 240000000,
+          "unit": "hab.",
+          "img": "https://upload.wikimedia.org/wikipedia/commons/3/32/Flag_of_Pakistan.svg"
+        },
+        {
+          "name": "Spain",
+          "value": 48000000,
+          "unit": "hab.",
+          "img": "https://upload.wikimedia.org/wikipedia/en/9/9a/Flag_of_Spain.svg"
+        }
+      ],
+      "summary": "Approximate total population.",
+      "source": "https://es.wikipedia.org/wiki/Poblaci%C3%B3n_mundial"
+    },
+    {
+      "category": "Países",
+      "title": "Which country has a larger population?",
+      "items": [
+        {
+          "name": "Mexico",
+          "value": 128000000,
+          "unit": "hab.",
+          "img": "https://upload.wikimedia.org/wikipedia/commons/f/fc/Flag_of_Mexico.svg"
+        },
+        {
+          "name": "Philippines",
+          "value": 112000000,
+          "unit": "hab.",
+          "img": "https://upload.wikimedia.org/wikipedia/commons/9/99/Flag_of_the_Philippines.svg"
+        }
+      ],
+      "summary": "Approximate total population.",
+      "source": "https://es.wikipedia.org/wiki/Poblaci%C3%B3n_mundial"
+    },
+    {
+      "category": "Países",
+      "title": "Which country has a larger population?",
+      "items": [
+        {
+          "name": "Ukraine",
+          "value": 36000000,
+          "unit": "hab.",
+          "img": "https://upload.wikimedia.org/wikipedia/commons/4/49/Flag_of_Ukraine.svg"
+        },
+        {
+          "name": "Egypt",
+          "value": 110000000,
+          "unit": "hab.",
+          "img": "https://upload.wikimedia.org/wikipedia/commons/f/fe/Flag_of_Egypt.svg"
+        }
+      ],
+      "summary": "Approximate total population.",
+      "source": "https://es.wikipedia.org/wiki/Poblaci%C3%B3n_mundial"
+    },
+    {
+      "category": "Países",
+      "title": "Which country has a larger population?",
+      "items": [
+        {
+          "name": "UK",
+          "value": 67000000,
+          "unit": "hab.",
+          "img": "https://upload.wikimedia.org/wikipedia/en/a/ae/Flag_of_the_United_Kingdom.svg"
+        },
+        {
+          "name": "United States",
+          "value": 339000000,
+          "unit": "hab.",
+          "img": "https://upload.wikimedia.org/wikipedia/en/a/a4/Flag_of_the_United_States.svg"
+        }
+      ],
+      "summary": "Approximate total population.",
+      "source": "https://es.wikipedia.org/wiki/Poblaci%C3%B3n_mundial"
+    },
+    {
+      "category": "Países",
+      "title": "Which country has a larger population?",
+      "items": [
+        {
+          "name": "India",
+          "value": 1428000000,
+          "unit": "hab.",
+          "img": "https://upload.wikimedia.org/wikipedia/en/4/41/Flag_of_India.svg"
+        },
+        {
+          "name": "France",
+          "value": 68000000,
+          "unit": "hab.",
+          "img": "https://upload.wikimedia.org/wikipedia/en/c/c3/Flag_of_France.svg"
+        }
+      ],
+      "summary": "Approximate total population.",
+      "source": "https://es.wikipedia.org/wiki/Poblaci%C3%B3n_mundial"
+    },
+    {
+      "category": "Países",
+      "title": "Which country has a larger population?",
+      "items": [
+        {
+          "name": "Nigeria",
+          "value": 216000000,
+          "unit": "hab.",
+          "img": "https://upload.wikimedia.org/wikipedia/commons/7/79/Flag_of_Nigeria.svg"
+        },
+        {
+          "name": "Spain",
+          "value": 48000000,
+          "unit": "hab.",
+          "img": "https://upload.wikimedia.org/wikipedia/en/9/9a/Flag_of_Spain.svg"
+        }
+      ],
+      "summary": "Approximate total population.",
+      "source": "https://es.wikipedia.org/wiki/Poblaci%C3%B3n_mundial"
+    },
+    {
+      "category": "Países",
+      "title": "Which country has a larger population?",
+      "items": [
+        {
+          "name": "Japan",
+          "value": 125000000,
+          "unit": "hab.",
+          "img": "https://upload.wikimedia.org/wikipedia/en/9/9e/Flag_of_Japan.svg"
+        },
+        {
+          "name": "Brazil",
+          "value": 215000000,
+          "unit": "hab.",
+          "img": "https://upload.wikimedia.org/wikipedia/en/0/05/Flag_of_Brazil.svg"
+        }
+      ],
+      "summary": "Approximate total population.",
+      "source": "https://es.wikipedia.org/wiki/Poblaci%C3%B3n_mundial"
+    },
+    {
+      "category": "Países",
+      "title": "Which country has a larger population?",
+      "items": [
+        {
+          "name": "Bangladesh",
+          "value": 172000000,
+          "unit": "hab.",
+          "img": "https://upload.wikimedia.org/wikipedia/commons/f/f9/Flag_of_Bangladesh.svg"
+        },
+        {
+          "name": "UK",
+          "value": 67000000,
+          "unit": "hab.",
+          "img": "https://upload.wikimedia.org/wikipedia/en/a/ae/Flag_of_the_United_Kingdom.svg"
+        }
+      ],
+      "summary": "Approximate total population.",
+      "source": "https://es.wikipedia.org/wiki/Poblaci%C3%B3n_mundial"
+    },
+    {
+      "category": "Países",
+      "title": "Which country has a larger population?",
+      "items": [
+        {
+          "name": "Vietnam",
+          "value": 100000000,
+          "unit": "hab.",
+          "img": "https://upload.wikimedia.org/wikipedia/commons/2/21/Flag_of_Vietnam.svg"
+        },
+        {
+          "name": "Philippines",
+          "value": 112000000,
+          "unit": "hab.",
+          "img": "https://upload.wikimedia.org/wikipedia/commons/9/99/Flag_of_the_Philippines.svg"
+        }
+      ],
+      "summary": "Approximate total population.",
+      "source": "https://es.wikipedia.org/wiki/Poblaci%C3%B3n_mundial"
+    },
+    {
+      "category": "Países",
+      "title": "Which country has a larger population?",
+      "items": [
+        {
+          "name": "Spain",
+          "value": 48000000,
+          "unit": "hab.",
+          "img": "https://upload.wikimedia.org/wikipedia/en/9/9a/Flag_of_Spain.svg"
+        },
+        {
+          "name": "Italy",
+          "value": 59000000,
+          "unit": "hab.",
+          "img": "https://upload.wikimedia.org/wikipedia/en/0/03/Flag_of_Italy.svg"
+        }
+      ],
+      "summary": "Approximate total population.",
+      "source": "https://es.wikipedia.org/wiki/Poblaci%C3%B3n_mundial"
+    },
+    {
+      "category": "Países",
+      "title": "Which country has a larger population?",
+      "items": [
+        {
+          "name": "Germany",
+          "value": 84000000,
+          "unit": "hab.",
+          "img": "https://upload.wikimedia.org/wikipedia/en/b/ba/Flag_of_Germany.svg"
+        },
+        {
+          "name": "Egypt",
+          "value": 110000000,
+          "unit": "hab.",
+          "img": "https://upload.wikimedia.org/wikipedia/commons/f/fe/Flag_of_Egypt.svg"
+        }
+      ],
+      "summary": "Approximate total population.",
+      "source": "https://es.wikipedia.org/wiki/Poblaci%C3%B3n_mundial"
+    },
+    {
+      "category": "Países",
+      "title": "Which country has a larger population?",
+      "items": [
+        {
+          "name": "China",
+          "value": 1411000000,
+          "unit": "hab.",
+          "img": "https://upload.wikimedia.org/wikipedia/commons/f/fa/Flag_of_the_People%27s_Republic_of_China.svg"
+        },
+        {
+          "name": "Philippines",
+          "value": 112000000,
+          "unit": "hab.",
+          "img": "https://upload.wikimedia.org/wikipedia/commons/9/99/Flag_of_the_Philippines.svg"
+        }
+      ],
+      "summary": "Approximate total population.",
+      "source": "https://es.wikipedia.org/wiki/Poblaci%C3%B3n_mundial"
+    },
+    {
+      "category": "Países",
+      "title": "Which country has a larger population?",
+      "items": [
+        {
+          "name": "Spain",
+          "value": 48000000,
+          "unit": "hab.",
+          "img": "https://upload.wikimedia.org/wikipedia/en/9/9a/Flag_of_Spain.svg"
+        },
+        {
+          "name": "Germany",
+          "value": 84000000,
+          "unit": "hab.",
+          "img": "https://upload.wikimedia.org/wikipedia/en/b/ba/Flag_of_Germany.svg"
+        }
+      ],
+      "summary": "Approximate total population.",
+      "source": "https://es.wikipedia.org/wiki/Poblaci%C3%B3n_mundial"
+    },
+    {
+      "category": "Países",
+      "title": "Which country has a larger population?",
+      "items": [
+        {
+          "name": "Egypt",
+          "value": 110000000,
+          "unit": "hab.",
+          "img": "https://upload.wikimedia.org/wikipedia/commons/f/fe/Flag_of_Egypt.svg"
+        },
+        {
+          "name": "Italy",
+          "value": 59000000,
+          "unit": "hab.",
+          "img": "https://upload.wikimedia.org/wikipedia/en/0/03/Flag_of_Italy.svg"
+        }
+      ],
+      "summary": "Approximate total population.",
+      "source": "https://es.wikipedia.org/wiki/Poblaci%C3%B3n_mundial"
+    },
+    {
+      "category": "Países",
+      "title": "Which country has a larger population?",
+      "items": [
+        {
+          "name": "Spain",
+          "value": 48000000,
+          "unit": "hab.",
+          "img": "https://upload.wikimedia.org/wikipedia/en/9/9a/Flag_of_Spain.svg"
+        },
+        {
+          "name": "China",
+          "value": 1411000000,
+          "unit": "hab.",
+          "img": "https://upload.wikimedia.org/wikipedia/commons/f/fa/Flag_of_the_People%27s_Republic_of_China.svg"
+        }
+      ],
+      "summary": "Approximate total population.",
+      "source": "https://es.wikipedia.org/wiki/Poblaci%C3%B3n_mundial"
+    },
+    {
+      "category": "Países",
+      "title": "Which country has a larger population?",
+      "items": [
+        {
+          "name": "Brazil",
+          "value": 215000000,
+          "unit": "hab.",
+          "img": "https://upload.wikimedia.org/wikipedia/en/0/05/Flag_of_Brazil.svg"
+        },
+        {
+          "name": "Vietnam",
+          "value": 100000000,
+          "unit": "hab.",
+          "img": "https://upload.wikimedia.org/wikipedia/commons/2/21/Flag_of_Vietnam.svg"
+        }
+      ],
+      "summary": "Approximate total population.",
+      "source": "https://es.wikipedia.org/wiki/Poblaci%C3%B3n_mundial"
+    },
+    {
+      "category": "Países",
+      "title": "Which country has a larger population?",
+      "items": [
+        {
+          "name": "United States",
+          "value": 339000000,
+          "unit": "hab.",
+          "img": "https://upload.wikimedia.org/wikipedia/en/a/a4/Flag_of_the_United_States.svg"
+        },
+        {
+          "name": "Russia",
+          "value": 143000000,
+          "unit": "hab.",
+          "img": "https://upload.wikimedia.org/wikipedia/en/f/f3/Flag_of_Russia.svg"
+        }
+      ],
+      "summary": "Approximate total population.",
+      "source": "https://es.wikipedia.org/wiki/Poblaci%C3%B3n_mundial"
+    },
+    {
+      "category": "Países",
+      "title": "Which country has a larger population?",
+      "items": [
+        {
+          "name": "Spain",
+          "value": 48000000,
+          "unit": "hab.",
+          "img": "https://upload.wikimedia.org/wikipedia/en/9/9a/Flag_of_Spain.svg"
+        },
+        {
+          "name": "Brazil",
+          "value": 215000000,
+          "unit": "hab.",
+          "img": "https://upload.wikimedia.org/wikipedia/en/0/05/Flag_of_Brazil.svg"
+        }
+      ],
+      "summary": "Approximate total population.",
+      "source": "https://es.wikipedia.org/wiki/Poblaci%C3%B3n_mundial"
+    },
+    {
+      "category": "Países",
+      "title": "Which country has a larger population?",
+      "items": [
+        {
+          "name": "Vietnam",
+          "value": 100000000,
+          "unit": "hab.",
+          "img": "https://upload.wikimedia.org/wikipedia/commons/2/21/Flag_of_Vietnam.svg"
+        },
+        {
+          "name": "Turkey",
+          "value": 85000000,
+          "unit": "hab.",
+          "img": "https://upload.wikimedia.org/wikipedia/commons/b/b4/Flag_of_Turkey.svg"
+        }
+      ],
+      "summary": "Approximate total population.",
+      "source": "https://es.wikipedia.org/wiki/Poblaci%C3%B3n_mundial"
+    },
+    {
+      "category": "Países",
+      "title": "Which country has a larger population?",
+      "items": [
+        {
+          "name": "DR Congo",
+          "value": 102000000,
+          "unit": "hab.",
+          "img": "https://upload.wikimedia.org/wikipedia/commons/6/6f/Flag_of_the_Democratic_Republic_of_the_Congo.svg"
+        },
+        {
+          "name": "Iran",
+          "value": 86000000,
+          "unit": "hab.",
+          "img": "https://upload.wikimedia.org/wikipedia/commons/c/ca/Flag_of_Iran.svg"
+        }
+      ],
+      "summary": "Approximate total population.",
+      "source": "https://es.wikipedia.org/wiki/Poblaci%C3%B3n_mundial"
+    },
+    {
+      "category": "Países",
+      "title": "Which country has a larger population?",
+      "items": [
+        {
+          "name": "France",
+          "value": 68000000,
+          "unit": "hab.",
+          "img": "https://upload.wikimedia.org/wikipedia/en/c/c3/Flag_of_France.svg"
+        },
+        {
+          "name": "India",
+          "value": 1428000000,
+          "unit": "hab.",
+          "img": "https://upload.wikimedia.org/wikipedia/en/4/41/Flag_of_India.svg"
+        }
+      ],
+      "summary": "Approximate total population.",
+      "source": "https://es.wikipedia.org/wiki/Poblaci%C3%B3n_mundial"
+    },
+    {
+      "category": "Países",
+      "title": "Which country has a larger population?",
+      "items": [
+        {
+          "name": "China",
+          "value": 1411000000,
+          "unit": "hab.",
+          "img": "https://upload.wikimedia.org/wikipedia/commons/f/fa/Flag_of_the_People%27s_Republic_of_China.svg"
+        },
+        {
+          "name": "DR Congo",
+          "value": 102000000,
+          "unit": "hab.",
+          "img": "https://upload.wikimedia.org/wikipedia/commons/6/6f/Flag_of_the_Democratic_Republic_of_the_Congo.svg"
+        }
+      ],
+      "summary": "Approximate total population.",
+      "source": "https://es.wikipedia.org/wiki/Poblaci%C3%B3n_mundial"
+    },
+    {
+      "category": "Países",
+      "title": "Which country has a larger population?",
+      "items": [
+        {
+          "name": "Japan",
+          "value": 125000000,
+          "unit": "hab.",
+          "img": "https://upload.wikimedia.org/wikipedia/en/9/9e/Flag_of_Japan.svg"
+        },
+        {
+          "name": "Mexico",
+          "value": 128000000,
+          "unit": "hab.",
+          "img": "https://upload.wikimedia.org/wikipedia/commons/f/fc/Flag_of_Mexico.svg"
+        }
+      ],
+      "summary": "Approximate total population.",
+      "source": "https://es.wikipedia.org/wiki/Poblaci%C3%B3n_mundial"
+    },
+    {
+      "category": "Países",
+      "title": "Which country has a larger population?",
+      "items": [
+        {
+          "name": "Vietnam",
+          "value": 100000000,
+          "unit": "hab.",
+          "img": "https://upload.wikimedia.org/wikipedia/commons/2/21/Flag_of_Vietnam.svg"
+        },
+        {
+          "name": "China",
+          "value": 1411000000,
+          "unit": "hab.",
+          "img": "https://upload.wikimedia.org/wikipedia/commons/f/fa/Flag_of_the_People%27s_Republic_of_China.svg"
+        }
+      ],
+      "summary": "Approximate total population.",
+      "source": "https://es.wikipedia.org/wiki/Poblaci%C3%B3n_mundial"
+    },
+    {
+      "category": "Países",
+      "title": "Which country has a larger population?",
+      "items": [
+        {
+          "name": "Egypt",
+          "value": 110000000,
+          "unit": "hab.",
+          "img": "https://upload.wikimedia.org/wikipedia/commons/f/fe/Flag_of_Egypt.svg"
+        },
+        {
+          "name": "Nigeria",
+          "value": 216000000,
+          "unit": "hab.",
+          "img": "https://upload.wikimedia.org/wikipedia/commons/7/79/Flag_of_Nigeria.svg"
+        }
+      ],
+      "summary": "Approximate total population.",
+      "source": "https://es.wikipedia.org/wiki/Poblaci%C3%B3n_mundial"
+    },
+    {
+      "category": "Países",
+      "title": "Which country has a larger population?",
+      "items": [
+        {
+          "name": "Iran",
+          "value": 86000000,
+          "unit": "hab.",
+          "img": "https://upload.wikimedia.org/wikipedia/commons/c/ca/Flag_of_Iran.svg"
+        },
+        {
+          "name": "UK",
+          "value": 67000000,
+          "unit": "hab.",
+          "img": "https://upload.wikimedia.org/wikipedia/en/a/ae/Flag_of_the_United_Kingdom.svg"
+        }
+      ],
+      "summary": "Approximate total population.",
+      "source": "https://es.wikipedia.org/wiki/Poblaci%C3%B3n_mundial"
+    },
+    {
+      "category": "Países",
+      "title": "Which country has a larger population?",
+      "items": [
+        {
+          "name": "United States",
+          "value": 339000000,
+          "unit": "hab.",
+          "img": "https://upload.wikimedia.org/wikipedia/en/a/a4/Flag_of_the_United_States.svg"
+        },
+        {
+          "name": "Ukraine",
+          "value": 36000000,
+          "unit": "hab.",
+          "img": "https://upload.wikimedia.org/wikipedia/commons/4/49/Flag_of_Ukraine.svg"
+        }
+      ],
+      "summary": "Approximate total population.",
+      "source": "https://es.wikipedia.org/wiki/Poblaci%C3%B3n_mundial"
+    },
+    {
+      "category": "Países",
+      "title": "Which country has a larger population?",
+      "items": [
+        {
+          "name": "Pakistan",
+          "value": 240000000,
+          "unit": "hab.",
+          "img": "https://upload.wikimedia.org/wikipedia/commons/3/32/Flag_of_Pakistan.svg"
+        },
+        {
+          "name": "India",
+          "value": 1428000000,
+          "unit": "hab.",
+          "img": "https://upload.wikimedia.org/wikipedia/en/4/41/Flag_of_India.svg"
+        }
+      ],
+      "summary": "Approximate total population.",
+      "source": "https://es.wikipedia.org/wiki/Poblaci%C3%B3n_mundial"
+    },
+    {
+      "category": "Países",
+      "title": "Which country has a larger population?",
+      "items": [
+        {
+          "name": "Philippines",
+          "value": 112000000,
+          "unit": "hab.",
+          "img": "https://upload.wikimedia.org/wikipedia/commons/9/99/Flag_of_the_Philippines.svg"
+        },
+        {
+          "name": "Italy",
+          "value": 59000000,
+          "unit": "hab.",
+          "img": "https://upload.wikimedia.org/wikipedia/en/0/03/Flag_of_Italy.svg"
+        }
+      ],
+      "summary": "Approximate total population.",
+      "source": "https://es.wikipedia.org/wiki/Poblaci%C3%B3n_mundial"
+    },
+    {
+      "category": "Países",
+      "title": "Which country has a larger population?",
+      "items": [
+        {
+          "name": "Egypt",
+          "value": 110000000,
+          "unit": "hab.",
+          "img": "https://upload.wikimedia.org/wikipedia/commons/f/fe/Flag_of_Egypt.svg"
+        },
+        {
+          "name": "Japan",
+          "value": 125000000,
+          "unit": "hab.",
+          "img": "https://upload.wikimedia.org/wikipedia/en/9/9e/Flag_of_Japan.svg"
+        }
+      ],
+      "summary": "Approximate total population.",
+      "source": "https://es.wikipedia.org/wiki/Poblaci%C3%B3n_mundial"
+    },
+    {
+      "category": "Países",
+      "title": "Which country has a larger population?",
+      "items": [
+        {
+          "name": "India",
+          "value": 1428000000,
+          "unit": "hab.",
+          "img": "https://upload.wikimedia.org/wikipedia/en/4/41/Flag_of_India.svg"
+        },
+        {
+          "name": "Nigeria",
+          "value": 216000000,
+          "unit": "hab.",
+          "img": "https://upload.wikimedia.org/wikipedia/commons/7/79/Flag_of_Nigeria.svg"
+        }
+      ],
+      "summary": "Approximate total population.",
+      "source": "https://es.wikipedia.org/wiki/Poblaci%C3%B3n_mundial"
+    },
+    {
+      "category": "Países",
+      "title": "Which country has a larger population?",
+      "items": [
+        {
+          "name": "India",
+          "value": 1428000000,
+          "unit": "hab.",
+          "img": "https://upload.wikimedia.org/wikipedia/en/4/41/Flag_of_India.svg"
+        },
+        {
+          "name": "Spain",
+          "value": 48000000,
+          "unit": "hab.",
+          "img": "https://upload.wikimedia.org/wikipedia/en/9/9a/Flag_of_Spain.svg"
+        }
+      ],
+      "summary": "Approximate total population.",
+      "source": "https://es.wikipedia.org/wiki/Poblaci%C3%B3n_mundial"
+    },
+    {
+      "category": "Países",
+      "title": "Which country has a larger population?",
+      "items": [
+        {
+          "name": "India",
+          "value": 1428000000,
+          "unit": "hab.",
+          "img": "https://upload.wikimedia.org/wikipedia/en/4/41/Flag_of_India.svg"
+        },
+        {
+          "name": "Italy",
+          "value": 59000000,
+          "unit": "hab.",
+          "img": "https://upload.wikimedia.org/wikipedia/en/0/03/Flag_of_Italy.svg"
+        }
+      ],
+      "summary": "Approximate total population.",
+      "source": "https://es.wikipedia.org/wiki/Poblaci%C3%B3n_mundial"
+    },
+    {
+      "category": "Países",
+      "title": "Which country has a larger population?",
+      "items": [
+        {
+          "name": "Turkey",
+          "value": 85000000,
+          "unit": "hab.",
+          "img": "https://upload.wikimedia.org/wikipedia/commons/b/b4/Flag_of_Turkey.svg"
+        },
+        {
+          "name": "France",
+          "value": 68000000,
+          "unit": "hab.",
+          "img": "https://upload.wikimedia.org/wikipedia/en/c/c3/Flag_of_France.svg"
+        }
+      ],
+      "summary": "Approximate total population.",
+      "source": "https://es.wikipedia.org/wiki/Poblaci%C3%B3n_mundial"
+    },
+    {
+      "category": "Países",
+      "title": "Which country has a larger population?",
+      "items": [
+        {
+          "name": "Indonesia",
+          "value": 277000000,
+          "unit": "hab.",
+          "img": "https://upload.wikimedia.org/wikipedia/commons/9/9f/Flag_of_Indonesia.svg"
+        },
+        {
+          "name": "Nigeria",
+          "value": 216000000,
+          "unit": "hab.",
+          "img": "https://upload.wikimedia.org/wikipedia/commons/7/79/Flag_of_Nigeria.svg"
+        }
+      ],
+      "summary": "Approximate total population.",
+      "source": "https://es.wikipedia.org/wiki/Poblaci%C3%B3n_mundial"
+    },
+    {
+      "category": "Países",
+      "title": "Which country has a larger population?",
+      "items": [
+        {
+          "name": "Indonesia",
+          "value": 277000000,
+          "unit": "hab.",
+          "img": "https://upload.wikimedia.org/wikipedia/commons/9/9f/Flag_of_Indonesia.svg"
+        },
+        {
+          "name": "France",
+          "value": 68000000,
+          "unit": "hab.",
+          "img": "https://upload.wikimedia.org/wikipedia/en/c/c3/Flag_of_France.svg"
+        }
+      ],
+      "summary": "Approximate total population.",
+      "source": "https://es.wikipedia.org/wiki/Poblaci%C3%B3n_mundial"
+    },
+    {
+      "category": "Países",
+      "title": "Which country has a larger population?",
+      "items": [
+        {
+          "name": "UK",
+          "value": 67000000,
+          "unit": "hab.",
+          "img": "https://upload.wikimedia.org/wikipedia/en/a/ae/Flag_of_the_United_Kingdom.svg"
+        },
+        {
+          "name": "Nigeria",
+          "value": 216000000,
+          "unit": "hab.",
+          "img": "https://upload.wikimedia.org/wikipedia/commons/7/79/Flag_of_Nigeria.svg"
+        }
+      ],
+      "summary": "Approximate total population.",
+      "source": "https://es.wikipedia.org/wiki/Poblaci%C3%B3n_mundial"
+    },
+    {
+      "category": "Países",
+      "title": "Which country has a larger population?",
+      "items": [
+        {
+          "name": "Mexico",
+          "value": 128000000,
+          "unit": "hab.",
+          "img": "https://upload.wikimedia.org/wikipedia/commons/f/fc/Flag_of_Mexico.svg"
+        },
+        {
+          "name": "Russia",
+          "value": 143000000,
+          "unit": "hab.",
+          "img": "https://upload.wikimedia.org/wikipedia/en/f/f3/Flag_of_Russia.svg"
+        }
+      ],
+      "summary": "Approximate total population.",
+      "source": "https://es.wikipedia.org/wiki/Poblaci%C3%B3n_mundial"
+    },
+    {
+      "category": "Países",
+      "title": "Which country has a larger population?",
+      "items": [
+        {
+          "name": "Spain",
+          "value": 48000000,
+          "unit": "hab.",
+          "img": "https://upload.wikimedia.org/wikipedia/en/9/9a/Flag_of_Spain.svg"
+        },
+        {
+          "name": "Brazil",
+          "value": 215000000,
+          "unit": "hab.",
+          "img": "https://upload.wikimedia.org/wikipedia/en/0/05/Flag_of_Brazil.svg"
+        }
+      ],
+      "summary": "Approximate total population.",
+      "source": "https://es.wikipedia.org/wiki/Poblaci%C3%B3n_mundial"
+    },
+    {
+      "category": "Países",
+      "title": "Which country has a larger population?",
+      "items": [
+        {
+          "name": "Indonesia",
+          "value": 277000000,
+          "unit": "hab.",
+          "img": "https://upload.wikimedia.org/wikipedia/commons/9/9f/Flag_of_Indonesia.svg"
+        },
+        {
+          "name": "DR Congo",
+          "value": 102000000,
+          "unit": "hab.",
+          "img": "https://upload.wikimedia.org/wikipedia/commons/6/6f/Flag_of_the_Democratic_Republic_of_the_Congo.svg"
+        }
+      ],
+      "summary": "Approximate total population.",
+      "source": "https://es.wikipedia.org/wiki/Poblaci%C3%B3n_mundial"
+    },
+    {
+      "category": "Países",
+      "title": "Which country has a larger population?",
+      "items": [
+        {
+          "name": "Philippines",
+          "value": 112000000,
+          "unit": "hab.",
+          "img": "https://upload.wikimedia.org/wikipedia/commons/9/99/Flag_of_the_Philippines.svg"
+        },
+        {
+          "name": "UK",
+          "value": 67000000,
+          "unit": "hab.",
+          "img": "https://upload.wikimedia.org/wikipedia/en/a/ae/Flag_of_the_United_Kingdom.svg"
+        }
+      ],
+      "summary": "Approximate total population.",
+      "source": "https://es.wikipedia.org/wiki/Poblaci%C3%B3n_mundial"
+    },
+    {
+      "category": "Países",
+      "title": "Which country has a larger population?",
+      "items": [
+        {
+          "name": "United States",
+          "value": 339000000,
+          "unit": "hab.",
+          "img": "https://upload.wikimedia.org/wikipedia/en/a/a4/Flag_of_the_United_States.svg"
+        },
+        {
+          "name": "India",
+          "value": 1428000000,
+          "unit": "hab.",
+          "img": "https://upload.wikimedia.org/wikipedia/en/4/41/Flag_of_India.svg"
+        }
+      ],
+      "summary": "Approximate total population.",
+      "source": "https://es.wikipedia.org/wiki/Poblaci%C3%B3n_mundial"
+    },
+    {
+      "category": "Países",
+      "title": "Which country has a larger population?",
+      "items": [
+        {
+          "name": "Russia",
+          "value": 143000000,
+          "unit": "hab.",
+          "img": "https://upload.wikimedia.org/wikipedia/en/f/f3/Flag_of_Russia.svg"
+        },
+        {
+          "name": "Vietnam",
+          "value": 100000000,
+          "unit": "hab.",
+          "img": "https://upload.wikimedia.org/wikipedia/commons/2/21/Flag_of_Vietnam.svg"
+        }
+      ],
+      "summary": "Approximate total population.",
+      "source": "https://es.wikipedia.org/wiki/Poblaci%C3%B3n_mundial"
+    },
+    {
+      "category": "Países",
+      "title": "Which country has a larger population?",
+      "items": [
+        {
+          "name": "Indonesia",
+          "value": 277000000,
+          "unit": "hab.",
+          "img": "https://upload.wikimedia.org/wikipedia/commons/9/9f/Flag_of_Indonesia.svg"
+        },
+        {
+          "name": "Russia",
+          "value": 143000000,
+          "unit": "hab.",
+          "img": "https://upload.wikimedia.org/wikipedia/en/f/f3/Flag_of_Russia.svg"
+        }
+      ],
+      "summary": "Approximate total population.",
+      "source": "https://es.wikipedia.org/wiki/Poblaci%C3%B3n_mundial"
+    },
+    {
+      "category": "Países",
+      "title": "Which country has a larger population?",
+      "items": [
+        {
+          "name": "Pakistan",
+          "value": 240000000,
+          "unit": "hab.",
+          "img": "https://upload.wikimedia.org/wikipedia/commons/3/32/Flag_of_Pakistan.svg"
+        },
+        {
+          "name": "UK",
+          "value": 67000000,
+          "unit": "hab.",
+          "img": "https://upload.wikimedia.org/wikipedia/en/a/ae/Flag_of_the_United_Kingdom.svg"
+        }
+      ],
+      "summary": "Approximate total population.",
+      "source": "https://es.wikipedia.org/wiki/Poblaci%C3%B3n_mundial"
+    },
+    {
+      "category": "Países",
+      "title": "Which country has a larger population?",
+      "items": [
+        {
+          "name": "Turkey",
+          "value": 85000000,
+          "unit": "hab.",
+          "img": "https://upload.wikimedia.org/wikipedia/commons/b/b4/Flag_of_Turkey.svg"
+        },
+        {
+          "name": "UK",
+          "value": 67000000,
+          "unit": "hab.",
+          "img": "https://upload.wikimedia.org/wikipedia/en/a/ae/Flag_of_the_United_Kingdom.svg"
+        }
+      ],
+      "summary": "Approximate total population.",
+      "source": "https://es.wikipedia.org/wiki/Poblaci%C3%B3n_mundial"
+    },
+    {
+      "category": "Países",
+      "title": "Which country has a larger population?",
+      "items": [
+        {
+          "name": "UK",
+          "value": 67000000,
+          "unit": "hab.",
+          "img": "https://upload.wikimedia.org/wikipedia/en/a/ae/Flag_of_the_United_Kingdom.svg"
+        },
+        {
+          "name": "Ethiopia",
+          "value": 123000000,
+          "unit": "hab.",
+          "img": "https://upload.wikimedia.org/wikipedia/commons/7/71/Flag_of_Ethiopia.svg"
+        }
+      ],
+      "summary": "Approximate total population.",
+      "source": "https://es.wikipedia.org/wiki/Poblaci%C3%B3n_mundial"
+    },
+    {
+      "category": "Países",
+      "title": "Which country has a larger population?",
+      "items": [
+        {
+          "name": "Indonesia",
+          "value": 277000000,
+          "unit": "hab.",
+          "img": "https://upload.wikimedia.org/wikipedia/commons/9/9f/Flag_of_Indonesia.svg"
+        },
+        {
+          "name": "Pakistan",
+          "value": 240000000,
+          "unit": "hab.",
+          "img": "https://upload.wikimedia.org/wikipedia/commons/3/32/Flag_of_Pakistan.svg"
+        }
+      ],
+      "summary": "Approximate total population.",
+      "source": "https://es.wikipedia.org/wiki/Poblaci%C3%B3n_mundial"
+    },
+    {
+      "category": "Países",
+      "title": "Which country has a larger population?",
+      "items": [
+        {
+          "name": "Russia",
+          "value": 143000000,
+          "unit": "hab.",
+          "img": "https://upload.wikimedia.org/wikipedia/en/f/f3/Flag_of_Russia.svg"
+        },
+        {
+          "name": "India",
+          "value": 1428000000,
+          "unit": "hab.",
+          "img": "https://upload.wikimedia.org/wikipedia/en/4/41/Flag_of_India.svg"
+        }
+      ],
+      "summary": "Approximate total population.",
+      "source": "https://es.wikipedia.org/wiki/Poblaci%C3%B3n_mundial"
+    },
+    {
+      "category": "Países",
+      "title": "Which country has a larger population?",
+      "items": [
+        {
+          "name": "China",
+          "value": 1411000000,
+          "unit": "hab.",
+          "img": "https://upload.wikimedia.org/wikipedia/commons/f/fa/Flag_of_the_People%27s_Republic_of_China.svg"
+        },
+        {
+          "name": "Nigeria",
+          "value": 216000000,
+          "unit": "hab.",
+          "img": "https://upload.wikimedia.org/wikipedia/commons/7/79/Flag_of_Nigeria.svg"
+        }
+      ],
+      "summary": "Approximate total population.",
+      "source": "https://es.wikipedia.org/wiki/Poblaci%C3%B3n_mundial"
+    },
+    {
+      "category": "Países",
+      "title": "Which country has a larger population?",
+      "items": [
+        {
+          "name": "Italy",
+          "value": 59000000,
+          "unit": "hab.",
+          "img": "https://upload.wikimedia.org/wikipedia/en/0/03/Flag_of_Italy.svg"
+        },
+        {
+          "name": "Russia",
+          "value": 143000000,
+          "unit": "hab.",
+          "img": "https://upload.wikimedia.org/wikipedia/en/f/f3/Flag_of_Russia.svg"
+        }
+      ],
+      "summary": "Approximate total population.",
+      "source": "https://es.wikipedia.org/wiki/Poblaci%C3%B3n_mundial"
+    },
+    {
+      "category": "Países",
+      "title": "Which country has a larger population?",
+      "items": [
+        {
+          "name": "Iran",
+          "value": 86000000,
+          "unit": "hab.",
+          "img": "https://upload.wikimedia.org/wikipedia/commons/c/ca/Flag_of_Iran.svg"
+        },
+        {
+          "name": "Japan",
+          "value": 125000000,
+          "unit": "hab.",
+          "img": "https://upload.wikimedia.org/wikipedia/en/9/9e/Flag_of_Japan.svg"
+        }
+      ],
+      "summary": "Approximate total population.",
+      "source": "https://es.wikipedia.org/wiki/Poblaci%C3%B3n_mundial"
+    },
+    {
+      "category": "Países",
+      "title": "Which country has a larger population?",
+      "items": [
+        {
+          "name": "Ethiopia",
+          "value": 123000000,
+          "unit": "hab.",
+          "img": "https://upload.wikimedia.org/wikipedia/commons/7/71/Flag_of_Ethiopia.svg"
+        },
+        {
+          "name": "Germany",
+          "value": 84000000,
+          "unit": "hab.",
+          "img": "https://upload.wikimedia.org/wikipedia/en/b/ba/Flag_of_Germany.svg"
+        }
+      ],
+      "summary": "Approximate total population.",
+      "source": "https://es.wikipedia.org/wiki/Poblaci%C3%B3n_mundial"
+    },
+    {
+      "category": "Países",
+      "title": "Which country has a larger population?",
+      "items": [
+        {
+          "name": "China",
+          "value": 1411000000,
+          "unit": "hab.",
+          "img": "https://upload.wikimedia.org/wikipedia/commons/f/fa/Flag_of_the_People%27s_Republic_of_China.svg"
+        },
+        {
+          "name": "Ukraine",
+          "value": 36000000,
+          "unit": "hab.",
+          "img": "https://upload.wikimedia.org/wikipedia/commons/4/49/Flag_of_Ukraine.svg"
+        }
+      ],
+      "summary": "Approximate total population.",
+      "source": "https://es.wikipedia.org/wiki/Poblaci%C3%B3n_mundial"
+    },
+    {
+      "category": "Países",
+      "title": "Which country has a larger population?",
+      "items": [
+        {
+          "name": "Spain",
+          "value": 48000000,
+          "unit": "hab.",
+          "img": "https://upload.wikimedia.org/wikipedia/en/9/9a/Flag_of_Spain.svg"
+        },
+        {
+          "name": "France",
+          "value": 68000000,
+          "unit": "hab.",
+          "img": "https://upload.wikimedia.org/wikipedia/en/c/c3/Flag_of_France.svg"
+        }
+      ],
+      "summary": "Approximate total population.",
+      "source": "https://es.wikipedia.org/wiki/Poblaci%C3%B3n_mundial"
+    },
+    {
+      "category": "Países",
+      "title": "Which country has a larger population?",
+      "items": [
+        {
+          "name": "UK",
+          "value": 67000000,
+          "unit": "hab.",
+          "img": "https://upload.wikimedia.org/wikipedia/en/a/ae/Flag_of_the_United_Kingdom.svg"
+        },
+        {
+          "name": "DR Congo",
+          "value": 102000000,
+          "unit": "hab.",
+          "img": "https://upload.wikimedia.org/wikipedia/commons/6/6f/Flag_of_the_Democratic_Republic_of_the_Congo.svg"
+        }
+      ],
+      "summary": "Approximate total population.",
+      "source": "https://es.wikipedia.org/wiki/Poblaci%C3%B3n_mundial"
+    },
+    {
+      "category": "Países",
+      "title": "Which country has a larger population?",
+      "items": [
+        {
+          "name": "Spain",
+          "value": 48000000,
+          "unit": "hab.",
+          "img": "https://upload.wikimedia.org/wikipedia/en/9/9a/Flag_of_Spain.svg"
+        },
+        {
+          "name": "UK",
+          "value": 67000000,
+          "unit": "hab.",
+          "img": "https://upload.wikimedia.org/wikipedia/en/a/ae/Flag_of_the_United_Kingdom.svg"
+        }
+      ],
+      "summary": "Approximate total population.",
+      "source": "https://es.wikipedia.org/wiki/Poblaci%C3%B3n_mundial"
+    },
+    {
+      "category": "Países",
+      "title": "Which country has a larger population?",
+      "items": [
+        {
+          "name": "Vietnam",
+          "value": 100000000,
+          "unit": "hab.",
+          "img": "https://upload.wikimedia.org/wikipedia/commons/2/21/Flag_of_Vietnam.svg"
+        },
+        {
+          "name": "UK",
+          "value": 67000000,
+          "unit": "hab.",
+          "img": "https://upload.wikimedia.org/wikipedia/en/a/ae/Flag_of_the_United_Kingdom.svg"
+        }
+      ],
+      "summary": "Approximate total population.",
+      "source": "https://es.wikipedia.org/wiki/Poblaci%C3%B3n_mundial"
+    },
+    {
+      "category": "Países",
+      "title": "Which country has a larger population?",
+      "items": [
+        {
+          "name": "Egypt",
+          "value": 110000000,
+          "unit": "hab.",
+          "img": "https://upload.wikimedia.org/wikipedia/commons/f/fe/Flag_of_Egypt.svg"
+        },
+        {
+          "name": "Ethiopia",
+          "value": 123000000,
+          "unit": "hab.",
+          "img": "https://upload.wikimedia.org/wikipedia/commons/7/71/Flag_of_Ethiopia.svg"
+        }
+      ],
+      "summary": "Approximate total population.",
+      "source": "https://es.wikipedia.org/wiki/Poblaci%C3%B3n_mundial"
+    },
+    {
+      "category": "Países",
+      "title": "Which country has a larger population?",
+      "items": [
+        {
+          "name": "Iran",
+          "value": 86000000,
+          "unit": "hab.",
+          "img": "https://upload.wikimedia.org/wikipedia/commons/c/ca/Flag_of_Iran.svg"
+        },
+        {
+          "name": "Brazil",
+          "value": 215000000,
+          "unit": "hab.",
+          "img": "https://upload.wikimedia.org/wikipedia/en/0/05/Flag_of_Brazil.svg"
+        }
+      ],
+      "summary": "Approximate total population.",
+      "source": "https://es.wikipedia.org/wiki/Poblaci%C3%B3n_mundial"
+    },
+    {
+      "category": "Países",
+      "title": "Which country has a larger population?",
+      "items": [
+        {
+          "name": "Nigeria",
+          "value": 216000000,
+          "unit": "hab.",
+          "img": "https://upload.wikimedia.org/wikipedia/commons/7/79/Flag_of_Nigeria.svg"
+        },
+        {
+          "name": "Philippines",
+          "value": 112000000,
+          "unit": "hab.",
+          "img": "https://upload.wikimedia.org/wikipedia/commons/9/99/Flag_of_the_Philippines.svg"
+        }
+      ],
+      "summary": "Approximate total population.",
+      "source": "https://es.wikipedia.org/wiki/Poblaci%C3%B3n_mundial"
+    },
+    {
+      "category": "Países",
+      "title": "Which country has a larger population?",
+      "items": [
+        {
+          "name": "Germany",
+          "value": 84000000,
+          "unit": "hab.",
+          "img": "https://upload.wikimedia.org/wikipedia/en/b/ba/Flag_of_Germany.svg"
+        },
+        {
+          "name": "Mexico",
+          "value": 128000000,
+          "unit": "hab.",
+          "img": "https://upload.wikimedia.org/wikipedia/commons/f/fc/Flag_of_Mexico.svg"
+        }
+      ],
+      "summary": "Approximate total population.",
+      "source": "https://es.wikipedia.org/wiki/Poblaci%C3%B3n_mundial"
+    },
+    {
+      "category": "Países",
+      "title": "Which country has a larger population?",
+      "items": [
+        {
+          "name": "India",
+          "value": 1428000000,
+          "unit": "hab.",
+          "img": "https://upload.wikimedia.org/wikipedia/en/4/41/Flag_of_India.svg"
+        },
+        {
+          "name": "Pakistan",
+          "value": 240000000,
+          "unit": "hab.",
+          "img": "https://upload.wikimedia.org/wikipedia/commons/3/32/Flag_of_Pakistan.svg"
+        }
+      ],
+      "summary": "Approximate total population.",
+      "source": "https://es.wikipedia.org/wiki/Poblaci%C3%B3n_mundial"
+    },
+    {
+      "category": "Países",
+      "title": "Which country has a larger population?",
+      "items": [
+        {
+          "name": "Pakistan",
+          "value": 240000000,
+          "unit": "hab.",
+          "img": "https://upload.wikimedia.org/wikipedia/commons/3/32/Flag_of_Pakistan.svg"
+        },
+        {
+          "name": "Russia",
+          "value": 143000000,
+          "unit": "hab.",
+          "img": "https://upload.wikimedia.org/wikipedia/en/f/f3/Flag_of_Russia.svg"
+        }
+      ],
+      "summary": "Approximate total population.",
+      "source": "https://es.wikipedia.org/wiki/Poblaci%C3%B3n_mundial"
+    },
+    {
+      "category": "Países",
+      "title": "Which country has a larger population?",
+      "items": [
+        {
+          "name": "Japan",
+          "value": 125000000,
+          "unit": "hab.",
+          "img": "https://upload.wikimedia.org/wikipedia/en/9/9e/Flag_of_Japan.svg"
+        },
+        {
+          "name": "Ethiopia",
+          "value": 123000000,
+          "unit": "hab.",
+          "img": "https://upload.wikimedia.org/wikipedia/commons/7/71/Flag_of_Ethiopia.svg"
+        }
+      ],
+      "summary": "Approximate total population.",
+      "source": "https://es.wikipedia.org/wiki/Poblaci%C3%B3n_mundial"
+    },
+    {
+      "category": "Países",
+      "title": "Which country has a larger population?",
+      "items": [
+        {
+          "name": "Spain",
+          "value": 48000000,
+          "unit": "hab.",
+          "img": "https://upload.wikimedia.org/wikipedia/en/9/9a/Flag_of_Spain.svg"
+        },
+        {
+          "name": "United States",
+          "value": 339000000,
+          "unit": "hab.",
+          "img": "https://upload.wikimedia.org/wikipedia/en/a/a4/Flag_of_the_United_States.svg"
+        }
+      ],
+      "summary": "Approximate total population.",
+      "source": "https://es.wikipedia.org/wiki/Poblaci%C3%B3n_mundial"
+    },
+    {
+      "category": "Países",
+      "title": "Which country has a larger population?",
+      "items": [
+        {
+          "name": "Japan",
+          "value": 125000000,
+          "unit": "hab.",
+          "img": "https://upload.wikimedia.org/wikipedia/en/9/9e/Flag_of_Japan.svg"
+        },
+        {
+          "name": "France",
+          "value": 68000000,
+          "unit": "hab.",
+          "img": "https://upload.wikimedia.org/wikipedia/en/c/c3/Flag_of_France.svg"
+        }
+      ],
+      "summary": "Approximate total population.",
+      "source": "https://es.wikipedia.org/wiki/Poblaci%C3%B3n_mundial"
+    },
+    {
+      "category": "Países",
+      "title": "Which country has a larger population?",
+      "items": [
+        {
+          "name": "China",
+          "value": 1411000000,
+          "unit": "hab.",
+          "img": "https://upload.wikimedia.org/wikipedia/commons/f/fa/Flag_of_the_People%27s_Republic_of_China.svg"
+        },
+        {
+          "name": "Russia",
+          "value": 143000000,
+          "unit": "hab.",
+          "img": "https://upload.wikimedia.org/wikipedia/en/f/f3/Flag_of_Russia.svg"
+        }
+      ],
+      "summary": "Approximate total population.",
+      "source": "https://es.wikipedia.org/wiki/Poblaci%C3%B3n_mundial"
+    },
+    {
+      "category": "Países",
+      "title": "Which country has a larger population?",
+      "items": [
+        {
+          "name": "Brazil",
+          "value": 215000000,
+          "unit": "hab.",
+          "img": "https://upload.wikimedia.org/wikipedia/en/0/05/Flag_of_Brazil.svg"
+        },
+        {
+          "name": "Pakistan",
+          "value": 240000000,
+          "unit": "hab.",
+          "img": "https://upload.wikimedia.org/wikipedia/commons/3/32/Flag_of_Pakistan.svg"
+        }
+      ],
+      "summary": "Approximate total population.",
+      "source": "https://es.wikipedia.org/wiki/Poblaci%C3%B3n_mundial"
+    },
+    {
+      "category": "Países",
+      "title": "Which country has a larger population?",
+      "items": [
+        {
+          "name": "Germany",
+          "value": 84000000,
+          "unit": "hab.",
+          "img": "https://upload.wikimedia.org/wikipedia/en/b/ba/Flag_of_Germany.svg"
+        },
+        {
+          "name": "Mexico",
+          "value": 128000000,
+          "unit": "hab.",
+          "img": "https://upload.wikimedia.org/wikipedia/commons/f/fc/Flag_of_Mexico.svg"
+        }
+      ],
+      "summary": "Approximate total population.",
+      "source": "https://es.wikipedia.org/wiki/Poblaci%C3%B3n_mundial"
+    },
+    {
+      "category": "Países",
+      "title": "Which country has a larger population?",
+      "items": [
+        {
+          "name": "Ethiopia",
+          "value": 123000000,
+          "unit": "hab.",
+          "img": "https://upload.wikimedia.org/wikipedia/commons/7/71/Flag_of_Ethiopia.svg"
+        },
+        {
+          "name": "Philippines",
+          "value": 112000000,
+          "unit": "hab.",
+          "img": "https://upload.wikimedia.org/wikipedia/commons/9/99/Flag_of_the_Philippines.svg"
+        }
+      ],
+      "summary": "Approximate total population.",
+      "source": "https://es.wikipedia.org/wiki/Poblaci%C3%B3n_mundial"
+    },
+    {
+      "category": "Países",
+      "title": "Which country has a larger population?",
+      "items": [
+        {
+          "name": "Iran",
+          "value": 86000000,
+          "unit": "hab.",
+          "img": "https://upload.wikimedia.org/wikipedia/commons/c/ca/Flag_of_Iran.svg"
+        },
+        {
+          "name": "Pakistan",
+          "value": 240000000,
+          "unit": "hab.",
+          "img": "https://upload.wikimedia.org/wikipedia/commons/3/32/Flag_of_Pakistan.svg"
+        }
+      ],
+      "summary": "Approximate total population.",
+      "source": "https://es.wikipedia.org/wiki/Poblaci%C3%B3n_mundial"
+    },
+    {
+      "category": "Países",
+      "title": "Which country has a larger population?",
+      "items": [
+        {
+          "name": "Mexico",
+          "value": 128000000,
+          "unit": "hab.",
+          "img": "https://upload.wikimedia.org/wikipedia/commons/f/fc/Flag_of_Mexico.svg"
+        },
+        {
+          "name": "Indonesia",
+          "value": 277000000,
+          "unit": "hab.",
+          "img": "https://upload.wikimedia.org/wikipedia/commons/9/9f/Flag_of_Indonesia.svg"
+        }
+      ],
+      "summary": "Approximate total population.",
+      "source": "https://es.wikipedia.org/wiki/Poblaci%C3%B3n_mundial"
+    },
+    {
+      "category": "Países",
+      "title": "Which country has a larger population?",
+      "items": [
+        {
+          "name": "DR Congo",
+          "value": 102000000,
+          "unit": "hab.",
+          "img": "https://upload.wikimedia.org/wikipedia/commons/6/6f/Flag_of_the_Democratic_Republic_of_the_Congo.svg"
+        },
+        {
+          "name": "Ukraine",
+          "value": 36000000,
+          "unit": "hab.",
+          "img": "https://upload.wikimedia.org/wikipedia/commons/4/49/Flag_of_Ukraine.svg"
+        }
+      ],
+      "summary": "Approximate total population.",
+      "source": "https://es.wikipedia.org/wiki/Poblaci%C3%B3n_mundial"
+    },
+    {
+      "category": "Países",
+      "title": "Which country has a larger population?",
+      "items": [
+        {
+          "name": "Bangladesh",
+          "value": 172000000,
+          "unit": "hab.",
+          "img": "https://upload.wikimedia.org/wikipedia/commons/f/f9/Flag_of_Bangladesh.svg"
+        },
+        {
+          "name": "China",
+          "value": 1411000000,
+          "unit": "hab.",
+          "img": "https://upload.wikimedia.org/wikipedia/commons/f/fa/Flag_of_the_People%27s_Republic_of_China.svg"
+        }
+      ],
+      "summary": "Approximate total population.",
+      "source": "https://es.wikipedia.org/wiki/Poblaci%C3%B3n_mundial"
+    },
+    {
+      "category": "Países",
+      "title": "Which country has a larger population?",
+      "items": [
+        {
+          "name": "Mexico",
+          "value": 128000000,
+          "unit": "hab.",
+          "img": "https://upload.wikimedia.org/wikipedia/commons/f/fc/Flag_of_Mexico.svg"
+        },
+        {
+          "name": "Brazil",
+          "value": 215000000,
+          "unit": "hab.",
+          "img": "https://upload.wikimedia.org/wikipedia/en/0/05/Flag_of_Brazil.svg"
+        }
+      ],
+      "summary": "Approximate total population.",
+      "source": "https://es.wikipedia.org/wiki/Poblaci%C3%B3n_mundial"
+    },
+    {
+      "category": "Países",
+      "title": "Which country has a larger population?",
+      "items": [
+        {
+          "name": "Turkey",
+          "value": 85000000,
+          "unit": "hab.",
+          "img": "https://upload.wikimedia.org/wikipedia/commons/b/b4/Flag_of_Turkey.svg"
+        },
+        {
+          "name": "Ukraine",
+          "value": 36000000,
+          "unit": "hab.",
+          "img": "https://upload.wikimedia.org/wikipedia/commons/4/49/Flag_of_Ukraine.svg"
+        }
+      ],
+      "summary": "Approximate total population.",
+      "source": "https://es.wikipedia.org/wiki/Poblaci%C3%B3n_mundial"
+    },
+    {
+      "category": "Países",
+      "title": "Which country has a larger population?",
+      "items": [
+        {
+          "name": "United States",
+          "value": 339000000,
+          "unit": "hab.",
+          "img": "https://upload.wikimedia.org/wikipedia/en/a/a4/Flag_of_the_United_States.svg"
+        },
+        {
+          "name": "Mexico",
+          "value": 128000000,
+          "unit": "hab.",
+          "img": "https://upload.wikimedia.org/wikipedia/commons/f/fc/Flag_of_Mexico.svg"
+        }
+      ],
+      "summary": "Approximate total population.",
+      "source": "https://es.wikipedia.org/wiki/Poblaci%C3%B3n_mundial"
+    },
+    {
+      "category": "Países",
+      "title": "Which country has a larger population?",
+      "items": [
+        {
+          "name": "Philippines",
+          "value": 112000000,
+          "unit": "hab.",
+          "img": "https://upload.wikimedia.org/wikipedia/commons/9/99/Flag_of_the_Philippines.svg"
+        },
+        {
+          "name": "Japan",
+          "value": 125000000,
+          "unit": "hab.",
+          "img": "https://upload.wikimedia.org/wikipedia/en/9/9e/Flag_of_Japan.svg"
+        }
+      ],
+      "summary": "Approximate total population.",
+      "source": "https://es.wikipedia.org/wiki/Poblaci%C3%B3n_mundial"
+    },
+    {
+      "category": "Países",
+      "title": "Which country has a larger population?",
+      "items": [
+        {
+          "name": "Mexico",
+          "value": 128000000,
+          "unit": "hab.",
+          "img": "https://upload.wikimedia.org/wikipedia/commons/f/fc/Flag_of_Mexico.svg"
+        },
+        {
+          "name": "Egypt",
+          "value": 110000000,
+          "unit": "hab.",
+          "img": "https://upload.wikimedia.org/wikipedia/commons/f/fe/Flag_of_Egypt.svg"
+        }
+      ],
+      "summary": "Approximate total population.",
+      "source": "https://es.wikipedia.org/wiki/Poblaci%C3%B3n_mundial"
+    },
+    {
+      "category": "Países",
+      "title": "Which country has a larger population?",
+      "items": [
+        {
+          "name": "Indonesia",
+          "value": 277000000,
+          "unit": "hab.",
+          "img": "https://upload.wikimedia.org/wikipedia/commons/9/9f/Flag_of_Indonesia.svg"
+        },
+        {
+          "name": "Iran",
+          "value": 86000000,
+          "unit": "hab.",
+          "img": "https://upload.wikimedia.org/wikipedia/commons/c/ca/Flag_of_Iran.svg"
+        }
+      ],
+      "summary": "Approximate total population.",
+      "source": "https://es.wikipedia.org/wiki/Poblaci%C3%B3n_mundial"
+    },
+    {
+      "category": "Países",
+      "title": "Which country has a larger population?",
+      "items": [
+        {
+          "name": "DR Congo",
+          "value": 102000000,
+          "unit": "hab.",
+          "img": "https://upload.wikimedia.org/wikipedia/commons/6/6f/Flag_of_the_Democratic_Republic_of_the_Congo.svg"
+        },
+        {
+          "name": "Japan",
+          "value": 125000000,
+          "unit": "hab.",
+          "img": "https://upload.wikimedia.org/wikipedia/en/9/9e/Flag_of_Japan.svg"
+        }
+      ],
+      "summary": "Approximate total population.",
+      "source": "https://es.wikipedia.org/wiki/Poblaci%C3%B3n_mundial"
+    },
+    {
+      "category": "Países",
+      "title": "Which country has a larger population?",
+      "items": [
+        {
+          "name": "Japan",
+          "value": 125000000,
+          "unit": "hab.",
+          "img": "https://upload.wikimedia.org/wikipedia/en/9/9e/Flag_of_Japan.svg"
+        },
+        {
+          "name": "Indonesia",
+          "value": 277000000,
+          "unit": "hab.",
+          "img": "https://upload.wikimedia.org/wikipedia/commons/9/9f/Flag_of_Indonesia.svg"
+        }
+      ],
+      "summary": "Approximate total population.",
+      "source": "https://es.wikipedia.org/wiki/Poblaci%C3%B3n_mundial"
+    },
+    {
+      "category": "Países",
+      "title": "Which country has a larger population?",
+      "items": [
+        {
+          "name": "DR Congo",
+          "value": 102000000,
+          "unit": "hab.",
+          "img": "https://upload.wikimedia.org/wikipedia/commons/6/6f/Flag_of_the_Democratic_Republic_of_the_Congo.svg"
+        },
+        {
+          "name": "Indonesia",
+          "value": 277000000,
+          "unit": "hab.",
+          "img": "https://upload.wikimedia.org/wikipedia/commons/9/9f/Flag_of_Indonesia.svg"
+        }
+      ],
+      "summary": "Approximate total population.",
+      "source": "https://es.wikipedia.org/wiki/Poblaci%C3%B3n_mundial"
+    },
+    {
+      "category": "Países",
+      "title": "Which country has a larger population?",
+      "items": [
+        {
+          "name": "Spain",
+          "value": 48000000,
+          "unit": "hab.",
+          "img": "https://upload.wikimedia.org/wikipedia/en/9/9a/Flag_of_Spain.svg"
+        },
+        {
+          "name": "DR Congo",
+          "value": 102000000,
+          "unit": "hab.",
+          "img": "https://upload.wikimedia.org/wikipedia/commons/6/6f/Flag_of_the_Democratic_Republic_of_the_Congo.svg"
+        }
+      ],
+      "summary": "Approximate total population.",
+      "source": "https://es.wikipedia.org/wiki/Poblaci%C3%B3n_mundial"
+    },
+    {
+      "category": "Países",
+      "title": "Which country has a larger population?",
+      "items": [
+        {
+          "name": "Egypt",
+          "value": 110000000,
+          "unit": "hab.",
+          "img": "https://upload.wikimedia.org/wikipedia/commons/f/fe/Flag_of_Egypt.svg"
+        },
+        {
+          "name": "China",
+          "value": 1411000000,
+          "unit": "hab.",
+          "img": "https://upload.wikimedia.org/wikipedia/commons/f/fa/Flag_of_the_People%27s_Republic_of_China.svg"
+        }
+      ],
+      "summary": "Approximate total population.",
+      "source": "https://es.wikipedia.org/wiki/Poblaci%C3%B3n_mundial"
+    },
+    {
+      "category": "Países",
+      "title": "Which country has a larger population?",
+      "items": [
+        {
+          "name": "Mexico",
+          "value": 128000000,
+          "unit": "hab.",
+          "img": "https://upload.wikimedia.org/wikipedia/commons/f/fc/Flag_of_Mexico.svg"
+        },
+        {
+          "name": "Japan",
+          "value": 125000000,
+          "unit": "hab.",
+          "img": "https://upload.wikimedia.org/wikipedia/en/9/9e/Flag_of_Japan.svg"
+        }
+      ],
+      "summary": "Approximate total population.",
+      "source": "https://es.wikipedia.org/wiki/Poblaci%C3%B3n_mundial"
+    },
+    {
+      "category": "Países",
+      "title": "Which country has a larger population?",
+      "items": [
+        {
+          "name": "Ukraine",
+          "value": 36000000,
+          "unit": "hab.",
+          "img": "https://upload.wikimedia.org/wikipedia/commons/4/49/Flag_of_Ukraine.svg"
+        },
+        {
+          "name": "Italy",
+          "value": 59000000,
+          "unit": "hab.",
+          "img": "https://upload.wikimedia.org/wikipedia/en/0/03/Flag_of_Italy.svg"
+        }
+      ],
+      "summary": "Approximate total population.",
+      "source": "https://es.wikipedia.org/wiki/Poblaci%C3%B3n_mundial"
+    },
+    {
+      "category": "Países",
+      "title": "Which country has a larger population?",
+      "items": [
+        {
+          "name": "Pakistan",
+          "value": 240000000,
+          "unit": "hab.",
+          "img": "https://upload.wikimedia.org/wikipedia/commons/3/32/Flag_of_Pakistan.svg"
+        },
+        {
+          "name": "Brazil",
+          "value": 215000000,
+          "unit": "hab.",
+          "img": "https://upload.wikimedia.org/wikipedia/en/0/05/Flag_of_Brazil.svg"
+        }
+      ],
+      "summary": "Approximate total population.",
+      "source": "https://es.wikipedia.org/wiki/Poblaci%C3%B3n_mundial"
+    },
+    {
+      "category": "Países",
+      "title": "Which country has a larger population?",
+      "items": [
+        {
+          "name": "UK",
+          "value": 67000000,
+          "unit": "hab.",
+          "img": "https://upload.wikimedia.org/wikipedia/en/a/ae/Flag_of_the_United_Kingdom.svg"
+        },
+        {
+          "name": "Germany",
+          "value": 84000000,
+          "unit": "hab.",
+          "img": "https://upload.wikimedia.org/wikipedia/en/b/ba/Flag_of_Germany.svg"
+        }
+      ],
+      "summary": "Approximate total population.",
+      "source": "https://es.wikipedia.org/wiki/Poblaci%C3%B3n_mundial"
+    },
+    {
+      "category": "Países",
+      "title": "Which country has a larger population?",
+      "items": [
+        {
+          "name": "Philippines",
+          "value": 112000000,
+          "unit": "hab.",
+          "img": "https://upload.wikimedia.org/wikipedia/commons/9/99/Flag_of_the_Philippines.svg"
+        },
+        {
+          "name": "UK",
+          "value": 67000000,
+          "unit": "hab.",
+          "img": "https://upload.wikimedia.org/wikipedia/en/a/ae/Flag_of_the_United_Kingdom.svg"
+        }
+      ],
+      "summary": "Approximate total population.",
+      "source": "https://es.wikipedia.org/wiki/Poblaci%C3%B3n_mundial"
+    },
+    {
+      "category": "Países",
+      "title": "Which country has a larger population?",
+      "items": [
+        {
+          "name": "United States",
+          "value": 339000000,
+          "unit": "hab.",
+          "img": "https://upload.wikimedia.org/wikipedia/en/a/a4/Flag_of_the_United_States.svg"
+        },
+        {
+          "name": "Nigeria",
+          "value": 216000000,
+          "unit": "hab.",
+          "img": "https://upload.wikimedia.org/wikipedia/commons/7/79/Flag_of_Nigeria.svg"
+        }
+      ],
+      "summary": "Approximate total population.",
+      "source": "https://es.wikipedia.org/wiki/Poblaci%C3%B3n_mundial"
+    },
+    {
+      "category": "Países",
+      "title": "Which country has a larger population?",
+      "items": [
+        {
+          "name": "Ukraine",
+          "value": 36000000,
+          "unit": "hab.",
+          "img": "https://upload.wikimedia.org/wikipedia/commons/4/49/Flag_of_Ukraine.svg"
+        },
+        {
+          "name": "Bangladesh",
+          "value": 172000000,
+          "unit": "hab.",
+          "img": "https://upload.wikimedia.org/wikipedia/commons/f/f9/Flag_of_Bangladesh.svg"
+        }
+      ],
+      "summary": "Approximate total population.",
+      "source": "https://es.wikipedia.org/wiki/Poblaci%C3%B3n_mundial"
+    },
+    {
+      "category": "Países",
+      "title": "Which country has a larger population?",
+      "items": [
+        {
+          "name": "China",
+          "value": 1411000000,
+          "unit": "hab.",
+          "img": "https://upload.wikimedia.org/wikipedia/commons/f/fa/Flag_of_the_People%27s_Republic_of_China.svg"
+        },
+        {
+          "name": "Philippines",
+          "value": 112000000,
+          "unit": "hab.",
+          "img": "https://upload.wikimedia.org/wikipedia/commons/9/99/Flag_of_the_Philippines.svg"
+        }
+      ],
+      "summary": "Approximate total population.",
+      "source": "https://es.wikipedia.org/wiki/Poblaci%C3%B3n_mundial"
+    },
+    {
+      "category": "Tecnología",
+      "title": "Which mobile OS has a larger share?",
+      "items": [
+        {
+          "name": "Android",
+          "value": 70,
+          "unit": "%",
+          "img": "https://upload.wikimedia.org/wikipedia/commons/d/d7/Android_robot.svg"
+        },
+        {
+          "name": "iOS",
+          "value": 29,
+          "unit": "%",
+          "img": "https://upload.wikimedia.org/wikipedia/commons/c/ca/IOS_logo.svg"
+        }
+      ],
+      "summary": "Approximate global market share.",
+      "source": "https://en.wikipedia.org/wiki/Mobile_operating_system"
+    },
+    {
+      "category": "Tecnología",
+      "title": "Which browser has a larger share?",
+      "items": [
+        {
+          "name": "Google Chrome",
+          "value": 65,
+          "unit": "%",
+          "img": "https://upload.wikimedia.org/wikipedia/commons/8/87/Google_Chrome_icon_%28February_2022%29.svg"
+        },
+        {
+          "name": "Safari",
+          "value": 19,
+          "unit": "%",
+          "img": "https://upload.wikimedia.org/wikipedia/commons/5/52/Safari_browser_logo.svg"
+        }
+      ],
+      "summary": "Approximate market share.",
+      "source": "https://en.wikipedia.org/wiki/Usage_share_of_web_browsers"
+    }
+  ]
+}
